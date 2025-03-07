@@ -578,6 +578,22 @@ AI驅動的Pull Request審查助手，自動分析提交和PR，提供智能建�
 
 ---
 
+<!-- ### 文字MP3專業AI版 -->
+<h3 id="iqt-ai">文字MP3專業AI版</h3>
+![語音工具](https://img.shields.io/badge/-語音工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+
+**簡介**  
+一款AI文字轉語音工具，支援多語言與多種AI配音員，提供自動配音、背景音效添加與多種應用範本，適用於教育訓練、廣播、影片配音等場景。
+
+**基本資訊**
+- 🔗 官網：https://www.iqt.ai/textmp3-pro
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：台灣
+- 💰 計費方式：買斷, 訂閱, 點數/次數
+- 📋 價格方案：https://www.iqt.ai/price
+
+---
+
 <!-- ### Microsoft Copilot -->
 <h3 id="microsoft-copilot">Microsoft Copilot</h3>
 
