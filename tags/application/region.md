@@ -5,7 +5,7 @@
 
 以下是由台灣研發的應用工具：
 
-#### 
+#### 台灣 系列
 - [SparkAmplify](../../tools/application.md#sparkamplify) - 行銷工具 (美國、台灣)
 - [Super 8 AI](../../tools/application.md#super-8-ai) - 客服工具
 - [文字MP3專業AI版](../../tools/application.md#iqt-ai) - 語音工具
@@ -40,14 +40,13 @@
 - [scite](../../tools/application.md#scite) - 研究助手
 - [SparkAmplify](../../tools/application.md#sparkamplify) - 行銷工具 (美國、台灣)
 - [Microsoft Copilot](../../tools/application.md#microsoft-copilot) - AI助手
-
+- [Skybox AI](../../tools/application.md#skybox-ai) - 環景圖工具
 
 #### 歐洲 系列
 - [ElevenLabs](../../tools/application.md#elevenlabs) - 語音工具 (英國)
 - [Synthesia](../../tools/application.md#synthesia) - 影像工具 (英國)
 - [Cogram](../../tools/application.md#cogram) - 會議助手 (德國)
 
-#### 其他
+#### 其他 系列
 - [Speechify](../../tools/application.md#speechify) - 語音工具
 - [Qodo Merge](../../tools/application.md#qodo-merge) - 開發工具 (以色列)
-- [Skybox AI](../../tools/application.md#skybox-ai) - 環景圖工具
