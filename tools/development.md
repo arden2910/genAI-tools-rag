@@ -613,3 +613,53 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 
 **支援模型**
 - Azure OpenAI 服務所提供的模型
+
+---
+
+<!-- ### vLLM -->
+<h3 id="vllm">vLLM</h3>
+
+![開發框架](https://img.shields.io/badge/-開發框架-blue)
+![開源](https://img.shields.io/badge/-開源-green)
+![國際](https://img.shields.io/badge/-國際-orange)
+
+**簡介**  
+vLLM 是由加州大學柏克萊分校 LMSYS 團隊開發的開源高速推理框架，專為大型語言模型設計，旨在提升推理吞吐量與記憶體使用效率。
+
+**基本資訊**
+- 🔗 官網：https://docs.vllm.ai/
+- 🤖 開源連結：https://github.com/vllm-project/vllm
+- 💻 API支援：❌ 不提供
+- 💰 計費方式：免費
+- 🌐 研發據點：美國
+
+**特色功能**
+- PagedAttention 技術
+- 高Throughput
+- 靈活的批處理
+- 可與 Hugging Face 等開源模型架構無縫整合
+
+---
+
+<!-- ### Dify.Ai -->
+<h3 id="difyai">Dify.Ai</h3>
+
+![開發框架](https://img.shields.io/badge/-開發框架-blue)
+![開源](https://img.shields.io/badge/-開源-green)
+![國際](https://img.shields.io/badge/-國際-orange)
+
+**簡介**  
+Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了後端即服務（BaaS）和 LLMOps 的理念，旨在幫助開發者和企業快速構建、部署和管理基於 LLM 的生成式 AI 應用。 ​
+
+**基本資訊**
+- 🔗 官網：https://dify.ai/
+- 🤖 開源連結：https://github.com/langgenius/dify
+- 💻 API支援：❌ 不提供
+- 💰 計費方式：免費 + 依專案
+- 📋 價格方案：https://dify.ai/pricing
+- 🌐 研發據點：美國
+
+**特色功能**
+- 支援多種大型語言模型
+- 高效的 RAG 引擎
+- 零程式碼建構自主 AI Agent

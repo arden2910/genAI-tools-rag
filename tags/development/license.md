@@ -12,6 +12,8 @@
 - [LlamaIndex.TS](../../tools/development.md#llamaindexts) - RAG應用框架TypeScript版本
 - [Haystack](../../tools/development.md#haystack) - AI編排(orchestration)框架
 - [Ollama](../../tools/development.md#ollama) - 本地模型運行框架
+- [vLLM](../../tools/development.md#vllm) - 本地模型運行框架
+- [Dify.Ai](../../tools/development.md#difyai) - AI應用框架
 
 #### 低代碼平台
 - [FlowiseAI](../../tools/development.md#flowiseai) - AI工作流構建

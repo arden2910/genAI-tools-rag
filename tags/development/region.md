@@ -43,6 +43,8 @@
 - [LangGraph](../../tools/development.md#langgraph)
 - [Ollama](../../tools/development.md#ollama)
 - [FlowiseAI](../../tools/development.md#flowiseai)
+- [vLLM](../../tools/development.md#vllm)
+- [Dify.Ai](../../tools/development.md#difyai)
 
 #### 歐洲 系列
 - [Quivr](../../tools/development.md#quivr) (法國)
