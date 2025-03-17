@@ -663,3 +663,95 @@ Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了
 - 支援多種大型語言模型
 - 高效的 RAG 引擎
 - 零程式碼建構自主 AI Agent
+
+---
+
+<!-- ### promptfoo -->
+<h3 id="promptfoo">promptfoo</h3>
+
+![開源](https://img.shields.io/badge/-開源-green)
+![國際](https://img.shields.io/badge/-國際-orange)
+
+**簡介**
+一個專為提示工程師設計的開源工具，旨在評估和比較大型語言模型（LLMs）的提示效果。通過 promptfoo，使用者可以批量測試提示，並根據模型回應的質量和一致性進行評估，從而優化提示設計，提高模型輸出的可靠性。
+
+**基本資訊**
+- 🔗 官網：https://www.promptfoo.dev/
+- 🤖 開源連結：https://github.com/promptfoo/promptfoo
+- 💻 API支援：❌ 不提供
+- 💰 計費方式：免費
+- 🌐 研發據點：美國
+
+**特色功能**
+- 提示評估框架
+- 自動化提示測試
+- 與 CI/CD 管道整合
+
+---
+
+<!-- ### Purple Llama -->
+<h3 id="purple-llama">Purple Llama</h3>
+
+![開源](https://img.shields.io/badge/-開源-green)
+![國際](https://img.shields.io/badge/-國際-orange)
+
+**簡介**
+Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方法，評估並降低大型語言模型的風險，以促進生成式 AI 的安全與負責任發展。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/trust-and-safety/
+- 🤖 開源連結：https://github.com/meta-llama/PurpleLlama
+- 💻 API支援：❌ 不提供
+- 💰 計費方式：免費
+- 🌐 研發據點：美國
+
+**特色功能**
+- 網絡安全評估
+- Llama Guard 防止生成不安全內容
+
+---
+
+<!-- ### RAGAS -->
+<h3 id="ragas">RAGAS</h3>
+
+![開源](https://img.shields.io/badge/-開源-green)
+![國際](https://img.shields.io/badge/-國際-orange)
+
+**簡介**  
+一種用於評估檢索增強生成（RAG）系統性能的指標。RAGAS 通過衡量檢索階段和生成階段的質量，提供對 RAG 系統的全面評估，幫助開發者改進模型的檢索和生成能力。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/trust-and-safety/
+- 🤖 開源連結：https://github.com/explodinggradients/ragas
+- 💻 API支援：❌ 不提供
+- 💰 計費方式：免費
+- 🌐 研發據點：美國
+
+**特色功能**
+- 同時評估檢索階段與生成階段的效能
+- 提供全面且客觀的 RAG 系統評估指標
+- 有助於優化檢索與生成流程
+
+---
+
+<!-- ### Evidently -->
+<h3 id="evidently">Evidently</h3>
+
+![開源](https://img.shields.io/badge/-開源-green)
+![國際](https://img.shields.io/badge/-國際-orange)
+
+**簡介**  
+​一個開源的機器學習模型監控工具，旨在幫助開發者和數據科學家追蹤模型的性能和數據漂移。Evidently 提供直觀的報告和儀表板，讓使用者能夠及時發現模型問題，確保模型在生產環境中的穩定性和可靠性。
+
+**基本資訊**
+- 🔗 官網：https://www.evidentlyai.com/
+- 🤖 開源連結：https://github.com/evidentlyai/evidently
+- 💻 API支援：❌ 不提供
+- 💰 計費方式：免費 + 依專案
+- 📋 價格方案：
+- 🌐 研發據點：美國
+
+**特色功能**
+- 直觀的報告與儀表板
+- 實時追蹤數據漂移
+- 支援多維度指標分析

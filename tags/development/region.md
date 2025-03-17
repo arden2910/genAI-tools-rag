@@ -45,6 +45,10 @@
 - [FlowiseAI](../../tools/development.md#flowiseai)
 - [vLLM](../../tools/development.md#vllm)
 - [Dify.Ai](../../tools/development.md#difyai)
+- [promptfoo](../../tools/development.md#promptfoo) - 測試框架
+- [PurpleLlama](../../tools/development.md#purple-llama) - 安全性工具
+- [RAGAS](../../tools/development.md#ragas) - LLM應用評估工具
+- [Evidently](../../tools/development.md#evidently) - AI應用評估工具
 
 #### 歐洲 系列
 - [Quivr](../../tools/development.md#quivr) (法國)

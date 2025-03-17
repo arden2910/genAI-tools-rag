@@ -29,6 +29,12 @@
 - [Jan](../../tools/development.md#jan)
 - [Quivr](../../tools/development.md#quivr)
 
+#### 測試/評估/監控工具
+- [promptfoo](../../tools/development.md#promptfoo) - 測試框架
+- [PurpleLlama](../../tools/development.md#purple-llama) - 安全性工具
+- [RAGAS](../../tools/development.md#ragas) - LLM應用評估工具
+- [Evidently](../../tools/development.md#evidently) - AI應用評估工具
+
 ---
 
 <!-- ### 閉源 -->
