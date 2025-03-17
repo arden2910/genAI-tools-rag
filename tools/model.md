@@ -314,3 +314,51 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 **計費方式**
 - 免費，依長度計費
 - 詳細價格：[Pricing](https://platform.openai.com/docs/pricing)
+
+---
+
+<!-- ### Llama-Breeze2 3B -->
+<h3 id="llama-breeze2-3b">Llama-Breeze2 3B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green) ![免費](https://img.shields.io/badge/-免費-yellow)
+
+**簡介**  
+​由聯發創新基地開發，基於 Llama 3.2 3B 進行微調的繁體中文多模態語言模型，專為行動裝置或資源受限的情境設計，具備繁體中文優化、多模態理解（文字與圖像）以及函式呼叫功能，提升模型在繁體中文環境下的應用能力。 
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/MediaTek-Research/breeze-2-family-67863158443a06a72dd29900
+- 🤖 開源連結：[Link](hhttps://huggingface.co/MediaTek-Research/Llama-Breeze2-3B-Instruct)
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<!-- ### Llama-Breeze2 8B -->
+<h3 id="llama-breeze2-8b">Llama-Breeze2 8B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green) ![免費](https://img.shields.io/badge/-免費-yellow)
+
+**簡介**  
+由聯發創新基地開發，基於 Llama 3.1 8B 進行微調的繁體中文多模態語言模型，適用於個人電腦等運算平台。該模型不僅強化了繁體中文的理解能力，還具備多模態處理（文字與圖像）及函式呼叫功能，為繁體中文應用提供強大的支持。 
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/MediaTek-Research/breeze-2-family-67863158443a06a72dd29900
+- 🤖 開源連結：[Link](https://huggingface.co/MediaTek-Research/Llama-Breeze2-8B-Instruct)
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<!-- ### BreezyVoice -->
+<h3 id="breezy-voice">BreezyVoice</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green) ![免費](https://img.shields.io/badge/-免費-yellow)
+
+**簡介**  
+​​由聯發創新基地推出的語音合成模型，針對台灣國語進行優化。該模型採用輕量化架構，僅需輸入5到15秒的原始聲音，即可精準複製說話者的聲音，包括語氣、抑揚頓挫和口音，適用於需要自然語音輸出的應用場景。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/MediaTek-Research/breeze-2-family-67863158443a06a72dd29900
+- 🤖 開源連結：[Link](https://huggingface.co/MediaTek-Research/BreezyVoice)
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國

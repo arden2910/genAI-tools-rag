@@ -15,6 +15,9 @@
 - [Llama 3.2 11B or 90B, 1B or 3B](../../tools/model.md#llama-3-2)
 - [Llama 3.1 405B](../../tools/model.md#llama-3-1-405b)
 - [Whisper](../../tools/model.md#whisper)
+- [Llama-Breeze2 3B](../../tools/model.md#llama-breeze2-3b)
+- [Llama-Breeze2 8B](../../tools/model.md#llama-breeze2-8b)
+- [BreezyVoice](../../tools/model.md#breezy-voice)
 
 ---
 
