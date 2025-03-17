@@ -259,7 +259,7 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 **基本資訊**
 - 🔗 官網：https://www.llama.com/
-- 🤖 開源連結：[Link](https://huggingface.co/meta-llama/Llama-3.3-70B...) 
+- 🤖 開源連結：[Link](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) 
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 
@@ -275,7 +275,7 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 **基本資訊**
 - 🔗 官網：https://www.llama.com/
-- 🤖 開源連結：[Link](https://huggingface.co/meta-llama/Llama-3.2-90...)
+- 🤖 開源連結：[Link](https://huggingface.co/meta-llama/Llama-3.2-90B-Vision-Instruct)
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 
@@ -307,7 +307,7 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 **基本資訊**
 - 🔗 官網：https://github.com/openai/whisper
-- 🤖 開源連結：[Link](https://huggingface.co/openai/whisper-large-v3...)
+- 🤖 開源連結：[Link](https://huggingface.co/collections/openai/whisper-release-6501bba2cf999715fd953013)
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 
