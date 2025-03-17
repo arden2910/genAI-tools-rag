@@ -15,6 +15,7 @@
 - [BRONCI](../../tools/application.md#bronci) - 語音辨識
 - [Studio](../../tools/application.md#studio) - 語音工具
 - [STT Service](../../tools/application.md#stt-service) - 語音辨識
+- [Freego 法樂多](../../tools/application.md#freego) - 合約工具
 
 ---
 

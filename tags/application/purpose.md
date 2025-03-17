@@ -129,3 +129,4 @@
 - [Microsoft Copilot](../../tools/application.md#microsoft-copilot) - 協作工具
 - [AISKM](../../tools/application.md#aiskm) -️ 企業知識庫
 - [Vitals ESP GenAI](../../tools/application.md#vitals-esp-genai) - 知識系統
+- [Freego 法樂多](../../tools/application.md#freego) - 合約工具

@@ -789,3 +789,20 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 - 🌐 研發據點：國際
 - 💰 計費方式：訂閱, 次數
 - 📋 價格方案：https://skybox.blockadelabs.com/membership, https://skybox.blockadelabs.com/api-membership
+
+---
+
+<!-- ### Freego 法樂多 -->
+<h3 id="freego">Freego 法樂多</h3>
+
+![合約工具](https://img.shields.io/badge/-環景圖工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-blue) 
+
+**簡介**  
+由律果科技推出的 AI 法務助理解決方案，主要針對合約審查、草擬以及合約管理等法律文件工作進行自動化處理。該產品利用 ChatGPT 技術，協助用戶自動分析與生成法律文件，從而提升工作效率並降低法律風險。
+
+**基本資訊**
+- 🔗 官網：https://legalsign.ai/business/assistant
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：台灣
+- 💰 計費方式：免費, 依專案
+- 📋 價格方案：https://legalsign.ai/price
