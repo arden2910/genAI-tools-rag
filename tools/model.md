@@ -255,7 +255,7 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**  
-由 Meta 開發的多國語言大型語言模型，具備先進的語言理解與生成能力。（請補充完整描述）
+由Meta開發的多國語言大型語言模型。該模型在多任務語言理解、財務、數學和推理等基準測試中，性能超越了 Llama 3.1 405B參數模型。
 
 **基本資訊**
 - 🔗 官網：https://www.llama.com/
@@ -271,7 +271,7 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**  
-由 Meta 開發的多模態 AI 模型，提供多種參數規模以滿足不同應用需求。（請補充完整描述）
+由Meta開發的多模態AI模型。能夠同時處理文本和圖像輸入，適用於圖像識別、圖像推理等任務。輕量級模型經過優化，可在行動裝置和邊緣設備上高效運行。
 
 **基本資訊**
 - 🔗 官網：https://www.llama.com/
@@ -287,7 +287,7 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**  
-由 Meta 開發的多國語言大型語言模型，擁有極長的上下文處理能力。（請補充完整描述）
+由Meta開發的多國語言大型語言模型。該模型的上下文長度達到 128K tokens，適用於長文本生成、多語言翻譯、代碼生成等任務。
 
 **基本資訊**
 - 🔗 官網：https://www.llama.com/
@@ -303,7 +303,7 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green) ![免費](https://img.shields.io/badge/-免費-yellow)
 
 **簡介**  
-由 OpenAI 開發的自動語音辨識(ASR)系統，經過大規模多語言、多任務訓練，能夠提供高準確度的語音轉文字服務。（請補充完整描述）
+由 OpenAI 開發的自動語音辨識(ASR)系統。該模型經過 68 萬小時的多語言和多任務監督數據訓練，能夠辨識 57種語言的語音。
 
 **基本資訊**
 - 🔗 官網：https://github.com/openai/whisper
