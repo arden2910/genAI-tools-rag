@@ -49,6 +49,7 @@
 - [PurpleLlama](../../tools/development.md#purple-llama) - 安全性工具
 - [RAGAS](../../tools/development.md#ragas) - LLM應用評估工具
 - [Evidently](../../tools/development.md#evidently) - AI應用評估工具
+- [Composio](../../tools/development.md#composio) - AI代理平台
 
 #### 歐洲 系列
 - [Quivr](../../tools/development.md#quivr) (法國)

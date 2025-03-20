@@ -755,3 +755,28 @@ Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方
 - 直觀的報告與儀表板
 - 實時追蹤數據漂移
 - 支援多維度指標分析
+
+---
+
+<!-- ### Composio -->
+<h3 id="composio">Composio</h3>
+
+![開源](https://img.shields.io/badge/-開源-green)
+![國際](https://img.shields.io/badge/-國際-orange)
+
+**簡介**  
+是一個為 AI 代理提供生產就緒工具集的平台，集成了超過 250 種工具，包括 GitHub、Notion、Gmail、Slack 等，並支援多種框架和身份驗證協議，旨在簡化 AI 應用的開發和部署。
+
+**基本資訊**
+- 🔗 官網：https://composio.dev/
+- 🤖 開源連結：https://github.com/ComposioHQ/composio
+- 💻 API支援：✅ 提供
+- 💰 計費方式：免費 + 依專案
+- 📋 價格方案：https://composio.dev/pricing/
+- 🌐 研發據點：美國
+
+**特色功能**
+- 提供多種框架支援，如 OpenAI、LangChain、Autogen。
+- 集成超過 250 種工具，包括 GitHub、Notion、Gmail、Slack。
+- 支援多種協議的托管身份驗證。
+- 允許自訂工具和擴充套件。

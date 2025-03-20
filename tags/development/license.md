@@ -18,6 +18,7 @@
 #### 低代碼平台
 - [FlowiseAI](../../tools/development.md#flowiseai) - AI工作流構建
 - [LangFlow](../../tools/development.md#langflow) - RAG應用構建
+- [Composio](../../tools/development.md#composio) - AI代理平台
 
 #### 向量資料庫
 - [Chroma](../../tools/development.md#chroma)
