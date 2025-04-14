@@ -29,22 +29,22 @@
 <!-- ### Gamma -->
 <h3 id="gamma">Gamma</h3>
 
-![簡報工具](https://img.shields.io/badge/-簡報工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![簡報工具](https://img.shields.io/badge/-簡報工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-創建簡報、文檔和網站的AI工具。輸入主題、主旨或部分內容，即可生成專業設計的模板和視覺效果。
+**簡介**
+創建簡報、文檔和網站。輸入主題、主旨或部分內容，生成專業設計的模板和視覺效果。
 
 **基本資訊**
 - 🔗 官網：https://gamma.app
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://gamma.app/pricing
 
 **使用模型**
-- Claude (Anthropic)
-- ChatGPT + DALL-E (OpenAI)
-- Gemini + Imagen (Google)
+- Claude
+- ChatGPT + DALL-E
+- Gemini + Imagen
 - Flux
 - Stable Diffusion
 - Playground
@@ -55,16 +55,16 @@
 <!-- ### ElevenLabs -->
 <h3 id="elevenlabs">ElevenLabs</h3>
 
-![語音工具](https://img.shields.io/badge/-語音工具-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![語音工具](https://img.shields.io/badge/-語音工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-高品質語音生成工具，能模擬任何語音、風格和語言，並具備人類語調與語氣的自然呈現。
+**簡介**
+功能包括高品質語音生成，能模擬任何語音、風格和語言，並具備人類語調與語氣的自然呈現。語音輸出會根據文本內容進行調整，使結果更加生動自然。同時，系統支持從文本轉換為語音，以及AI配音，讓跨語言溝通變得更加容易。此外，AI語音生成工具還可以幫助那些失去聲音的人恢復語音，並以低延遲提供實時語音生成服務。這些工具適用於日常用戶、專業人士和企業，幫助提升內容創作的品質、增強用戶保留率和促進更自然的客戶互動，進而提高創造力、生產力和無障礙性。
 
 **基本資訊**
 - 🔗 官網：https://elevenlabs.io
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：英國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://elevenlabs.io/pricing
 
 **特色功能**
@@ -79,17 +79,23 @@
 <!-- ### Phind -->
 <h3 id="phind">Phind</h3>
 
-![開發助手](https://img.shields.io/badge/-開發助手-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![開發助手](https://img.shields.io/badge/-開發助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-為開發者打造的AI搜尋引擎，可針對技術名詞產生相關程式碼，並提供參考資料或透過讀取網頁內容回答開發者技術性問題。
+**簡介**
+為開發者打造的AI搜尋引擎，可針對技術名詞產生相關程式碼，並提供參考資料或透過讀取網頁內容回答開發者技術性問題。Phind 可作為擴充套件安裝於 Visual Studio Code 中，讓開發者在編輯器內直接進行技術查詢。此外，透過 Answer Profile 功能允許使用者根據自身背景和偏好設計回答風格，提升使用體驗。
 
 **基本資訊**
 - 🔗 官網：https://www.phind.com/
-- 💻 API支援：✅ 提供(非官方)
+- 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://www.phind.com/plans
+
+**特色功能**
+- VSCode擴充整合
+- Answer Profile客製化
+- 技術文檔搜索
+- 程式碼生成
 
 **使用模型**
 - Phind-405B
@@ -98,27 +104,21 @@
 - Claude 3.5 Sonnet
 - Claude Opus
 
-**特色功能**
-- VSCode擴充整合
-- Answer Profile客製化
-- 技術文檔搜索
-- 程式碼生成
-
 ---
 
 <!-- ### Synthesia -->
 <h3 id="synthesia">Synthesia</h3>
 
-![影像工具](https://img.shields.io/badge/-影像工具-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![影像工具](https://img.shields.io/badge/-影像工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-虛擬人像(AI Avatar)的影像生成工具，使用者可以利用平台預生成的AI人像或AI影片編輯工具創建自己的數位形象並透過文字敘述產生個人形象宣傳影片。
+**簡介**
+虛擬人像(AI Avatar)的影像生成工具，使用者可以利用平台預生成的AI人像或的 AI 影片編輯工具創建自己的數位形象並透過文字敘述產生個人形象宣傳影片。Synthesia 的語音數據庫包括多種性別選項，並支持超過六十種語言。
 
 **基本資訊**
 - 🔗 官網：https://www.synthesia.io/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：英國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.synthesia.io/pricing
 
 **特色功能**
@@ -132,16 +132,17 @@
 <!-- ### Wordtune -->
 <h3 id="wordtune">Wordtune</h3>
 
-![寫作助手](https://img.shields.io/badge/-寫作助手-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![寫作助手](https://img.shields.io/badge/-寫作助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-智能閱讀和寫作助手工具，能夠修正語法錯誤、理解上下文和意義、建議改寫或替代寫作語氣，並根據上下文生成文本。
+**簡介**
+一種閱讀和寫作助手工具，能夠修正語法錯誤、理解上下文和意義、建議改寫或替代寫作語氣，並根據上下文生成文本。使用方式如下：1. 輸入文案內容，選擇需要被改良的部分，能自動校正語法和拼寫錯誤，並由 AI 進行擴/縮寫、續寫、找替換字、改變風格等
+ 2. 提供 YouTube 影片網址，由 AI 擷取大意
 
 **基本資訊**
 - 🔗 官網：https://www.wordtune.com/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://www.wordtune.com/plans
 
 **特色功能**
@@ -156,16 +157,16 @@
 <!-- ### HyperWrite -->
 <h3 id="hyperwrite">HyperWrite</h3>
 
-![寫作助手](https://img.shields.io/badge/-寫作助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![寫作助手](https://img.shields.io/badge/-寫作助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-多功能AI寫作工具，提供數百種不同風格類型的寫作支援，能根據不同需求幫助使用者提升寫作品質。
+**簡介**
+有數百種不同風格類型的AI寫作工具，無論是吸引人的講稿標題或是有說服力的電子郵件，能根據不同需求幫助使用者提升寫作品質。
 
 **基本資訊**
 - 🔗 官網：https://www.hyperwriteai.com/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.hyperwriteai.com/pricing
 
 **使用模型**
@@ -178,20 +179,17 @@
 <!-- ### Mem -->
 <h3 id="mem">Mem</h3>
 
-![筆記工具](https://img.shields.io/badge/-筆記工具-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![筆記工具](https://img.shields.io/badge/-筆記工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-AI驅動的智能筆記應用工具，能從大量資訊中提取答案、總結會議筆記、根據筆記內容撰寫文稿。
+**簡介**
+一種AI筆記應用工具。Mem Chat 能從大量資訊中抓出答案、總結會議筆記、根據筆記內容撰寫文稿。AI 會協助分類筆記，並自動顯示與當前工作相關的筆記，簡化整理、標籤、分類的工作。需要檢視特定筆記時，可使用搜索功能讓 AI 協助找到所需筆記。
 
 **基本資訊**
 - 🔗 官網：https://get.mem.ai/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://get.mem.ai/pricing
-
-**使用模型**
-- GPT-4
 
 **特色功能**
 - 智能筆記分類
@@ -199,25 +197,25 @@ AI驅動的智能筆記應用工具，能從大量資訊中提取答案、總結
 - AI輔助搜索
 - 會議筆記總結
 
+**使用模型**
+- GPT-4
+
 ---
 
 <!-- ### Rewind -->
 <h3 id="rewind">Rewind</h3>
 
-![個人助理](https://img.shields.io/badge/-個人助理-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![個人助理](https://img.shields.io/badge/-個人助理-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-個人電腦AI助理，在背景執行錄製螢幕畫面與音訊，幫助使用者追蹤和檢索過去的活動記錄，支援自然語言搜索和會議摘要生成。
+**簡介**
+一種安裝在使用者電腦的個人助理，可在背景執行錄製螢幕畫面與音訊，幫助使用者追蹤和檢索過去的活動記錄。使用者可透過自然語言搜索，復原沒有儲存的工作進度、自動生成會議摘要，配合 GPT-4處理各項工作、總結資訊等。因為記錄所有活動，可完成個人化工作（如用適當的語氣撰寫內容正確的電子郵件給特定收件人。）
 
 **基本資訊**
 - 🔗 官網：https://www.rewind.ai/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：遠距(美國、加拿大)
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://www.rewind.ai/pricing
-
-**使用模型**
-- GPT-4
 
 **特色功能**
 - 本地資料儲存
@@ -226,21 +224,24 @@ AI驅動的智能筆記應用工具，能從大量資訊中提取答案、總結
 - 自然語言搜索
 - 工作進度復原
 
+**使用模型**
+- GPT-4
+
 ---
 
 <!-- ### Cogram -->
 <h3 id="cogram">Cogram</h3>
 
-![會議助手](https://img.shields.io/badge/-會議助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![會議助手](https://img.shields.io/badge/-會議助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-專為專案和客戶工作設計的AI會議助手，能自動生成會議記錄、狀態更新、追蹤行動項目並提供摘要。
+**簡介**
+一個專為專案和客戶工作而設計的AI工具，能自動生成會議記錄、狀態更新、追蹤行動項目並提供摘要。可以整合電子郵件、為虛擬及實體會議做會議記錄、追蹤關鍵決策和行動項目。支持 Zoom、Microsoft Teams 和 Google Meet 等平台串接，並能整合 Outlook、Gmail 和 CRM 系統。
 
 **基本資訊**
 - 🔗 官網：https://www.cogram.com/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：德國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.cogram.com/pricing
 
 **整合平台**
@@ -256,16 +257,16 @@ AI驅動的智能筆記應用工具，能從大量資訊中提取答案、總結
 <!-- ### Sybill -->
 <h3 id="sybill">Sybill</h3>
 
-![銷售助手](https://img.shields.io/badge/-銷售助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![銷售助手](https://img.shields.io/badge/-銷售助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-專為銷售團隊設計的AI助手，主要功能是分析銷售通話、生成會議摘要、自動更新CRM系統。
+**簡介**
+一種專為銷售團隊設計的 AI 助手。主要功能是分析銷售通話、生成會議摘要、自動更新 CRM 系統、將通話記錄自動整理為摘要，並提供有關客戶互動的見解。
 
 **基本資訊**
 - 🔗 官網：https://www.sybill.ai/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.sybill.ai/pricing
 
 **特色功能**
@@ -280,16 +281,16 @@ AI驅動的智能筆記應用工具，能從大量資訊中提取答案、總結
 <!-- ### Elicit -->
 <h3 id="elicit">Elicit</h3>
 
-![研究助手](https://img.shields.io/badge/-研究助手-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![研究助手](https://img.shields.io/badge/-研究助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-為研究人員設計的AI工具，用於加速文獻回顧、系統性評論和數據提取等學術研究工作。
+**簡介**
+一種為研究人員設計的 AI 工具，用於加速文獻回顧、系統性評論和數據提取等。透過 AI 生成模型搜尋和篩選大量學術論文，自動分析重要內容觀點，幫助研究人員整理及總結文獻資料。
 
 **基本資訊**
 - 🔗 官網：https://elicit.com/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://elicit.com/#Pricing
 
 **特色功能**
@@ -304,16 +305,22 @@ AI驅動的智能筆記應用工具，能從大量資訊中提取答案、總結
 <!-- ### Compose AI -->
 <h3 id="compose-ai">Compose AI</h3>
 
-![寫作助手](https://img.shields.io/badge/-寫作助手-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![寫作助手](https://img.shields.io/badge/-寫作助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用戶快速生成內容，提升寫作效率。
+**簡介**
+一款Chrome擴充套件的寫作助手，旨在提升使用者的寫作效率和內容品質，可以在多個平台上即時提供文本建議，幫助用戶快速生成內容。
+ 主要功能如下：
+ 智能自動補全：根據上下文提供即時的單字和句子建議，幫助使用者節省打字時間。
+ 個性化寫作風格：隨著使用時間的增加，Compose AI 會學習用戶的寫作風格，提供更符合個人需求的建議。
+ 多平台整合：支援 Gmail、Google Docs 等多個應用，無縫融入使用者的日常工作流程。
+ 段落生成：幫助使用者克服寫作障礙，自動生成完整段落。
+ 標題生成器：快速創建吸引人的標題和主題。
 
 **基本資訊**
 - 🔗 官網：https://www.compose.ai/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://www.compose.ai/pricing
 
 **特色功能**
@@ -333,20 +340,17 @@ Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用�
 <!-- ### Consensus -->
 <h3 id="consensus">Consensus</h3>
 
-![研究助手](https://img.shields.io/badge/-研究助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![研究助手](https://img.shields.io/badge/-研究助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-專業的文獻搜尋工具，用於搜尋和解析學術研究，透過NLP技術快速獲得來自學術文章的共識或結果。
+**簡介**
+一種文獻搜尋工具，用來搜尋和解析學術研究。使用者可以詢問問題，透過NLP技術快速獲得來自學術文章的共識或結果，從而節省閱讀及分析多篇文獻的時間。
 
 **基本資訊**
 - 🔗 官網：https://consensus.app/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://consensus.app/home/pricing/?pro=on
-
-**使用模型**
-- GPT-4
 
 **特色功能**
 - 學術文獻搜索
@@ -354,21 +358,24 @@ Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用�
 - 共識提取
 - 快速文獻綜述
 
+**使用模型**
+- GPT-4
+
 ---
 
 <!-- ### Merlin -->
 <h3 id="merlin">Merlin</h3>
 
-![瀏覽助手](https://img.shields.io/badge/-瀏覽助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![瀏覽助手](https://img.shields.io/badge/-瀏覽助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-將GPT的自然語言處理能力整合到網頁瀏覽中，協助使用者快速生成文案、回應郵件、進行研究等。
+**簡介**
+將 GPT 的自然語言處理能力整合到網頁瀏覽中，幫助使用者在網頁上快速生成文案、回應電子郵件、進行研究、撰寫報告，並回答查詢。
 
 **基本資訊**
 - 🔗 官網：https://www.getmerlin.in/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.getmerlin.in/pricing
 
 **使用模型**
@@ -385,19 +392,19 @@ Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用�
 
 ---
 
-<!--### Describely -->
+<!-- ### Describely -->
 <h3 id="describely">Describely</h3>
 
-![行銷助手](https://img.shields.io/badge/-行銷助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![行銷助手](https://img.shields.io/badge/-行銷助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-針對電子商務產品行銷內容生成的AI工具，幫助快速生成商品描述、標題等，適合內容創作者、自媒體經營者或行銷團隊使用。
+**簡介**
+一種針對電子商務產品行銷內容生成的AI工具，使用者透過輸入簡單的提示，Describely 會生成各種（如部落格、社交媒體、廣告）文案，幫助快速生成商品描述、標題等，為內容創作者、自媒體經營者或行銷團隊生成創意文案。
 
 **基本資訊**
 - 🔗 官網：https://describely.ai/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://knowledge-base.describely.ai/change-your-plan
 
 **特色功能**
@@ -412,20 +419,23 @@ Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用�
 <!-- ### AI2sql -->
 <h3 id="ai2sql">AI2sql</h3>
 
-![資料庫工具](https://img.shields.io/badge/-資料庫工具-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![資料庫工具](https://img.shields.io/badge/-資料庫工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-基於AI的SQL查詢生成工具，使用者透過自然語言即可迅速生成SQL語法，支援多種資料庫系統。
+**簡介**
+一種基於 AI 的 SQL 查詢生成工具，使用者不須理解太多資料庫查詢知識就能透過自然語言迅速生成SQL語法。此外，AI2sql 具備語法美化功能，以提高可讀性，避免語法錯誤。AI2sql 支援多種資料庫系統，如 MySQL、SQL Server、PostgreSQL、Oracle Cloud、Azure SQL 資料庫、MongoDB、Google BigQuery 和 Snowflake。
 
 **基本資訊**
 - 🔗 官網：https://ai2sql.io/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://app.ai2sql.io/?section=pricing
 
-**使用模型**
-- OpenAI API
+**特色功能**
+- 自然語言轉SQL
+- 語法美化
+- 多資料庫支援
+- 錯誤檢查
 
 **支援資料庫**
 - MySQL
@@ -437,28 +447,23 @@ Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用�
 - Google BigQuery
 - Snowflake
 
-**特色功能**
-- 自然語言轉SQL
-- 語法美化
-- 多資料庫支援
-- 錯誤檢查
-
 ---
 
 <!-- ### Speechify -->
 <h3 id="speechify">Speechify</h3>
 
-![語音工具](https://img.shields.io/badge/-語音工具-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![語音工具](https://img.shields.io/badge/-語音工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-文字轉語音工具，能將文件、網頁、PDF等內容轉換為AI生成的語音內容。
+**簡介**
+文字轉語音工具，能將文件、網頁、PDF 等內容讀出來，以 AI 生成的聲音播放。
 
 **基本資訊**
 - 🔗 官網：https://speechify.com/
+- 🤖 開源連結：https://github.com/SpeechifyInc
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：無特別標示
-- 💰 計費方式：訂閱制
-- 📋 價格方案：https://speechify.com/pricing/
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://speechify.com/pricing/?utm_campaign=partners&utm_content=rewardful&via=homepage&gad_source=1
 
 **特色功能**
 - 多格式文件支援
@@ -472,16 +477,16 @@ Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用�
 <!-- ### scite -->
 <h3 id="scite">scite</h3>
 
-![研究助手](https://img.shields.io/badge/-研究助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![研究助手](https://img.shields.io/badge/-研究助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-專為學術研究設計的AI工具，協助研究人員和分析師快速獲取相關研究的背景資料，評估研究可靠性。
+**簡介**
+專為學術研究設計的 AI 工具，能幫助研究人員和分析師在撰寫報告、進行市場調查及制定決策時快速獲取相關研究的背景資料。透過 AI 支援的引用功能，Scite 更有效地評估每份研究的可靠性，確保引用內容有據可依。Scite 還提供與其他研究管理工具（如 Zotero）的插件整合，使其無縫融入現有的工作流程。此外，Scite 能分析並整理學術論文的引用情境，幫助用戶判斷該論文是否適合被支持、反駁或引用，快速了解其學術影響。
 
 **基本資訊**
 - 🔗 官網：https://scite.ai/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://scite.ai/pricing
 
 **特色功能**
@@ -496,44 +501,48 @@ Chrome擴充套件形式的寫作助手，提供即時文本建議，幫助用�
 <!-- ### Qodo Merge -->
 <h3 id="qodo-merge">Qodo Merge</h3>
 
-![開發工具](https://img.shields.io/badge/-開發工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![開發工具](https://img.shields.io/badge/-開發工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-AI驅動的Pull Request審查助手，自動分析提交和PR，提供智能建議和改進方案。
+**簡介**
+一種幫助開發者更快、更高效地審查 Pull Request (PR) 的AI代理工具。它會自動分析提交和 PR，並提供：
+ -自動描述：自動生成 PR 描述，包括名稱、類型、摘要和代碼演示。
+ -PR 審查：提供關於 PR 主題、類型、相關測試、安全問題、重點 PR 以及各種建議的反饋。
+ -問題解答：回答關於 PR 的自由文本問題。
+ -代碼建議：提供可提交的程式碼建議以改進 PR。
 
 **基本資訊**
 - 🔗 官網：https://www.qodo.ai/products/git-plugin/
 - 🤖 開源連結：https://github.com/Codium-ai/pr-agent#Quickstart
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：以色列
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://www.qodo.ai/pricing/
 
-**使用模型**
-- GPT-4
-
-**核心功能**
+**特色功能**
 - 自動PR描述生成
 - 代碼審查反饋
 - 安全問題檢測
 - 代碼改進建議
 - 智能問答支援
 
+**使用模型**
+- GPT-4
+
 ---
 
 <!-- ### SparkAmplify -->
 <h3 id="sparkamplify">SparkAmplify</h3>
 
-![行銷工具](https://img.shields.io/badge/-行銷工具-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![行銷工具](https://img.shields.io/badge/-行銷工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-基於AI的公關與媒體關係平台，協助企業自動化公關流程，提升品牌曝光率並優化媒體互動。
+**簡介**
+一個基於AI的公關與媒體關係平台，專注於幫助企業自動化其公關流程，提升品牌曝光率並與媒體有效互動。其核心功能包括 AI 驅動的媒體匹配、自動生成新聞稿、媒體聯繫與發布管理、品牌追蹤與媒體分析、受眾洞察與效果分析、媒體資源管理、全球擴展支援以及智慧分析與持續優化。平台利用人工智慧來分析企業需求，匹配合適的媒體和記者，幫助企業精確觸及目標受眾。它還通過實時追蹤品牌曝光情況，提供詳細的效果分析報告，幫助企業根據數據調整公關策略。
 
 **基本資訊**
 - 🔗 官網：https://www.sparkamplify.com/
 - 💻 API支援：❌ 不提供
-- 🌐 研發據點：美國、台灣
-- 💰 計費方式：訂閱制
+- 🌐 研發據點：美國, 台灣
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.sparkamplify.com/zh/mediaoutreach
 
 **特色功能**
@@ -548,17 +557,24 @@ AI驅動的Pull Request審查助手，自動分析提交和PR，提供智能建�
 <!-- ### Super 8 AI -->
 <h3 id="super-8-ai">Super 8 AI</h3>
 
-![客服工具](https://img.shields.io/badge/-客服工具-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![客服工具](https://img.shields.io/badge/-客服工具-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-專為企業社群客服和行銷效率打造的智慧平台，整合多渠道訊息管理和客戶關係管理功能。
+**簡介**
+一款專為提升企業社群客服和行銷效率的智慧平台，具備自動建立顧客資料、串接顧客關係管理系統、訊息自動分類與集中管理等功能。透過AI技術，自動收集並標籤顧客資訊，並實現多管道訊息同步回覆，包括LINE、Messenger、Instagram、WhatsApp等，即時高效回應客戶需求。此外，Super 8 提供客製化聊天機器人，具備多種觸發機制，如關鍵字、自動標籤及自動化指派訊息功能，能夠無縫整合人機協作。平台還具備數據總覽功能，幫助品牌分析顧客行為、訊息互動及行銷活動成效，並通過視覺化儀表板提供洞察，加強行銷策略。
 
 **基本資訊**
 - 🔗 官網：https://events.no8.io/super8ai/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.no8.io/plan
+
+**特色功能**
+- 自動客戶資料建立
+- 多渠道訊息整合
+- 客製化聊天機器人
+- 數據分析儀表板
+- 自動化工作流程
 
 **使用模型**
 - OpenAI ChatGPT
@@ -569,20 +585,14 @@ AI驅動的Pull Request審查助手，自動分析提交和PR，提供智能建�
 - Instagram
 - WhatsApp
 
-**特色功能**
-- 自動客戶資料建立
-- 多渠道訊息整合
-- 客製化聊天機器人
-- 數據分析儀表板
-- 自動化工作流程
-
 ---
 
 <!-- ### 文字MP3專業AI版 -->
 <h3 id="iqt-ai">文字MP3專業AI版</h3>
-![語音工具](https://img.shields.io/badge/-語音工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
 
-**簡介**  
+![語音工具](https://img.shields.io/badge/-語音工具-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+
+**簡介**
 一款AI文字轉語音工具，支援多語言與多種AI配音員，提供自動配音、背景音效添加與多種應用範本，適用於教育訓練、廣播、影片配音等場景。
 
 **基本資訊**
@@ -597,18 +607,27 @@ AI驅動的Pull Request審查助手，自動分析提交和PR，提供智能建�
 <!-- ### Microsoft Copilot -->
 <h3 id="microsoft-copilot">Microsoft Copilot</h3>
 
-![AI助手](https://img.shields.io/badge/-AI助手-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-orange) ![國際](https://img.shields.io/badge/-國際-purple)
+![AI助手](https://img.shields.io/badge/-AI助手-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫作、程式輔助、
-圖像生成等多元功能。
+**簡介**
+Microsoft Copilot 是一款由人工智慧驅動的助手，它整合於您每天使用的 Microsoft 應用程式和服務中，例如 Microsoft 365 (包含 Word、Excel、PowerPoint、Outlook、Teams 等) 和 Windows。Copilot 旨在透過提供智慧建議、自動化任務和釋放您的創造力，來協助您更有效率地工作。無論是撰寫文件、分析數據、設計簡報、編寫程式碼，或是管理您的郵件和會議，Copilot 都能成為您的得力助手，讓您專注於更重要的事務。
 
 **基本資訊**
 - 🔗 官網：https://copilot.microsoft.com/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.microsoft.com/en-us/store/b/copilotpro
+
+**特色功能**
+- 智能文件撰寫
+- 數據分析協助
+- 簡報製作輔助
+- 程式碼建議
+- 圖像生成
+- 自然語言對話
+- 網頁內容摘要
+- 智能搜尋
 
 **整合應用**
 - Microsoft 365 應用程式
@@ -619,16 +638,6 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 - Windows 系統
 - Edge 瀏覽器
 - Bing 搜尋引擎
-
-**主要功能**
-- 智能文件撰寫
-- 數據分析協助
-- 簡報製作輔助
-- 程式碼建議
-- 圖像生成
-- 自然語言對話
-- 網頁內容摘要
-- 智能搜尋
 
 **使用場景**
 - 辦公文件處理
@@ -643,10 +652,10 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 <!-- ### Vitals ESP GenAI -->
 <h3 id="vitals-esp-genai">Vitals ESP GenAI</h3>
 
-![知識管理](https://img.shields.io/badge/-知識管理-blue) ![專案制](https://img.shields.io/badge/-專案制-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![知識管理](https://img.shields.io/badge/-知識管理-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-基於叡揚知識系統產品，將大型語言模型融入企業知識管理系統應用，提供口語問答模式的智慧解答功能。
+**簡介**
+基於叡揚知識系統產品，將大型語言模型（LLM）融入企業知識管理系統應用，提供使用者得以口語問答模式智慧生成解答，協助組織知識查找更加智能、快速、方便
 
 **基本資訊**
 - 🔗 官網：https://www.vitalsesp.com/vitalsllm.html
@@ -665,10 +674,10 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 <!-- ### AISKM -->
 <h3 id="aiskm">AISKM</h3>
 
-![知識管理](https://img.shields.io/badge/-知識管理-blue) ![專案制](https://img.shields.io/badge/-專案制-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![知識管理](https://img.shields.io/badge/-知識管理-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由意藍資訊整合生成式AI、高速搜尋引擎與獨家NLP技術開發的新一代生成式AI知識管理系統。
+**簡介**
+由意藍資訊整合生成式 AI、高速搜尋引擎與獨家 NLP 技術所發展的新一代生成式 AI 知識管理系統
 
 **基本資訊**
 - 🔗 官網：https://www.eland.com.tw/aiskm_landing/
@@ -687,10 +696,10 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 <!-- ### SmartRobot -->
 <h3 id="smartrobot">SmartRobot</h3>
 
-![客服平台](https://img.shields.io/badge/-客服平台-blue) ![專案制](https://img.shields.io/badge/-專案制-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![客服平台](https://img.shields.io/badge/-客服平台-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由碩網資訊基於Microsoft Azure AI平台建構的對話式AI平台，支援多種企業系統整合，提供全渠道AI客戶服務。
+**簡介**
+由碩網資訊基於Microsoft Azure AI平台建構的對話式AI平台，支援知識管理系統(KM)、電腦電話整合(CTI)、互動式語音應答(IVR)、顧客關係管理(CRM)系統與微軟認知服務進行全渠道AI客戶服務整合，以幫助企業實現絕佳的全天候360度客戶體驗
 
 **基本資訊**
 - 🔗 官網：https://www.intumit.tw/smartrobot_zh/
@@ -698,31 +707,31 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 - 🌐 研發據點：台灣
 - 💰 計費方式：依專案
 
-**使用模型**
-- GPT系列 (Azure Open AI)
-
-**系統整合**
+**特色功能**
 - 知識管理系統(KM)
 - 電腦電話整合(CTI)
 - 互動式語音應答(IVR)
 - 顧客關係管理(CRM)
 - 微軟認知服務
 
+**使用模型**
+- GPT系列 (Azure Open AI)
+
 ---
 
 <!-- ### BRONCI -->
 <h3 id="bronci">BRONCI</h3>
 
-![語音辨識](https://img.shields.io/badge/-語音辨識-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![語音辨識](https://img.shields.io/badge/-語音辨識-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由長問科技研發的語音辨識軟體，特別針對台灣語言進行模型訓練，在國語與台語都有90%以上的準確率。
+**簡介**
+由長問科技所研發的語音辨識軟體，除了英語辨識外，也針對台灣語言語音進行模型訓練，在國語與台語都有90%以上的準確率。
 
 **基本資訊**
 - 🔗 官網：https://www.bronci.com.tw/%E8%AA%9E%E9%9F%B3%E8%BE%A8%E8%AD%98
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-- 💰 計費方式：買斷 + 訂閱制
+- 💰 計費方式：買斷, 訂閱
 
 **特色功能**
 - 國語辨識
@@ -736,17 +745,16 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 <!-- ### Studio -->
 <h3 id="studio">Studio</h3>
 
-![語音工具](https://img.shields.io/badge/-語音工具-blue) ![依長度計費](https://img.shields.io/badge/-依長度計費-orange) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![語音工具](https://img.shields.io/badge/-語音工具-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由雅婷智慧研發的全方位語音工具，支援逐字稿、多國聲音、虛擬主播、音樂創作等功能，
-特別針對台灣在地需求優化。
+**簡介**
+由雅婷智慧所研發支援逐字稿、多國聲音、虛擬主播、音樂創作全方位工具，目前以雲端SaaS服務提供各項功能。其中，逐字稿功能即為熟知的「雅婷逐字稿」，其特色是專為台灣口音開發，本地需求包括台灣國語、台語或者中英夾雜的晶晶體，甚至是「幫QQ」等流行用語皆可辨識。
 
 **基本資訊**
 - 🔗 官網：https://studio.yating.tw/intro/zh-TW
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-- 💰 計費方式：依內容長度計費
+- 💰 計費方式：依長度
 - 📋 價格方案：https://developer.yating.tw/pricing
 
 **特色功能**
@@ -762,9 +770,9 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 <!-- ### STT Service -->
 <h3 id="stt-service">STT Service</h3>
 
-![語音辨識](https://img.shields.io/badge/-語音辨識-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-purple) ![台灣](https://img.shields.io/badge/-台灣-purple)
+![語音辨識](https://img.shields.io/badge/-語音辨識-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
+**簡介**
 由碩網資訊開發的語音辨識服務，用戶可以上傳檔案獲得準確的辨識結果，並支援多種語言。
 
 **基本資訊**
@@ -778,26 +786,27 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 <!-- ### Skybox AI -->
 <h3 id="skybox-ai">Skybox AI</h3>
 
-![環景圖工具](https://img.shields.io/badge/-環景圖工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-blue) 
+![環景圖工具](https://img.shields.io/badge/-環景圖工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
+**簡介**
 由 Blockade Labs 開發的AI工具，能透過文字提示快速生成 360° 全景環境，以加速沉浸式場景的創作流程。
 
 **基本資訊**
 - 🔗 官網：https://skybox.blockadelabs.com/
 - 💻 API支援：✅ 提供
-- 🌐 研發據點：國際
-- 💰 計費方式：訂閱, 次數
-- 📋 價格方案：https://skybox.blockadelabs.com/membership, https://skybox.blockadelabs.com/api-membership
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱, 依次數
+- 📋 價格方案：https://skybox.blockadelabs.com/membership
+https://skybox.blockadelabs.com/api-membership
 
 ---
 
 <!-- ### Freego 法樂多 -->
 <h3 id="freego">Freego 法樂多</h3>
 
-![合約工具](https://img.shields.io/badge/-環景圖工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-blue) 
+![合約工具](https://img.shields.io/badge/-合約工具-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
+**簡介**
 由律果科技推出的 AI 法務助理解決方案，主要針對合約審查、草擬以及合約管理等法律文件工作進行自動化處理。該產品利用 ChatGPT 技術，協助用戶自動分析與生成法律文件，從而提升工作效率並降低法律風險。
 
 **基本資訊**
@@ -806,3 +815,4 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 - 🌐 研發據點：台灣
 - 💰 計費方式：免費, 依專案
 - 📋 價格方案：https://legalsign.ai/price
+

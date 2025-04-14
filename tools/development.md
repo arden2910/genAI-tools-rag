@@ -18,16 +18,17 @@
 <!-- ### Cohere -->
 <h3 id="cohere">Cohere</h3>
 
-![開發平台](https://img.shields.io/badge/-開發平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
+**簡介**
 領先的企業AI平台，專注於企業生成式AI、搜索發現和進階檢索功能。基於商業語言優化，提供企業級解決方案。
 
 **基本資訊**
 - 🔗 官網：https://cohere.com
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：加拿大、美國
-- 💰 計費方式：依專案計費
+- 💰 計費方式：依token
+- 📋 價格方案：https://cohere.com/pricing
 
 **特色功能**
 - 企業模型微調
@@ -40,10 +41,10 @@
 <!-- ### LibreChat -->
 <h3 id="librechat">LibreChat</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-基於大型語言模型的開源聊天機器人平台，支援多種AI供應商和服務整合，允許自行選擇AI模型。
+**簡介**
+基於大型語言模型的開源聊天機器人平台，能自行選擇 AI 模型，並支持與多種 AI 供應商、服務和整合。
 
 **基本資訊**
 - 🔗 官網：https://www.librechat.ai/
@@ -57,10 +58,10 @@
 <!-- ### Jan -->
 <h3 id="jan">Jan</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-離線版ChatGPT的替代工具，允許用戶在無需網路的情況下執行大型語言模型(LLM)，並確保所有數據的隱私性。支援Mac、Windows、Linux等系統，強調用戶對數據和隱私的控制。
+**簡介**
+離線版ChatGPT的替代工具，允許用戶在無需網路的情況下執行大型語言模型(LLM)，並確保所有數據的隱私性。Jan 提供與 OpenAI 相容的本地 API，並支持第三方擴展。用戶可以使用內建的模型庫或從 Hugging Face 等平台導入模型，並在不連接外部伺服器的情況下進行自定義和調整。Jan 支援 Mac、Windows、Linux 等系統，強調用戶對數據和隱私的控制。除了支持 llama.cpp，Jan 還支持 NVIDIA TensorRT-LLM，為擁有 Nvidia GPU 的用戶提供超高速的運行體驗。
 
 **基本資訊**
 - 🔗 官網：https://jan.ai/
@@ -77,23 +78,23 @@
 
 ---
 
-<!-- ### Quivr -->
-<h3 id="quivr">Quivr</h3>
+<!-- ### quivr -->
+<h3 id="quivr">quivr</h3>
 
-![RAG框架](https://img.shields.io/badge/-RAG框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![RAG框架](https://img.shields.io/badge/-RAG框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-一個開源的RAG開發框架，用來簡化和提升與大型語言模型(LLM)的互動體驗。利用 OpenAI Functions 來構建高效的對話檢索鏈，實現智能問答。
+**簡介**
+一個開源的RAG開發框架，用來簡化和提升與大型語言模型(LLM)的互動體驗。它利用 OpenAI Functions 來構建高效的對話檢索鏈（Conversational Retrieval Chain），使得在回答用戶問題時，可以根據需求選擇直接回答或調用歷史上下文。當需要歷史上下文時，Quivr 會將問題和相關歷史記錄傳遞給檢索器（retriever），進行向量相似度搜索，以找到相關文件，並將其作為上下文提供給 LLM。
 
 **基本資訊**
 - 🔗 官網：https://www.quivr.com/
 - 🤖 開源連結：https://github.com/QuivrHQ/quivr
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：法國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://www.quivr.com/pricing
 
-**支援模型**
+**使用模型**
 - GPT-3.5
 - GPT-4
 - GPT-4 Turbo
@@ -103,18 +104,19 @@
 <!-- ### Haystack -->
 <h3 id="haystack">Haystack</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-為開發者設計的開源編排框架(AI orchestration framework)，特別適合開發RAG問答系統和語義搜索等應用。提供模組化設計，支援客製化處理流程。
+**簡介**
+一個為開發者開發生成式AI應用而設計的開源編排框架(AI orchestration framework)。它非常適合用於像RAG問答系統、語義搜索等需要處理大量文檔的AI驅動應用，並提供了模組化設計，允許開發者將各種組件（如文件檢索器、語言模型和數據處理器）組合起來，創建定制化的處理流程。
 
 **基本資訊**
 - 🔗 官網：https://haystack.deepset.ai/
+- 🤖 開源連結：https://github.com/deepset-ai/haystack
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：德國
 - 💰 計費方式：免費
 
-**核心功能**
+**特色功能**
 - 文件檢索器整合
 - 語言模型整合
 - 數據處理器
@@ -125,44 +127,44 @@
 <!-- ### Forefront -->
 <h3 id="forefront">Forefront</h3>
 
-![開發平台](https://img.shields.io/badge/-開發平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-提供開源模型微調與下載的平台，包含playground環境供開發者檢視微調效果。
+**簡介**
+讓開發者能夠使用開源模型進行微調與下載模型，並提供playground檢視微調效果
 
 **基本資訊**
 - 🔗 官網：https://forefront.ai/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://forefront.ai/pricing
 
-**支援模型**
+**使用模型**
 - Mistral-7B
 - 其他開源模型
 
 ---
 
-<!-- ### Forefront (AI assistants) -->
-<h3 id="forefront-ai-assistants">Forefront (AI assistants)</h3>
+<!-- ### Forefront Chat AI -->
+<h3 id="forefront-chat-ai">Forefront Chat AI</h3>
 
-![助理平台](https://img.shields.io/badge/-助理平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![國際](https://img.shields.io/badge/-國際-orange)
+![助理平台](https://img.shields.io/badge/-助理平台-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
+**簡介**
 基於生成式 AI 的聊天平台，整合了語音和文字的多模態技術，幫助用戶生成文案、回答問題，並根據需求定制聊天機器人的行為和回應風格。
 
 **基本資訊**
-- 🔗 官網：https://chat.forefront.ai
+- 🔗 官網：https://chat.forefront.ai/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://chat.forefront.ai/pricing
 
-**支援功能**
+**特色功能**
 - RAG應用支援
 - Agent建立支援
 
-**支援模型**
+**使用模型**
 - GPT3.5
 - Claude
 
@@ -171,39 +173,40 @@
 <!-- ### SuperBot X -->
 <h3 id="superbot-x">SuperBot X</h3>
 
-![聊天機器人](https://img.shields.io/badge/-聊天機器人-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange) 
+![聊天機器人](https://img.shields.io/badge/-聊天機器人-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-以AIGC技術為後盾的企業聊天機器人平台，支援多種檔案格式導入(XLS、XLSX、PDF)，能自動獲取網站內容並提供即時回答。
+**簡介**
+SuperBot X 以最先進的 AIGC 技術（Artificial Intelligence Generated Chatbot）為後盾，只需要匯入品牌資料 (支援 XLS、XLSX、PDF 的檔案格式) 或提供品牌網址，SuperBot X 就能獲取網站最新內容並且提供即時回答。
 
 **基本資訊**
 - 🔗 官網：https://events.no8.io/superbotx/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.no8.io/plan
 
-**支援模型**
+**使用模型**
 - Claude 3 Sonnet
 - Claude 3 Haiku
 - GPT-3.5 Turbo
 - GPT-4/GPT-4 Turbo
+- GPT 4o
 
 ---
 
 <!-- ### MediaTek DaVinci -->
 <h3 id="mediatek-davinci">MediaTek DaVinci</h3>
 
-![開發平台](https://img.shields.io/badge/-開發平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由聯發科技集團打造的生成式AI服務平台「達哥」，強調資料安全性，提供開發者工具以開發客製化生成式AI擴充外掛和助理應用。
+**簡介**
+由聯發科技集團打造的具資料安全性、提高生產力的生成式 AI 服務平台「達哥」，可供開發者開發客製化生成式 AI 擴充外掛、助理等應用。
 
 **基本資訊**
 - 🔗 官網：https://dvcbot.net/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-- 💰 計費方式：依專案計費
+- 💰 計費方式：依專案
 
 **特色功能**
 - 資料安全保護
@@ -216,10 +219,10 @@
 <!-- ### LlamaIndex -->
 <h3 id="llamaindex">LlamaIndex</h3>
 
-![RAG框架](https://img.shields.io/badge/-RAG框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![RAG框架](https://img.shields.io/badge/-RAG框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-開源數據框架，用於將各種數據源與大型語言模型（LLM）整合，特別擅長處理非結構化、半結構化和結構化數據的檢索和索引。
+**簡介**
+一種開源數據框架，用於將各種數據源與大型語言模型（LLM）整合，幫助開發者構建 RAG（檢索增強生成）應用。該框架允許開發者將 API、PDF、SQL 資料庫等資料集與 LLM 結合，提供上下文增強的生成應用。它特別擅長處理非結構化、半結構化和結構化數據的檢索和索引，並且可以與 40 多種向量資料庫、文檔存儲和圖數據庫進行整合。
 
 **基本資訊**
 - 🔗 官網：https://www.llamaindex.ai/
@@ -237,10 +240,10 @@
 <!-- ### LlamaIndex.TS -->
 <h3 id="llamaindex-ts">LlamaIndex.TS</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-LlamaIndex的TypeScript版本，專為構建LLM驅動的應用程式設計。幫助開發者處理、結構化並存取私有或特定領域的數據。
+**簡介**
+LlamaIndex 的 TypeScript 版本，專為構建由大型語言模型 (LLMs) 驅動的應用程式設計。它幫助開發者處理、結構化並存取私有或特定領域的數據。LlamaIndex 允許開發者通過多種數據源（如 API、PDF、文件、SQL 資料庫等）將資料納入 LLM 應用，進而進行資料索引和查詢支援多個應用場景，如結構化數據提取、檢索增強生成 (RAG)、以及建立Agent。
 
 **基本資訊**
 - 🔗 官網：https://ts.llamaindex.ai/
@@ -248,7 +251,7 @@ LlamaIndex的TypeScript版本，專為構建LLM驅動的應用程式設計。幫
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 
-**主要功能**
+**特色功能**
 - 多數據源整合
 - 結構化數據提取
 - RAG應用支援
@@ -259,10 +262,15 @@ LlamaIndex的TypeScript版本，專為構建LLM驅動的應用程式設計。幫
 <!-- ### Chroma -->
 <h3 id="chroma">Chroma</h3>
 
-![向量資料庫](https://img.shields.io/badge/-向量資料庫-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![向量資料庫](https://img.shields.io/badge/-向量資料庫-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-輕量級開源向量資料庫，可在雲端或本地部署，提供簡單易用的Python接口。
+**簡介**
+開源的向量資料庫，可在雲端或本地部署。主要特點包含：
+ -輕量級開源資料庫
+ -容易取得和使用：透過 python 套件安裝，即可直接使用。
+ -功能豐富且足夠應付專案：Embedding 儲存、取用、查詢、檢索等。
+ -支援多種服務的模型：OpenAI, Gemini, Ollama 等皆可。
+ -可以透過 LangChain 和 LlamaIndex 來進行使用。
 
 **基本資訊**
 - 🔗 官網：https://www.trychroma.com/
@@ -272,7 +280,7 @@ LlamaIndex的TypeScript版本，專為構建LLM驅動的應用程式設計。幫
 
 **特色功能**
 - Embedding儲存、查詢、檢索
-- 支援OpenAI, Gemini, Ollama等模型
+- 支援OpenAI, Gemini等模型
 - 可與LangChain和LlamaIndex整合
 - 簡單的Python套件安裝
 
@@ -281,10 +289,10 @@ LlamaIndex的TypeScript版本，專為構建LLM驅動的應用程式設計。幫
 <!-- ### Pinecone -->
 <h3 id="pinecone">Pinecone</h3>
 
-![向量資料庫](https://img.shields.io/badge/-向量資料庫-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![國際](https://img.shields.io/badge/-國際-orange)
+![向量資料庫](https://img.shields.io/badge/-向量資料庫-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-基於雲端的向量資料庫，主要用於存儲、管理和檢索高維度的向量資料。提供全託管無伺服器架構，具備高性能與低延遲特性。
+**簡介**
+一種基於雲端的向量資料庫，主要用於存儲、管理和檢索高維度的向量資料。這些向量通常來自文本、圖像或音頻資料，並且能夠捕捉其語義和關聯性，從而支援快速檢索和相似性搜尋的需求。主要特點包括全託管無伺服器架構：Pinecone 提供雲端服務，開發者無需擔心基礎架構的設置與維護，這對於缺乏專業運維團隊的企業尤為重要、高性能與低延遲：Pinecone 能夠處理大規模的向量資料，特別適合需要快速響應的人工智慧和機器學習應用、簡化開發流程：透過提供易於使用的 SDK（如 .NET SDK），Pinecone 降低了開發者在使用向量資料庫時的入門障礙
 
 **基本資訊**
 - 🔗 官網：https://www.pinecone.io/product/
@@ -298,16 +306,17 @@ LlamaIndex的TypeScript版本，專為構建LLM驅動的應用程式設計。幫
 <!-- ### Redis Vector Database -->
 <h3 id="redis-vector-database">Redis Vector Database</h3>
 
-![向量資料庫](https://img.shields.io/badge/-向量資料庫-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange) 
+![向量資料庫](https://img.shields.io/badge/-向量資料庫-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-開源的內存數據庫，提供向量資料庫功能，特別適合處理大規模機器學習模型中的向量嵌入查詢。具備極高性能和靈活性，常用於自然語言處理和計算機視覺應用。
+**簡介**
+一個開源的內存數據庫，提供極高的性能和靈活性，常用於緩存、消息隊列、數據存儲等多種場景。Redis 也支援向量資料庫的功能，適合處理大規模機器學習模型中的向量嵌入查詢，特別是自然語言處理和計算機視覺中的相似度查找。Redis 的向量資料庫解決方案將其速度和可擴展性與向量檢索結合，提供了一個高效處理向量數據的方案
 
 **基本資訊**
 - 🔗 官網：https://redis.io/solutions/vector-database/
+- 🤖 開源連結：https://github.com/redis/redis
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://redis.io/pricing/
 
 **特色功能**
@@ -321,35 +330,30 @@ LlamaIndex的TypeScript版本，專為構建LLM驅動的應用程式設計。幫
 <!-- ### PGVector -->
 <h3 id="pgvector">PGVector</h3>
 
-![向量資料庫](https://img.shields.io/badge/-向量資料庫-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![向量資料庫](https://img.shields.io/badge/-向量資料庫-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-PostgreSQL的向量相似性搜索擴充套件，特別適合處理機器學習模型生成的嵌入向量，支援向量數據的儲存、相似性查詢和高效搜索。
+**簡介**
+一個開源的PostgreSQL 的擴充套件，用於向量相似性搜索，特別適合處理向量資料，例如機器學習模型生成的嵌入向量。pgvector 支援向量數據的儲存、相似性查詢和高效搜索，適用於如自然語言處理（NLP）和圖像識別等需要處理高維度數據的應用場景
 
 **基本資訊**
-- 🔗 開源連結：https://github.com/pgvector/pgvector
+- 🔗 官網：https://github.com/pgvector/pgvector
+- 🤖 開源連結：https://github.com/pgvector/pgvector
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 🤖 開源狀態：開源
-
-**應用場景**
-- 自然語言處理
-- 圖像識別
-- 高維度數據處理
-- 向量相似度搜索
 
 ---
 
 <!-- ### SQLite-VSS -->
 <h3 id="sqlite-vss">SQLite-VSS</h3>
 
-![向量資料庫](https://img.shields.io/badge/-向量資料庫-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange) 
+![向量資料庫](https://img.shields.io/badge/-向量資料庫-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-SQLite的向量相似性搜尋擴充套件，基於Faiss技術，支援建立虛擬表來高效存儲和查詢向量數據。
+**簡介**
+一個 SQLite 的擴充套件，使其支援向量相似性搜尋的功能。它可以用於構建語義搜索引擎、推薦系統以及問答工具。SQLite-VSS 基於 Faiss（Facebook AI 相似性搜尋）技術，支持建立虛擬表來高效存儲和查詢向量數據。它兼容多種向量模型，包括 OpenAI 嵌入 API 和 HuggingFace 模型等。
 
 **基本資訊**
-- 🔗 開源連結：https://github.com/asg017/sqlite-vss
+- 🔗 官網：https://github.com/asg017/sqlite-vss
+- 🤖 開源連結：https://github.com/asg017/sqlite-vss
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 
@@ -364,10 +368,10 @@ SQLite的向量相似性搜尋擴充套件，基於Faiss技術，支援建立虛
 <!-- ### LangChain -->
 <h3 id="langchain">LangChain</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-專為開發基於大型語言模型（LLM）的應用而設計的框架，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用開發。目前支援 Python、JavaScript這兩種主要的程式語言。
+**簡介**
+LangChain 是一個專為開發基於大型語言模型（LLM）的應用而設計框架，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用開發。目前支援 Python、JavaScript這兩種主要的程式語言。
 
 **基本資訊**
 - 🔗 官網：https://www.langchain.com/langchain
@@ -380,16 +384,16 @@ SQLite的向量相似性搜尋擴充套件，基於Faiss技術，支援建立虛
 <!-- ### LangSmith -->
 <h3 id="langsmith">LangSmith</h3>
 
-![開發工具](https://img.shields.io/badge/-開發工具-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![國際](https://img.shields.io/badge/-國際-orange)
+![開發工具](https://img.shields.io/badge/-開發工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由LangChain開發的專業工具，專注於構建、調試和優化LLM應用程式。提供完整的性能監控、偵錯和數據分析功能。
+**簡介**
+由 LangChain 開發的一款專業工具，專注於構建、調試和優化以大型語言模型（LLM）為核心的應用程式。該工具提供了性能監控、偵錯、數據分析等功能，讓開發者可以深入分析 LLM 應用的表現，並根據具體需求進行優化。Langsmith 特別適合那些使用 LangChain 框架開發複雜語言模型應用的團隊和企業
 
 **基本資訊**
 - 🔗 官網：https://www.langchain.com/langsmith
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://www.langchain.com/pricing-langsmith
 
 **特色功能**
@@ -403,10 +407,10 @@ SQLite的向量相似性搜尋擴充套件，基於Faiss技術，支援建立虛
 <!-- ### LangFlow -->
 <h3 id="langflow">LangFlow</h3>
 
-![低代碼平台](https://img.shields.io/badge/-低代碼平台-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![低代碼平台](https://img.shields.io/badge/-低代碼平台-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-低代碼(low-code)的整合式開發環境（IDE），專為構建RAG和多代理AI應用而設計。提供拖放式介面，簡化AI應用開發流程。
+**簡介**
+一個低代碼(low-code)的整合式開發環境（IDE），專為構建 RAG 和多代理 AI （multi-agent AI）應用而設計。它基於 Python，允許開發者使用拖放式組件快速構建和測試 AI 工作流，並能整合多種 API、數據源和嵌入式模型。該工具簡化了生成式 AI 應用的開發過程，讓新手和有經驗的開發者都能快速構建和部署 AI 應用。
 
 **基本資訊**
 - 🔗 官網：https://www.langflow.org/
@@ -425,10 +429,10 @@ SQLite的向量相似性搜尋擴充套件，基於Faiss技術，支援建立虛
 <!-- ### LangGraph -->
 <h3 id="langgraph">LangGraph</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange) 
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG應用。提供狀態化的編排框架，適合處理複雜的多步驟LLM應用。
+**簡介**
+一個 LangChain 的擴充模組，專門用來構建和運行多代理應用以及 RAG 應用。它提供了一個狀態化的編排框架，讓開發者可以管理和協調複雜的多步驟 LLM 應用，特別是在需要處理大量資料和進行實時決策的應用中。LangGraph 可以用於構建多回合對話代理、執行複雜任務自動化、以及支援基於 LLM 的自訂工作流程。
 
 **基本資訊**
 - 🔗 官網：https://www.langchain.com/langgraph
@@ -436,7 +440,7 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 
-**應用場景**
+**特色功能**
 - 多回合對話代理
 - 複雜任務自動化
 - 自訂LLM工作流程
@@ -447,12 +451,10 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 <!-- ### Ollama -->
 <h3 id="ollama">Ollama</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue)
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-本地運行大型語言模型（LLMs）的開源工具，允許使用者在自己的設備上運行如Llama 2、Code Llama等流行的大語言模型，特別適合對數據隱私敏感的開發者、研究人員或企業。
+**簡介**
+Ollama 是一個可以在本地運行大型語言模型（LLMs）的開源工具，允許使用者在自己的設備上運行如 Llama 2、Code Llama 等流行的大語言模型，特別適合那些對數據隱私敏感的開發者、研究人員或企業。
 
 **基本資訊**
 - 🔗 官網：https://ollama.com/
@@ -471,17 +473,17 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 <!-- ### FlowiseAI -->
 <h3 id="flowiseai">FlowiseAI</h3>
 
-![低代碼平台](https://img.shields.io/badge/-低代碼平台-blue) ![開源](https://img.shields.io/badge/-開源-green) ![國際](https://img.shields.io/badge/-國際-orange)
+![低代碼平台](https://img.shields.io/badge/-低代碼平台-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
-基於LangChain的no code/low code AI工作流構建工具，讓開發者可以通過拖放方式輕鬆設計工作流，快速構建複雜的AI解決方案。
+**簡介**
+Flowise AI 是基於 LangChain 的 no code/low code 的 AI 工作流構建工具，讓開發者可以通過拖放方式輕鬆設計工作流，快速構建複雜的 AI 解決方案，如：聊天機器人、智能問答系統、內容生成工具以及自動化數據處理等應用。
 
 **基本資訊**
 - 🔗 官網：https://flowiseai.com/
 - 🤖 開源連結：https://github.com/FlowiseAI/Flowise
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：免費版 + 訂閱制
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://flowiseai.com/#pricing
 
 **應用場景**
@@ -495,10 +497,10 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 <!-- ### 波特人 BOTRUN -->
 <h3 id="botrun">波特人 BOTRUN</h3>
 
-![開發平台](https://img.shields.io/badge/-開發平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由卡米爾股份有限公司研發，專門設計用於解決特定領域問題的AI機器人平台，符合「行政院及所屬機關（構）使用生成式AI參考指引」。
+**簡介**
+由卡米爾股份有限公司所研發的品牌之一，專門設計來解決特定領域問題的人工智慧(AI)機器人，可以自動化資料整理、數據分析AI繪圖、動態執行，符合「行政院及所屬機關（構）使用生成式 AI 參考指引」有多項成功案例。
 
 **基本資訊**
 - 🔗 官網：https://intro.botrun.ai/
@@ -518,10 +520,10 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 <!-- ### CaiGunn -->
 <h3 id="caigunn">CaiGunn</h3>
 
-![開發平台](https://img.shields.io/badge/-開發平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由亞太智能機器(APMIC)開發的在地化大型語言模型平台，專為企業提供AI知識管理解決方案，提供無需編碼的一站式訓練解決方案。
+**簡介**
+由亞太智能機器(APMIC) 開發的在地化大型語言模型平台，專為企業提供 AI 知識管理解決方案，亦提供無需編碼的一站式訓練解決方案，讓企業人員無需相關技術背景知識，僅需上傳現有的文章、網站或文件等資料，即可打造企業的 AI 知識庫與模型
 
 **基本資訊**
 - 🔗 官網：https://www.ap-mic.com/
@@ -530,7 +532,7 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 - 💰 計費方式：依專案
 - 📋 價格方案：https://www.ap-mic.com/price
 
-**支援模型**
+**使用模型**
 - GPT系列
 - Gemini
 - Claude
@@ -543,19 +545,19 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 <!-- ### MaiAgent -->
 <h3 id="maiagent">MaiAgent</h3>
 
-![開發平台](https://img.shields.io/badge/-開發平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-協助需求端快速建立AI助理的平台，提供豐富的後臺管理與客製化企業功能。
+**簡介**
+協助需求端快速建立 AI 助理並提供豐富的後臺管理與客製化企業所需功能
 
 **基本資訊**
 - 🔗 官網：https://maiagent.ai/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-- 💰 計費方式：訂閱制
+- 💰 計費方式：訂閱
 - 📋 價格方案：https://maiagent.ai/%e5%b9%b3%e5%8f%b0%e6%96%b9%e6%a1%88/
 
-**支援模型**
+**使用模型**
 - GPT-4
 - Claude
 - Llama 3
@@ -566,10 +568,10 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 <!-- ### FedGPT -->
 <h3 id="fedgpt">FedGPT</h3>
 
-![開發平台](https://img.shields.io/badge/-開發平台-blue) ![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
-由雅婷智慧開發的多模態生成式AI平台，能無縫串接逐字稿(ASR)、語音生成(TTS)、虛擬主播(Avatar)以及聯合平台(Federated Platform)。
+**簡介**
+由雅婷智慧基於可信任、負責任的 AI 治理原則，為企業打造的、全球首創能無縫串接逐字稿 (ASR)、語音生成(TTS)、虛擬主播(Avatar) 以及聯合平台 (Federated Platform) 的多模態生成式 AI 平台。其搭載模型特別針對金融、醫療、媒體/娛樂與教育等相關產業知識優化，使用近 1000 億繁體中文、150 億醫療語料、10 億金融 Tokens 與法規資料進行模型預訓練。
 
 **基本資訊**
 - 🔗 官網：https://fedgpt.cc/
@@ -583,26 +585,24 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 - 產業知識優化
 - 多模態整合
 
+**使用模型**
+- FedGPT-Pro-34B
+- FedGPT-Pro-w/h-RAG-34B
+
 **預訓練資料**
 - 1000億繁體中文語料
 - 150億醫療語料
 - 10億金融Tokens
 - 法規資料
 
-**適用產業**
-- 金融業
-- 醫療產業
-- 媒體/娛樂
-- 教育領域
-
 ---
 
 <!-- ### SmartLLM -->
 <h3 id="smartllm">SmartLLM</h3>
 
-![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange)
+![聊天機器人](https://img.shields.io/badge/-聊天機器人-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
-**簡介**  
+**簡介**
 由碩網資訊開發，提供以較低成本打造聊天機器人的解決方案。其中使用Azure OpenAI的LLM處理上傳的文件來生成答案。
 
 **基本資訊**
@@ -611,7 +611,7 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 - 🌐 研發據點：台灣
 - 💰 計費方式：依專案
 
-**支援模型**
+**使用模型**
 - Azure OpenAI 服務所提供的模型
 
 ---
@@ -619,19 +619,17 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 <!-- ### vLLM -->
 <h3 id="vllm">vLLM</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue)
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
+**簡介**
 vLLM 是由加州大學柏克萊分校 LMSYS 團隊開發的開源高速推理框架，專為大型語言模型設計，旨在提升推理吞吐量與記憶體使用效率。
 
 **基本資訊**
 - 🔗 官網：https://docs.vllm.ai/
 - 🤖 開源連結：https://github.com/vllm-project/vllm
 - 💻 API支援：❌ 不提供
-- 💰 計費方式：免費
 - 🌐 研發據點：美國
+- 💰 計費方式：免費
 
 **特色功能**
 - PagedAttention 技術
@@ -642,22 +640,20 @@ vLLM 是由加州大學柏克萊分校 LMSYS 團隊開發的開源高速推理�
 ---
 
 <!-- ### Dify.Ai -->
-<h3 id="difyai">Dify.Ai</h3>
+<h3 id="dify-ai">Dify.Ai</h3>
 
-![開發框架](https://img.shields.io/badge/-開發框架-blue)
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發框架](https://img.shields.io/badge/-開發框架-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
+**簡介**
 Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了後端即服務（BaaS）和 LLMOps 的理念，旨在幫助開發者和企業快速構建、部署和管理基於 LLM 的生成式 AI 應用。 ​
 
 **基本資訊**
 - 🔗 官網：https://dify.ai/
 - 🤖 開源連結：https://github.com/langgenius/dify
 - 💻 API支援：❌ 不提供
-- 💰 計費方式：免費 + 依專案
-- 📋 價格方案：https://dify.ai/pricing
 - 🌐 研發據點：美國
+- 💰 計費方式：免費, 依專案
+- 📋 價格方案：https://dify.ai/pricing
 
 **特色功能**
 - 支援多種大型語言模型
@@ -669,8 +665,7 @@ Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了
 <!-- ### promptfoo -->
 <h3 id="promptfoo">promptfoo</h3>
 
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發工具](https://img.shields.io/badge/-開發工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**
 一個專為提示工程師設計的開源工具，旨在評估和比較大型語言模型（LLMs）的提示效果。通過 promptfoo，使用者可以批量測試提示，並根據模型回應的質量和一致性進行評估，從而優化提示設計，提高模型輸出的可靠性。
@@ -679,8 +674,8 @@ Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了
 - 🔗 官網：https://www.promptfoo.dev/
 - 🤖 開源連結：https://github.com/promptfoo/promptfoo
 - 💻 API支援：❌ 不提供
-- 💰 計費方式：免費
 - 🌐 研發據點：美國
+- 💰 計費方式：免費
 
 **特色功能**
 - 提示評估框架
@@ -692,8 +687,7 @@ Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了
 <!-- ### Purple Llama -->
 <h3 id="purple-llama">Purple Llama</h3>
 
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發工具](https://img.shields.io/badge/-開發工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**
 Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方法，評估並降低大型語言模型的風險，以促進生成式 AI 的安全與負責任發展。
@@ -702,8 +696,8 @@ Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方
 - 🔗 官網：https://www.llama.com/trust-and-safety/
 - 🤖 開源連結：https://github.com/meta-llama/PurpleLlama
 - 💻 API支援：❌ 不提供
-- 💰 計費方式：免費
 - 🌐 研發據點：美國
+- 💰 計費方式：免費
 
 **特色功能**
 - 網絡安全評估
@@ -714,18 +708,17 @@ Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方
 <!-- ### RAGAS -->
 <h3 id="ragas">RAGAS</h3>
 
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發工具](https://img.shields.io/badge/-開發工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
+**簡介**
 一種用於評估檢索增強生成（RAG）系統性能的指標。RAGAS 通過衡量檢索階段和生成階段的質量，提供對 RAG 系統的全面評估，幫助開發者改進模型的檢索和生成能力。
 
 **基本資訊**
-- 🔗 官網：https://www.llama.com/trust-and-safety/
+- 🔗 官網：https://docs.ragas.io/en/stable/
 - 🤖 開源連結：https://github.com/explodinggradients/ragas
 - 💻 API支援：❌ 不提供
-- 💰 計費方式：免費
 - 🌐 研發據點：美國
+- 💰 計費方式：免費
 
 **特色功能**
 - 同時評估檢索階段與生成階段的效能
@@ -737,19 +730,18 @@ Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方
 <!-- ### Evidently -->
 <h3 id="evidently">Evidently</h3>
 
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發工具](https://img.shields.io/badge/-開發工具-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
+**簡介**
 ​一個開源的機器學習模型監控工具，旨在幫助開發者和數據科學家追蹤模型的性能和數據漂移。Evidently 提供直觀的報告和儀表板，讓使用者能夠及時發現模型問題，確保模型在生產環境中的穩定性和可靠性。
 
 **基本資訊**
 - 🔗 官網：https://www.evidentlyai.com/
 - 🤖 開源連結：https://github.com/evidentlyai/evidently
 - 💻 API支援：❌ 不提供
-- 💰 計費方式：免費 + 依專案
-- 📋 價格方案：
 - 🌐 研發據點：美國
+- 💰 計費方式：免費, 依專案
+- 📋 價格方案：https://www.evidentlyai.com/pricing
 
 **特色功能**
 - 直觀的報告與儀表板
@@ -761,22 +753,22 @@ Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方
 <!-- ### Composio -->
 <h3 id="composio">Composio</h3>
 
-![開源](https://img.shields.io/badge/-開源-green)
-![國際](https://img.shields.io/badge/-國際-orange)
+![開發平台](https://img.shields.io/badge/-開發平台-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
-**簡介**  
+**簡介**
 是一個為 AI 代理提供生產就緒工具集的平台，集成了超過 250 種工具，包括 GitHub、Notion、Gmail、Slack 等，並支援多種框架和身份驗證協議，旨在簡化 AI 應用的開發和部署。
 
 **基本資訊**
 - 🔗 官網：https://composio.dev/
 - 🤖 開源連結：https://github.com/ComposioHQ/composio
 - 💻 API支援：✅ 提供
-- 💰 計費方式：免費 + 依專案
-- 📋 價格方案：https://composio.dev/pricing/
 - 🌐 研發據點：美國
+- 💰 計費方式：免費, 依專案
+- 📋 價格方案：https://composio.dev/pricing/
 
 **特色功能**
 - 提供多種框架支援，如 OpenAI、LangChain、Autogen。
 - 集成超過 250 種工具，包括 GitHub、Notion、Gmail、Slack。
 - 支援多種協議的托管身份驗證。
 - 允許自訂工具和擴充套件。
+
