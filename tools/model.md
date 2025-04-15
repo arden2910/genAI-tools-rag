@@ -13,8 +13,8 @@
 	- [閉源模型](../tags/model/license.md#closedsource)
 
 ## 📋 模型列表
+<!-- INSERTION_MARKER -->
 
-<!-- ### Commend-R -->
 <h3 id="commend-r">Commend-R</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -32,7 +32,6 @@
 
 ---
 
-<!-- ### Embed -->
 <h3 id="embed">Embed</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
@@ -49,7 +48,6 @@ Embed是領先的多模態嵌入模型，作為語義搜索和檢索增強生成
 
 ---
 
-<!-- ### Rerank -->
 <h3 id="rerank">Rerank</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
@@ -66,10 +64,9 @@ Rerank為任何關鍵字或向量搜索系統提供強大的語義提升，無�
 
 ---
 
-<!-- ### TAIDE-LX-7B -->
 <h3 id="taide-lx-7b">TAIDE-LX-7B</h3>
 
-![台灣](https://img.shields.io/badge/-台灣-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
+![台灣](https://img.shields.io/badge/-%E5%8F%B0%E7%81%A3-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**
 由我國國科會支持的「可信任生成式AI發展先期計畫」(TAIDE)研發成果，以 LLaMA2-7B 為基礎，僅使用繁體中文資料預訓練 (continuous pretraining)的模型，適合使用者會對模型進一步微調(fine tune)的使用情境。因預訓練模型沒有經過微調和偏好對齊，可能會產生惡意或不安全的輸出，使用時請小心。
@@ -82,10 +79,9 @@ Rerank為任何關鍵字或向量搜索系統提供強大的語義提升，無�
 
 ---
 
-<!-- ### Llama 3-TAIDE-LX-8B-Chat-Alpha1 -->
 <h3 id="llama-3-taide-lx-8b-chat-alpha1">Llama 3-TAIDE-LX-8B-Chat-Alpha1</h3>
 
-![台灣](https://img.shields.io/badge/-台灣-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
+![台灣](https://img.shields.io/badge/-%E5%8F%B0%E7%81%A3-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**
 由我國國科會支持的「可信任生成式AI發展先期計畫」(TAIDE)研發成果，以 LLaMA3-8B 為基礎，使用繁體中文資料預訓練 (continuous pretraining)，並透過指令微調(instruction tuning)強化辦公室常用任務和多輪問答對話能力，適合聊天對話或任務協助的使用情境。
@@ -98,7 +94,6 @@ Rerank為任何關鍵字或向量搜索系統提供強大的語義提升，無�
 
 ---
 
-<!-- ### Llama-3-Taiwan-8B-Instruct -->
 <h3 id="llama-3-taiwan-8b-instruct">Llama-3-Taiwan-8B-Instruct</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -114,7 +109,6 @@ Llama-3-Taiwan-8B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台灣
 
 ---
 
-<!-- ### Llama-3-Taiwan-70B -->
 <h3 id="llama-3-taiwan-70b">Llama-3-Taiwan-70B</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -130,7 +124,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Breeze-7B -->
 <h3 id="breeze-7b">Breeze-7B</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -146,7 +139,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Breexe-8x7B -->
 <h3 id="breexe-8x7b">Breexe-8x7B</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -162,7 +154,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Llama3.1-FFM -->
 <h3 id="llama3-1-ffm">Llama3.1-FFM</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
@@ -180,7 +171,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### FFM-Mistral -->
 <h3 id="ffm-mistral">FFM-Mistral</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
@@ -197,7 +187,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### FFM-Embedding -->
 <h3 id="ffm-embedding">FFM-Embedding</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
@@ -214,7 +203,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### CaiGunn 34B -->
 <h3 id="caigunn-34b">CaiGunn 34B</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -230,7 +218,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Llama 3.3 70B -->
 <h3 id="llama-3-3-70b">Llama 3.3 70B</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -246,7 +233,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Llama 3.2 11B or 90B, 1B or 3B -->
 <h3 id="llama-3-2-11b-or-90b-1b-or-3b">Llama 3.2 11B or 90B, 1B or 3B</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -262,7 +248,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Llama 3.1 405B -->
 <h3 id="llama-3-1-405b">Llama 3.1 405B</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -278,7 +263,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Whisper -->
 <h3 id="whisper">Whisper</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -296,7 +280,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Llama-Breeze2 3B -->
 <h3 id="llama-breeze2-3b">Llama-Breeze2 3B</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -312,7 +295,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### Llama-Breeze2 8B -->
 <h3 id="llama-breeze2-8b">Llama-Breeze2 8B</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -328,7 +310,6 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<!-- ### BreezyVoice -->
 <h3 id="breezyvoice">BreezyVoice</h3>
 
 ![台灣](https://img.shields.io/badge/-台灣-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -341,4 +322,3 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 - 🤖 開源連結：https://huggingface.co/MediaTek-Research/BreezyVoice
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-
