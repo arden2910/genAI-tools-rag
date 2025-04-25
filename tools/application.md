@@ -27,12 +27,56 @@
 ## 📋 工具列表
 <!-- INSERTION_MARKER -->
 
+<h3 id="microsoft-copilot">Microsoft Copilot</h3>
+
+![AI助手](https://img.shields.io/badge/-AI%E5%8A%A9%E6%89%8B-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+
+**簡介**
+Microsoft Copilot 是一款由人工智慧驅動的助手，整合於您每天使用的 Microsoft 應用程式和服務中，例如 Microsoft 365（包含 Word、Excel、PowerPoint、Outlook、Teams 等）和 Windows。Copilot 旨在透過提供智慧建議、自動化任務和釋放您的創造力，來協助您更有效率地工作。無論是撰寫文件、分析數據、設計簡報、編寫程式碼，或是管理您的郵件和會議，Copilot 都能成為您的得力助手，讓您專注於更重要的事務。
+
+**基本資訊**
+- 🔗 官網：https://copilot.microsoft.com/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://www.microsoft.com/en-us/store/b/copilotpro
+
+**特色功能**
+- 智能文件撰寫
+- 數據分析協助
+- 簡報製作輔助
+- 程式碼建議
+- 圖像生成
+- 自然語言對話
+- 網頁內容摘要
+- 智能搜尋
+
+**整合應用**
+- Microsoft 365 應用程式
+  - Word
+  - Excel
+  - PowerPoint
+  - Outlook
+- Windows 系統
+- Edge 瀏覽器
+- Bing 搜尋引擎
+
+**使用場景**
+- 辦公文件處理
+- 程式開發輔助
+- 創意內容生成
+- 資訊搜索整理
+- 數據分析報告
+- 簡報製作
+
+---
+
 <h3 id="gamma">Gamma</h3>
 
 ![簡報工具](https://img.shields.io/badge/-%E7%B0%A1%E5%A0%B1%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
 **簡介**
-創建簡報、文檔和網站。輸入主題、主旨或部分內容，生成專業設計的模板和視覺效果。
+Gamma 是一款 AI 驅動的內容創作平台，能快速生成簡報、網站、社群貼文等。用戶只需輸入主題或大綱，即可自動產出具備專業設計的內容，並支援即時協作與多種格式匯出。
 
 **基本資訊**
 - 🔗 官網：https://gamma.app
@@ -40,6 +84,13 @@
 - 🌐 研發據點：美國
 - 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://gamma.app/pricing
+
+**特色功能**
+- AI 自動生成簡報與網站
+- 支援即時協作與編輯
+- 多種主題與模板選擇
+- 匯出為 PPT、PDF、PNG 等格式
+- 內建圖像與內容生成工具
 
 **使用模型**
 - Claude
@@ -63,13 +114,13 @@
 - 🔗 官網：https://elevenlabs.io
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：英國
-- 💰 計費方式：訂閱
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://elevenlabs.io/pricing
 
 **特色功能**
 - 多語言語音生成
 - 自然語調調整
-- 實時語音生成
+- 即時語音生成與低延遲串流
 - AI配音服務
 - 聲音模擬
 
@@ -92,8 +143,8 @@
 **特色功能**
 - VSCode擴充整合
 - Answer Profile客製化
-- 技術文檔搜索
 - 程式碼生成
+- 技術文檔搜索
 
 **使用模型**
 - Phind-405B
@@ -119,10 +170,11 @@
 - 📋 價格方案：https://www.synthesia.io/pricing
 
 **特色功能**
-- 支援60+種語言
+- 支援 140+ 種語言與方言
 - 多種性別AI人像選擇
-- 客製化數位形象
+- 個人化虛擬人像與語音克隆
 - 文字轉影片功能
+-一鍵翻譯與字幕生成
 
 ---
 
@@ -159,10 +211,17 @@
 
 **基本資訊**
 - 🔗 官網：https://www.hyperwriteai.com/
-- 💻 API支援：❌ 不提供
+- 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 - 💰 計費方式：訂閱
 - 📋 價格方案：https://www.hyperwriteai.com/pricing
+
+**特色功能**
+-自動補全（TypeAhead）功能
+-自動撰寫（AutoWrite）工具
+-內容重寫與語氣調整
+-摘要生成與簡化說明
+-自訂 AI 人格以模擬寫作風格
 
 **使用模型**
 - GPT-4
@@ -233,8 +292,14 @@
 - 🔗 官網：https://www.cogram.com/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：德國
-- 💰 計費方式：訂閱
+- 💰 計費方式：依專案
 - 📋 價格方案：https://www.cogram.com/pricing
+
+**特色功能**
+-自動生成會議記錄
+-支援自訂模板
+-郵件管理
+-專案報告生成
 
 **整合平台**
 - Zoom
@@ -337,7 +402,7 @@
 - 🔗 官網：https://consensus.app/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://consensus.app/home/pricing/?pro=on
 
 **特色功能**
@@ -365,6 +430,11 @@
 - 💰 計費方式：訂閱
 - 📋 價格方案：https://www.getmerlin.in/pricing
 
+**特色功能**
+-即時網頁摘要與互動
+-多模型切換
+-支援多種語言的內容生成
+
 **使用模型**
 - OpenAI O1
 - GPT-4/4V
@@ -390,8 +460,8 @@
 - 🔗 官網：https://describely.ai/
 - 💻 API支援：❌ 不提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱
-- 📋 價格方案：https://knowledge-base.describely.ai/change-your-plan
+- 💰 計費方式：依使用量
+- 📋 價格方案：https://describely.ai/pricing/
 
 **特色功能**
 - 商品描述生成
@@ -446,7 +516,7 @@
 - 🤖 開源連結：https://github.com/SpeechifyInc
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：無特別標示
-- 💰 計費方式：訂閱
+- 💰 計費方式：免費, 訂閱
 - 📋 價格方案：https://speechify.com/pricing/?utm_campaign=partners&utm_content=rewardful&via=homepage&gad_source=1
 
 **特色功能**
@@ -583,53 +653,9 @@
 
 ---
 
-<h3 id="microsoft-copilot">Microsoft Copilot</h3>
-
-![AI助手](https://img.shields.io/badge/-AI%E5%8A%A9%E6%89%8B-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
-
-**簡介**
-Microsoft Copilot 是一款由人工智慧驅動的助手，它整合於您每天使用的 Microsoft 應用程式和服務中，例如 Microsoft 365 (包含 Word、Excel、PowerPoint、Outlook、Teams 等) 和 Windows。Copilot 旨在透過提供智慧建議、自動化任務和釋放您的創造力，來協助您更有效率地工作。無論是撰寫文件、分析數據、設計簡報、編寫程式碼，或是管理您的郵件和會議，Copilot 都能成為您的得力助手，讓您專注於更重要的事務。
-
-**基本資訊**
-- 🔗 官網：https://copilot.microsoft.com/
-- 💻 API支援：❌ 不提供
-- 🌐 研發據點：美國
-- 💰 計費方式：訂閱
-- 📋 價格方案：https://www.microsoft.com/en-us/store/b/copilotpro
-
-**特色功能**
-- 智能文件撰寫
-- 數據分析協助
-- 簡報製作輔助
-- 程式碼建議
-- 圖像生成
-- 自然語言對話
-- 網頁內容摘要
-- 智能搜尋
-
-**整合應用**
-- Microsoft 365 應用程式
-  - Word
-  - Excel
-  - PowerPoint
-  - Outlook
-- Windows 系統
-- Edge 瀏覽器
-- Bing 搜尋引擎
-
-**使用場景**
-- 辦公文件處理
-- 程式開發輔助
-- 創意內容生成
-- 資訊搜索整理
-- 數據分析報告
-- 簡報製作
-
----
-
 <h3 id="vitals-esp-genai">Vitals ESP GenAI</h3>
 
-![知識管理](https://img.shields.io/badge/-%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+![知識管理](https://img.shields.io/badge/-%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86-orange) ![資訊系統](https://img.shields.io/badge/-%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
 **簡介**
 基於叡揚知識系統產品，將大型語言模型（LLM）融入企業知識管理系統應用，提供使用者得以口語問答模式智慧生成解答，協助組織知識查找更加智能、快速、方便
@@ -650,7 +676,7 @@ Microsoft Copilot 是一款由人工智慧驅動的助手，它整合於您每�
 
 <h3 id="aiskm">AISKM</h3>
 
-![知識管理](https://img.shields.io/badge/-%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+![知識管理](https://img.shields.io/badge/-%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86-orange) ![資訊系統](https://img.shields.io/badge/-%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
 **簡介**
 由意藍資訊整合生成式 AI、高速搜尋引擎與獨家 NLP 技術所發展的新一代生成式 AI 知識管理系統
@@ -674,7 +700,7 @@ Microsoft Copilot 是一款由人工智慧驅動的助手，它整合於您每�
 ![客服平台](https://img.shields.io/badge/-%E5%AE%A2%E6%9C%8D%E5%B9%B3%E5%8F%B0-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
 
 **簡介**
-由碩網資訊基於Microsoft Azure AI平台建構的對話式AI平台，支援知識管理系統(KM)、電腦電話整合(CTI)、互動式語音應答(IVR)、顧客關係管理(CRM)系統與微軟認知服務進行全渠道AI客戶服務整合，以幫助企業實現絕佳的全天候360度客戶體驗
+由碩網資訊基於Microsoft Azure AI平台建構的對話式AI平台，支援知識管理系統(KM)、電腦電話整合(CTI)、互動式語音應答(IVR)、顧客關係管理(CRM)系統與微軟認知服務進行全渠道AI客戶服務整合，以幫助企業實現絕佳的全天候360度客戶體驗。
 
 **基本資訊**
 - 🔗 官網：https://www.intumit.tw/smartrobot_zh/
@@ -727,7 +753,7 @@ Microsoft Copilot 是一款由人工智慧驅動的助手，它整合於您每�
 - 🔗 官網：https://studio.yating.tw/intro/zh-TW
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
-- 💰 計費方式：依長度
+- 💰 計費方式：依使用量
 - 📋 價格方案：https://developer.yating.tw/pricing
 
 **特色功能**
@@ -766,7 +792,7 @@ Microsoft Copilot 是一款由人工智慧驅動的助手，它整合於您每�
 - 🔗 官網：https://skybox.blockadelabs.com/
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
-- 💰 計費方式：訂閱, 依次數
+- 💰 計費方式：訂閱, 依使用量
 - 📋 價格方案：https://skybox.blockadelabs.com/membership, https://skybox.blockadelabs.com/api-membership
 
 ---

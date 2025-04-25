@@ -27,7 +27,7 @@
 - 🔗 官網：https://cohere.com
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：加拿大、美國
-- 💰 計費方式：依token
+- 💰 計費方式：依使用量
 - 📋 價格方案：https://cohere.com/pricing
 
 **特色功能**
@@ -655,47 +655,6 @@ Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了
 
 ---
 
-<h3 id="purple-llama">Purple Llama</h3>
-
-![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
-
-**簡介**
-Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方法，評估並降低大型語言模型的風險，以促進生成式 AI 的安全與負責任發展。
-
-**基本資訊**
-- 🔗 官網：https://www.llama.com/trust-and-safety/
-- 🤖 開源連結：https://github.com/meta-llama/PurpleLlama
-- 💻 API支援：❌ 不提供
-- 🌐 研發據點：美國
-- 💰 計費方式：免費
-
-**特色功能**
-- 網絡安全評估
-- Llama Guard 防止生成不安全內容
-
----
-
-<h3 id="ragas">RAGAS</h3>
-
-![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
-
-**簡介**
-一種用於評估檢索增強生成（RAG）系統性能的指標。RAGAS 通過衡量檢索階段和生成階段的質量，提供對 RAG 系統的全面評估，幫助開發者改進模型的檢索和生成能力。
-
-**基本資訊**
-- 🔗 官網：https://docs.ragas.io/en/stable/
-- 🤖 開源連結：https://github.com/explodinggradients/ragas
-- 💻 API支援：❌ 不提供
-- 🌐 研發據點：美國
-- 💰 計費方式：免費
-
-**特色功能**
-- 同時評估檢索階段與生成階段的效能
-- 提供全面且客觀的 RAG 系統評估指標
-- 有助於優化檢索與生成流程
-
----
-
 <h3 id="evidently">Evidently</h3>
 
 ![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
@@ -738,3 +697,206 @@ Meta 推出的一項計劃，旨在透過結合網絡安全的紅藍隊測試方
 - 集成超過 250 種工具，包括 GitHub、Notion、Gmail、Slack。
 - 支援多種協議的托管身份驗證。
 - 允許自訂工具和擴充套件。
+
+---
+
+<h3 id="ragas">RAGAS</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+一種用於評估檢索增強生成（RAG）系統性能的指標。RAGAS 通過衡量檢索階段和生成階段的質量，提供對 RAG 系統的全面評估，幫助開發者改進模型的檢索和生成能力。
+
+**基本資訊**
+- 🔗 官網：https://docs.ragas.io/en/stable/
+- 🤖 開源連結：https://github.com/explodinggradients/ragas
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+- 同時評估檢索階段與生成階段的效能
+- 提供全面且客觀的 RAG 系統評估指標
+- 有助於優化檢索與生成流程
+
+---
+
+<h3 id="purple-llama">Purple Llama</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+由Meta推出的專案，針對LLM提供開源、可信任的安全及評估工具，使開發者能安全及負責任地進行LLM開發。其包含四個項目：Llama Guard、Prompt Guard、Code Shield和CyberSec Eval。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/trust-and-safety/
+- 🤖 開源連結：https://github.com/meta-llama/PurpleLlama
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+- 網絡安全評估
+- Llama Guard 防止輸入或生成不安全內容
+- Prompt Guard 防範提示注入或越獄攻擊
+- Code Shield 防止生成可能引發漏洞的程式內容
+- CyberSec Eva 滲透測試和安全性評估工具
+
+---
+
+<h3 id="responsible-generative-ai-toolkit">Responsible Generative AI Toolkit</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+
+**簡介**
+由Google推出，一套專為設計、建構和評估開放式 AI 模型而設計的工具和指南，旨在促進負責任的 AI 開發。 該工具包涵蓋多個關鍵領域，包括負責任的應用程式設計、安全性對齊、模型評估和保護措施。 在應用程式設計方面，開發者可以定義系統層級政策，決定模型應產生或避免的內容類型，並透過安全設計和透明溝通，打造安全可靠的應用程式。
+
+**基本資訊**
+- 🔗 官網：https://ai.google.dev/responsible
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+-模型行為規則設計
+-提示調試與微調支援
+-安全性與公平性評估工具
+-SynthID Text 水印與辨識技術
+-與 Hugging Face、Google Cloud 整合
+
+---
+
+<h3 id="azure-pyrit">Azure PyRit</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+由微軟推出的 PyRIT（Python Risk Identification Tool for generative AI）是一個開源框架，旨在協助安全專業人士和工程師主動識別生成式 AI 系統中的潛在風險。 該工具的設計具有高度靈活性和可擴展性，能夠自動化地執行「紅隊」任務，模擬現實世界中的攻擊者行為，從而評估模型的安全性。PyRIT 通過發送惡意提示，測試模型是否會生成幻覺、偏見或禁止內容，並識別模型可能被濫用的方式，例如生成惡意軟體或進行越獄攻擊。
+
+**基本資訊**
+- 🔗 官網：https://azure.github.io/PyRIT/
+- 🤖 開源連結：https://github.com/Azure/PyRIT
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+-支援多種生成式AI模型的整合
+-提供靜態和動態的測試資料集
+-可擴展的評分引擎，支援機器學習分類器或LLM端點
+-支援單輪和多輪的攻擊策略
+-記錄互動歷史以供深入分析
+-模組化設計，便於擴展和自訂
+-與Azure AI Content Safety過濾器整合
+
+---
+
+<h3 id="vmware-private-ai">VMware Private AI</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+
+**簡介**
+是 VMware 與 NVIDIA 共同開發的企業級私有生成式 AI 平台，建構於 VMware Cloud Foundation 上，整合 NVIDIA AI Enterprise 軟體與 GPU 加速技術。其核心目標是確保大型語言模型（LLM）在處理資料時符合隱私法規，例如 GDPR 或 CCPA。該工具能自動識別處理中的敏感資訊，如個人身份資料（PII）或商業機密，並在檢測到相關數據時進行即時遮蔽或匿名化處理。這項功能不僅能有效防止敏感資料的洩露，還能降低企業在資料管理方面的合規風險。Private AI 將自動化敏感資料遮蔽和資料發現技術整合到了一個高效的解決方案中，使得數據隱私管理變得更簡單且可靠。
+
+**基本資訊**
+- 🔗 官網：https://www.vmware.com/solutions/cloud-infrastructure/private-ai
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+
+**特色功能**
+- 多層次提示注入防護機制
+- 支援 Python 與 JavaScript SDK
+- 自我強化學習能力
+- 向量資料庫比對歷史攻擊樣本
+- 金絲雀令牌檢測提示洩漏
+- 可自我託管或使用雲端服務
+
+---
+
+<h3 id="rebuff">Rebuff</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+一款專門為防範提示注入攻擊而設計的工具，提供實時威脅檢測與防護功能。提示注入攻擊是一種針對大型語言模型的常見威脅，它通過操控模型的輸入內容來實現預期外的行為或生成錯誤資訊。Rebuff 通過多層次的過濾機制，有效識別並阻止這類攻擊，保障模型在應用過程中的完整性和安全性。這款工具不僅在檢測速度上具備優勢，還能適應不同的模型應用場景，提供高度定制化的防護方案。
+
+**基本資訊**
+- 🔗 官網：https://www.rebuff.ai/
+- 🤖 開源連結：https://github.com/protectai/rebuff
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+-多層次提示注入防護機制
+-金絲雀令牌檢測提示洩漏
+
+---
+
+<h3 id="granica-screen">Granica Screen</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+
+**簡介**
+一款先進的資料隱私平台，專為處理自然語言處理（NLP）資料及模型安全問題而設計，涵蓋 AI 訓練、微調及推理的全過程。該平台以自動化方式高效掃描和發現分佈在雲端資料湖中的文件及輸入提示，特別針對可能包含敏感資訊的部分進行識別和屏蔽處理。這種智能的隱私保護能力，能有效降低資料洩露風險，並幫助企業應對與資料使用相關的合規挑戰。其自動化遮蔽功能不僅提升了資料的安全性，還幫助企業節省了人工篩查的時間和成本。
+
+**基本資訊**
+- 🔗 官網：https://granica.ai/screen/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱，依使用量
+- 📋 價格方案：https://aws.amazon.com/marketplace/pp/prodview-zi6qfsvzs3c5g
+
+**特色功能**
+- 高精度與高召回率的敏感資料偵測
+- 支援 100+ 種語言與 50+ 種命名實體
+- 結構化與非結構化文本/NLP 支援
+- 5-10 倍的計算效率，降低掃描成本
+- 即時、低延遲的回應時間，支援高吞吐量
+- 自動遮蔽提示輸入與去遮蔽輸出，提供自然的互動
+- 可在使用者的雲端環境中部署，確保資料安全
+- 支援 AWS 與 Google Cloud Marketplace 部署
+
+---
+
+<h3 id="garak">Garak</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+是NVIDIA 開發的開源工具，專門針對大型語言模型（LLM）開發的免費開源漏洞掃描工具，旨在幫助開發者識別並修復模型中的潛在弱點。它的功能覆蓋了多個關鍵領域，包括幻覺、資料洩露、提示注入、錯誤資訊、生成有害內容以及越獄行為。Garak 的核心特點在於其高效的檢測能力，能夠自動化地分析模型的輸入與輸出，快速發現可能影響模型安全性和可靠性的問題。通過提供詳細的安全報告，Garak 幫助開發者理解問題的根本原因，並提供修復建議，從而使模型更加穩定和安全。
+
+**基本資訊**
+- 🔗 官網：https://garak.ai/
+- 🤖 開源連結：https://github.com/NVIDIA/garak/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+- 提供多種探測模組，如提示注入、毒性生成、資料洩漏
+- 可自定義探測器與生成器
+- 生成詳細的JSONL格式報告
+
+---
+
+<h3 id="vigil-llm">Vigil LLM</h3>
+
+![開發工具](https://img.shields.io/badge/-%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+一個用於評估大型語言模型(LLM)提示和回應的Python librar及API，主要用於檢測提示注入、越獄。Vigil 的另一大亮點是其靈活性和易用性。無論是對於需要深度整合威脅檢測的企業，還是希望簡單測試安全性的小型團隊，Vigil 都能提供相應的支持。
+
+**基本資訊**
+- 🔗 官網：https://github.com/deadbits/vigil-llm
+- 🤖 開源連結：https://github.com/deadbits/vigil-llm
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+- 支援 YARA 規則與向量資料庫相似度分析
+- 提供 Transformer 模型與提示回應相似度分析
+- 金絲雀令牌檢測提示洩漏
+- 情感分析與相關性評估（透過 LiteLLM）
+- 語意重述功能
