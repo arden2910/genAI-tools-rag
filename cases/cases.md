@@ -366,6 +366,7 @@ Google為了與ChatGPT競爭，推出名為Bard的聊天機器人，並透過展
 **基本資訊**
 - 📚 案例涉及：Mind Meld PR
 - 🌐 案例地區：美國
+- 📋 案例年份：2023
 - 🔗 案例網止：https://www.managertoday.com.tw/articles/view/68492
 
 **案例說明**
