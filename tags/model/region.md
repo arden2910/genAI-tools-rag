@@ -1,6 +1,7 @@
 ## 🌐 依開發地區分類
 
 <h3 id="taiwan">🌎 台灣</h3>
+
 以下是由台灣研發的應用工具：
 
 - [Breexe-8x7B](../../tools/model.md#breexe-8x7b)
@@ -20,6 +21,7 @@
 ---
 
 <h3 id="international">🌎 國際</h3>
+
 以下是其他國家研發的工具：
 
 - [Commend-R](../../tools/model.md#commend-r) (加拿大、美國)

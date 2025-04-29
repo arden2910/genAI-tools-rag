@@ -1,14 +1,18 @@
 ## 📜 依授權類型分類
 
 <h3 id="opensource">🔓 開源工具</h3>
+
 以下是開源的工具：
+
 - [Qodo Merge](../../tools/application.md#qodo-merge) - 開發工具
 - [Speechify](../../tools/application.md#speechify) - 語音工具
 
 ---
 
 <h3 id="closedsource">🔒 閉源工具</h3>
+
 以下是閉源/商業版的工具：
+
 - [AI2sql](../../tools/application.md#ai2sql) - 資料庫工具
 - [AISKM](../../tools/application.md#aiskm) - 知識管理, 資訊系統
 - [BRONCI](../../tools/application.md#bronci) - 語音辨識

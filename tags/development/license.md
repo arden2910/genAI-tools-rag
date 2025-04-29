@@ -1,7 +1,9 @@
 ## 📜 依授權類型分類
 
 <h3 id="opensource">🔓 開源工具</h3>
+
 以下是開源的工具：
+
 - [Azure PyRit](../../tools/development.md#azure-pyrit) - 開發工具
 - [Chroma](../../tools/development.md#chroma) - 向量資料庫
 - [Composio](../../tools/development.md#composio) - 開發平台
@@ -32,7 +34,9 @@
 ---
 
 <h3 id="closedsource">🔒 閉源工具</h3>
+
 以下是閉源/商業版的工具：
+
 - [CaiGunn](../../tools/development.md#caigunn) - 開發平台
 - [Cohere](../../tools/development.md#cohere) - 開發平台
 - [FedGPT](../../tools/development.md#fedgpt) - 開發平台

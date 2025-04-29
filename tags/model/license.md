@@ -1,7 +1,9 @@
 ## 📜 依授權類型分類
 
 <h3 id="opensource">🔓 開源工具</h3>
+
 以下是開源的工具：
+
 - [Breexe-8x7B](../../tools/model.md#breexe-8x7b)
 - [Breeze-7B](../../tools/model.md#breeze-7b)
 - [BreezyVoice](../../tools/model.md#breezyvoice)
@@ -21,7 +23,9 @@
 ---
 
 <h3 id="closedsource">🔒 閉源工具</h3>
+
 以下是閉源/商業版的工具：
+
 - [Embed](../../tools/model.md#embed)
 - [FFM-Embedding](../../tools/model.md#ffm-embedding)
 - [FFM-Mistral](../../tools/model.md#ffm-mistral)
