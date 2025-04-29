@@ -2,7 +2,7 @@
 
 <h3 id="international">🌎 國際</h3>
 
-以下是其他國家研發的工具：
+以下是其他國家的風險案例：
 
 - [AI模型可直接被竊取](../../cases/cases.md#ai_model_theft) - (技術風險)
 - [AI投毒詐騙，程式設計師損失2500美元](../../cases/cases.md#ai_poisoning_scams_programmer_loss) - (操作風險)

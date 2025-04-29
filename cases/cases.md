@@ -7,7 +7,6 @@
 ## 🚀 快速索引
 
 - 依**案例據點**
-	- [台灣](../tags/cases/region.md#taiwan)
 	- [國際](../tags/cases/region.md#international)
 - 依**案例類型**
 	- [技術風險](../tags/cases/types.md#operations)
