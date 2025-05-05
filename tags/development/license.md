@@ -20,12 +20,14 @@
 - [LlamaIndex.TS](../../tools/development.md#llamaindex-ts) - 開發框架
 - [LlamaIndex](../../tools/development.md#llamaindex) - RAG框架
 - [Ollama](../../tools/development.md#ollama) - 模型運行
+- [Open WebUI](../../tools/development.md#open-webui) - 本地部署, 模型管理
 - [PGVector](../../tools/development.md#pgvector) - 向量資料庫
 - [Purple Llama](../../tools/development.md#purple-llama) - 安全性
 - [RAGAS](../../tools/development.md#ragas) - RAG評估
 - [Rebuff](../../tools/development.md#rebuff) - 安全性
 - [Redis Vector Database](../../tools/development.md#redis-vector-database) - 向量資料庫
 - [SQLite-VSS](../../tools/development.md#sqlite-vss) - 向量資料庫
+- [Stable Diffusion Web UI](../../tools/development.md#stable-diffusion-web-ui) - 圖像生成, 本地部署, 模型管理
 - [Vigil LLM](../../tools/development.md#vigil-llm) - 安全性
 - [promptfoo](../../tools/development.md#promptfoo) - 安全性
 - [quivr](../../tools/development.md#quivr) - RAG框架

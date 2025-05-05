@@ -4,6 +4,7 @@
 
 以下是由台灣研發的應用工具：
 
+- [A.V.Mapping](../../tools/application.md#a-v-mapping)
 - [AISKM](../../tools/application.md#aiskm)
 - [BRONCI](../../tools/application.md#bronci)
 - [Freego 法樂多](../../tools/application.md#freego)
@@ -21,6 +22,7 @@
 以下是其他國家研發的工具：
 
 - [AI2sql](../../tools/application.md#ai2sql) (美國)
+- [Amazon Q](../../tools/application.md#amazon-q) (美國)
 - [Cogram](../../tools/application.md#cogram) (德國)
 - [Compose AI](../../tools/application.md#compose-ai) (美國)
 - [Consensus](../../tools/application.md#consensus) (美國)

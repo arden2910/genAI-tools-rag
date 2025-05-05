@@ -841,3 +841,47 @@ Gamma 是一款 AI 驅動的內容創作平台，能快速生成簡報、網站�
 - 🌐 研發據點：台灣
 - 💰 計費方式：免費, 依專案
 - 📋 價格方案：https://legalsign.ai/price
+
+---
+
+<h3 id="a-v-mapping">A.V.Mapping</h3>
+
+![AI配樂](https://img.shields.io/badge/-AI%E9%85%8D%E6%A8%82-orange) ![影像音樂媒合](https://img.shields.io/badge/-%E5%BD%B1%E5%83%8F%E9%9F%B3%E6%A8%82%E5%AA%92%E5%90%88-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+
+**簡介**
+
+A.V. Mapping 是由愛飛媒平股份有限公司開發的 AI 影像配樂與音效媒合平台，旨在協助影像創作者快速找到適合的音樂與音效，並處理授權事宜。透過人工智慧技術，平台能夠在數秒內分析影片內容，推薦風格、氣氛、節奏相符的音樂，將傳統需耗時數週的配樂流程大幅縮短，提升創作效率。此外，音樂創作者可在平台上自行定價並追蹤交易流程，保障其權益。A.V. Mapping 亦提供 API 服務，方便企業與開發者整合其功能。
+
+**基本資訊**
+- 🔗 官網：https://avmapping.co/zh/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://avmapping.co/zh/member/#section-plan
+
+**特色功能**
+-AI 分析影片內容，快速推薦配樂與音效
+-支援音樂與音效授權管理
+-音樂創作者可自行定價並追蹤交易
+
+---
+
+<h3 id="amazon-q">Amazon Q</h3>
+
+![AI 助理](https://img.shields.io/badge/-AI%20%E5%8A%A9%E7%90%86-orange) ![軟體開發支援](https://img.shields.io/badge/-%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E6%94%AF%E6%8F%B4-orange) ![企業知識管理](https://img.shields.io/badge/-%E4%BC%81%E6%A5%AD%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
+
+**簡介**
+
+Amazon Q 是 AWS 推出的企業級生成式 AI 助手，提供兩種主要版本：Amazon Q Business 和 Amazon Q Developer。Amazon Q Business 允許企業員工透過自然語言查詢企業內部資料，生成內容、摘要會議記錄，並整合超過 40 種資料來源，包括 Amazon S3、Salesforce、Google Drive、Microsoft 365 等。Amazon Q Developer 則專為開發人員設計，提供程式碼建議、錯誤排除、升級建議等功能，支援多種 IDE 和命令列工具，並整合 AWS 服務以提升開發效率。
+
+**基本資訊**
+- 🔗 官網：https://aws.amazon.com/tw/q/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://aws.amazon.com/tw/q/business/pricing/
+
+**特色功能**
+-提供程式碼建議與自動化開發支援
+-整合企業內部資料，提供個性化建議
+-支援自然語言查詢與互動

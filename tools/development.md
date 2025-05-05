@@ -941,3 +941,50 @@ Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了
 - 金絲雀令牌檢測提示洩漏
 - 情感分析與相關性評估（透過 LiteLLM）
 - 語意重述功能
+
+---
+
+<h3 id="open-webui">Open WebUI</h3>
+
+![本地部署](https://img.shields.io/badge/-%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2-orange) ![模型管理](https://img.shields.io/badge/-%E6%A8%A1%E5%9E%8B%E7%AE%A1%E7%90%86-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+
+Open WebUI 是一款開源、可擴展且用戶友好的自託管 AI 平台，設計上完全離線運行。它支持多種大型語言模型（LLM）運行器，如 Ollama 和 OpenAI 兼容的 API，內建檢索增強生成（RAG）推理引擎，使其成為強大的 AI 部署解決方案。該平台允許用戶透過直觀的網頁介面與 LLM 互動，並提供模型管理、用戶角色與權限設定等功能，適合開發者、數據科學家和 AI 愛好者使用。
+
+**基本資訊**
+- 🔗 官網：https://www.openwebui.com/
+- 🤖 開源連結：https://github.com/open-webui/open-webui
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+-支援多種 LLM 運行器
+-內建 RAG 推理引擎
+-用戶角色與權限管理
+-響應式設計，適用於桌面與行動裝置
+-支援 Docker 和 Kubernetes 部署
+
+---
+
+<h3 id="stable-diffusion-web-ui">Stable Diffusion Web UI</h3>
+
+![圖像生成](https://img.shields.io/badge/-%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90-orange) ![本地部署](https://img.shields.io/badge/-%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2-orange) ![模型管理](https://img.shields.io/badge/-%E6%A8%A1%E5%9E%8B%E7%AE%A1%E7%90%86-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+
+Stable Diffusion Web UI 是一款基於 Gradio 的開源圖形介面，專為 Stable Diffusion 模型設計。由 AUTOMATIC1111 開發，提供完整的圖像生成與編輯功能，包括文字轉圖（txt2img）、圖像轉圖像（img2img）、內補繪製（inpainting）、外補繪製（outpainting）等。該工具支援多種模型與擴充功能，並具備豐富的插件生態系統，適合藝術家、開發者與研究人員使用。
+
+**基本資訊**
+- 🔗 官網：https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- 🤖 開源連結：https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：N/A
+- 💰 計費方式：免費
+
+**特色功能**
+-支援 txt2img、img2img、inpainting、outpainting 等功能
+-提供多種採樣器與提示詞加權控制
+-支援插件與擴充功能，如 ControlNet、LoRA 等
+-可自訂介面與工作流程

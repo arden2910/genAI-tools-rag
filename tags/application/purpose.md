@@ -18,6 +18,7 @@
 
 以下工具用於提升銷售與行銷效果：
 
+- [A.V.Mapping](../../tools/application.md#a-v-mapping) - AI 驅動的影像配樂與音效媒合平台
 - [Compose AI](../../tools/application.md#compose-ai) - 文案創作與行銷工具
 - [Describely](../../tools/application.md#describely) - 產品行銷與內容創作工具
 - [Gamma](../../tools/application.md#gamma) - 簡報與文案製作與視覺設計工具
@@ -45,6 +46,7 @@
 以下工具用於技術研發：
 
 - [AI2sql](../../tools/application.md#ai2sql) - 技術開發與資料庫管理工具
+- [Amazon Q](../../tools/application.md#amazon-q) - 企業級生成式 AI 助理
 - [Consensus](../../tools/application.md#consensus) - 研究分析工具
 - [Elicit](../../tools/application.md#elicit) - 研究助手
 - [Microsoft Copilot](../../tools/application.md#microsoft-copilot) - 全方位生產力工具
@@ -71,6 +73,7 @@
 
 - [AI2sql](../../tools/application.md#ai2sql) - 技術開發與資料庫管理工具
 - [AISKM](../../tools/application.md#aiskm) - 企業知識管理與智能問答平台
+- [Amazon Q](../../tools/application.md#amazon-q) - 企業級生成式 AI 助理
 - [Mem](../../tools/application.md#mem) - AI筆記應用與知識管理與培訓工具
 - [Rewind](../../tools/application.md#rewind) - 工作記錄與追蹤工具
 - [SmartRobot](../../tools/application.md#smartrobot) - 系統整合與智能客服平台
@@ -93,6 +96,7 @@
 
 以下工具用於多媒體內容創作：
 
+- [A.V.Mapping](../../tools/application.md#a-v-mapping) - AI 驅動的影像配樂與音效媒合平台
 - [BRONCI](../../tools/application.md#bronci) - 語音辨識工具
 - [Compose AI](../../tools/application.md#compose-ai) - 文案創作與行銷工具
 - [ElevenLabs](../../tools/application.md#elevenlabs) - 語音客服與語音合成工具
@@ -113,6 +117,7 @@
 以下工具用於知識管理與協作：
 
 - [AISKM](../../tools/application.md#aiskm) - 企業知識管理與智能問答平台
+- [Amazon Q](../../tools/application.md#amazon-q) - 企業級生成式 AI 助理
 - [Cogram](../../tools/application.md#cogram) - 會議記錄與專案管理助手與培訓工具
 - [Freego 法樂多](../../tools/application.md#freego) - 合約工具
 - [Mem](../../tools/application.md#mem) - AI筆記應用與知識管理與培訓工具
