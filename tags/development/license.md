@@ -17,8 +17,8 @@
 - [LangFlow](../../tools/development.md#langflow) - 工作流
 - [LangGraph](../../tools/development.md#langgraph) - 工作流
 - [LibreChat](../../tools/development.md#librechat) - 開發框架
-- [LlamaIndex.TS](../../tools/development.md#llamaindex-ts) - 開發框架
 - [LlamaIndex](../../tools/development.md#llamaindex) - RAG框架
+- [LlamaIndex.TS](../../tools/development.md#llamaindex-ts) - 開發框架
 - [Ollama](../../tools/development.md#ollama) - 模型運行
 - [Open WebUI](../../tools/development.md#open-webui) - 本地部署, 模型管理
 - [PGVector](../../tools/development.md#pgvector) - 向量資料庫
@@ -42,8 +42,8 @@
 - [CaiGunn](../../tools/development.md#caigunn) - 助理平台
 - [Cohere](../../tools/development.md#cohere) - 開發平台
 - [FedGPT](../../tools/development.md#fedgpt) - 開發平台
-- [Forefront Chat AI](../../tools/development.md#forefront-chat-ai) - 助理平台
 - [Forefront](../../tools/development.md#forefront) - 開發平台
+- [Forefront Chat AI](../../tools/development.md#forefront-chat-ai) - 助理平台
 - [Granica Screen](../../tools/development.md#granica-screen) - 安全性
 - [LangSmith](../../tools/development.md#langsmith) - 效能監控
 - [MaiAgent](../../tools/development.md#maiagent) - 助理平台
