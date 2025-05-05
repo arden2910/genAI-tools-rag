@@ -12,6 +12,20 @@
 - 依**開源狀態**
 	- [開源](../tags/development/license.md#opensource)
 	- [閉源](../tags/development/license.md#closedsource)
+- 依**應用目的**
+	- [💾 向量資料庫](../tags/development/purpose.md#vector-db)
+	- [⚙️ 工作流](../tags/development/purpose.md#workflow)
+	- [🧩 框架](../tags/development/purpose.md#framework)
+	- [🏗️ 開發框架](../tags/development/purpose.md#dev-framework)
+	- [🛠️ 開發平台](../tags/development/purpose.md#dev-platform)
+	- [✨ 低代碼平台](../tags/development/purpose.md#low-code)
+	- [⏱️ 效能監控](../tags/development/purpose.md#perf-monitor)
+	- [📊 評測工具](../tags/development/purpose.md#evaluation-tool)
+	- [🤖 助理平台](../tags/development/purpose.md#assistant-platform)
+	- [🔬 技術研發](../tags/development/purpose.md#rd)
+	- [💻 資訊系統](../tags/development/purpose.md#info-sys)
+	- [🎬 多媒體內容製作](../tags/development/purpose.md#multimedia)
+
 
 ## 📋 工具列表
 <!-- INSERTION_MARKER -->
