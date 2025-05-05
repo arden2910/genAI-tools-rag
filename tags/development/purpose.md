@@ -115,23 +115,3 @@
 
 - [Stable Diffusion Web UI](../../tools/development.md#stable-diffusion-web-ui) - 本地部署的 AI 圖像生成與編輯平台
 
----
-
-<h3 id="other">❓ 其他</h3>
-
-以下工具用於其他類型的開發工具：
-
-- [Cohere](../../tools/development.md#cohere)
-- [FedGPT](../../tools/development.md#fedgpt)
-- [Forefront Chat AI](../../tools/development.md#forefront-chat-ai)
-- [Forefront](../../tools/development.md#forefront)
-- [Haystack](../../tools/development.md#haystack)
-- [Jan](../../tools/development.md#jan)
-- [LibreChat](../../tools/development.md#librechat)
-- [LlamaIndex.TS](../../tools/development.md#llamaindex-ts)
-- [LlamaIndex](../../tools/development.md#llamaindex)
-- [MediaTek DaVinci](../../tools/development.md#mediatek-davinci)
-- [SmartLLM](../../tools/development.md#smartllm)
-- [SuperBot X](../../tools/development.md#superbot-x)
-- [quivr](../../tools/development.md#quivr)
-
