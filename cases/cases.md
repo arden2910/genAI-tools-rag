@@ -27,7 +27,7 @@
 - 📚 案例涉及：ChatGPT, Redis-py
 - 🌐 案例地區：美國
 - 📋 案例年份：2022
-- 🔗 案例網止：https://www.ithome.com.tw/news/156137, https://www.lakera.ai/blog/training-data-poisoning
+- 🔗 參考網址：https://www.ithome.com.tw/news/156137, https://www.lakera.ai/blog/training-data-poisoning
 
 **案例說明**
 
@@ -44,7 +44,7 @@ ChatGPT曾在2020與2023年各發生一次資料外洩事件，部分付費使�
 - 📚 案例涉及：Meta AI, Galactica
 - 🌐 案例地區：美國
 - 📋 案例年份：2022
-- 🔗 案例網止：https://www.ithome.com.tw/news/154310, https://www.inside.com.tw/article/29766-meta-shuts-ai-not-galactica
+- 🔗 參考網址：https://www.ithome.com.tw/news/154310, https://www.inside.com.tw/article/29766-meta-shuts-ai-not-galactica
 
 **案例說明**
 
@@ -61,7 +61,7 @@ Meta AI推出一款名為Galactica的AI模型，初衷是協助學術人員快�
 - 📚 案例涉及：LangChain
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://nvd.nist.gov/vuln/detail/CVE-2023-29374, https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/
+- 🔗 參考網址：https://nvd.nist.gov/vuln/detail/CVE-2023-29374, https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/
 
 **案例說明**
 
@@ -78,7 +78,7 @@ NIST國家弱點資料庫（CVE-2023-29374）指出，LangChain 0.0.131及更早
 - 📚 案例涉及：GPT-J-6B, Hugging Face
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/
+- 🔗 參考網址：https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/
 
 **案例說明**
 
@@ -95,7 +95,7 @@ NIST國家弱點資料庫（CVE-2023-29374）指出，LangChain 0.0.131及更早
 - 📚 案例涉及：Bing Chat, ChatGPT
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.ithome.com.tw/news/155474
+- 🔗 參考網址：https://www.ithome.com.tw/news/155474
 
 **案例說明**
 
@@ -112,7 +112,7 @@ NIST國家弱點資料庫（CVE-2023-29374）指出，LangChain 0.0.131及更早
 - 📚 案例涉及：ChatGPT
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.wired.com/story/chatgpt-poem-forever-security-roundup/
+- 🔗 參考網址：https://www.wired.com/story/chatgpt-poem-forever-security-roundup/
 
 **案例說明**
 
@@ -129,7 +129,7 @@ Google DeepMind、華盛頓大學、加州大學柏克萊分校等研究人員�
 - 📚 案例涉及：OpenAI Ada, OpenAI Babbage, GPT-3.5, GPT-4
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://www.techbang.com/posts/113911-openais-core-data-was-stolen-google-admitted-to-the-active, https://not-just-memorization.github.io/partial-model-stealing.html
+- 🔗 參考網址：https://www.techbang.com/posts/113911-openais-core-data-was-stolen-google-admitted-to-the-active, https://not-just-memorization.github.io/partial-model-stealing.html
 
 **案例說明**
 
@@ -146,7 +146,7 @@ Google AI團隊發表研究指出，利用「模型竊取」技術，成本僅�
 - 📚 案例涉及：Google Gemini
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://www.ithome.com.tw/news/161434, https://www.techbang.com/posts/113411-googlegeminis-image-function-was-shut-down-urgently-and-word
+- 🔗 參考網址：https://www.ithome.com.tw/news/161434, https://www.techbang.com/posts/113411-googlegeminis-image-function-was-shut-down-urgently-and-word
 
 **案例說明**
 
@@ -163,7 +163,7 @@ Google Gemini為避免圖像生成模型偏向白人男性，嘗試在生成人�
 - 📚 案例涉及：Google Gemini
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://technews.tw/2024/11/20/google-gemini-has-encountered-another-issue/, https://newtalk.tw/news/view/2024-11-19/945388
+- 🔗 參考網址：https://technews.tw/2024/11/20/google-gemini-has-encountered-another-issue/, https://newtalk.tw/news/view/2024-11-19/945388
 
 **案例說明**
 
@@ -180,7 +180,7 @@ Google Gemini為避免圖像生成模型偏向白人男性，嘗試在生成人�
 - 📚 案例涉及：ConfusedPilot
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://www.infosecurity-magazine.com/news/confusedpilot-attack-targets-ai/, https://www.symmetry-systems.com/blog/confused-pilot-attack/, https://www.securityindustry.org/2024/10/23/the-confusedpilot-hack-a-wake-up-call-for-identity-and-access-management-and-physical-access-control/
+- 🔗 參考網址：https://www.infosecurity-magazine.com/news/confusedpilot-attack-targets-ai/, https://www.symmetry-systems.com/blog/confused-pilot-attack/, https://www.securityindustry.org/2024/10/23/the-confusedpilot-hack-a-wake-up-call-for-identity-and-access-management-and-physical-access-control/
 
 **案例說明**
 
@@ -197,7 +197,7 @@ Google Gemini為避免圖像生成模型偏向白人男性，嘗試在生成人�
 - 📚 案例涉及：Claude 3.5 Sonnet, Gemini Pro, GPT-4
 - 🌐 案例地區：多國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://www.techbang.com/posts/120370-ai-anthropic-gpt-4o?utm_source=chatgpt.com, https://www.marktechpost.com/2024/12/13/best-of-n-jailbreaking-a-multi-modal-ai-approach-to-identifying-vulnerabilities-in-large-language-models/
+- 🔗 參考網址：https://www.techbang.com/posts/120370-ai-anthropic-gpt-4o?utm_source=chatgpt.com, https://www.marktechpost.com/2024/12/13/best-of-n-jailbreaking-a-multi-modal-ai-approach-to-identifying-vulnerabilities-in-large-language-models/
 
 **案例說明**
 
@@ -214,7 +214,7 @@ Speechmatics、MATS、UCL、史丹佛大學、牛津大學、Tangentic和Anthrop
 - 📚 案例涉及：Apple GPU, Qualcomm GPU, AMD GPU, Imagination GPU
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://www.ithome.com.tw/news/160915, https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory
+- 🔗 參考網址：https://www.ithome.com.tw/news/160915, https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory
 
 **案例說明**
 
@@ -231,7 +231,7 @@ NIST國家弱點資料庫（CVE-2023-4969）指出，使用Apple、Qualcomm、AM
 - 📚 案例涉及：Google, OpenAI, Mistral AI
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://technews.tw/2024/11/26/ai-hiring-bias/, https://www.theregister.com/2024/11/21/ai_hiring_test_bias/
+- 🔗 參考網址：https://technews.tw/2024/11/26/ai-hiring-bias/, https://www.theregister.com/2024/11/21/ai_hiring_test_bias/
 
 **案例說明**
 
@@ -248,7 +248,7 @@ Monok行銷長Celeste De Nadai使用Google、OpenAI、Mistral AI的模型研究�
 - 📚 案例涉及：Cornell University, Technion, Intuit
 - 🌐 案例地區：美國, 以色列
 - 📋 案例年份：2024
-- 🔗 案例網止：https://www.ithome.com.tw/news/161596, https://sites.google.com/view/compromptmized
+- 🔗 參考網址：https://www.ithome.com.tw/news/161596, https://sites.google.com/view/compromptmized
 
 **案例說明**
 
@@ -265,7 +265,7 @@ Monok行銷長Celeste De Nadai使用Google、OpenAI、Mistral AI的模型研究�
 - 📚 案例涉及：Manus AI Agent
 - 🌐 案例地區：中國
 - 📋 案例年份：2025
-- 🔗 案例網止：https://www.threads.net/@largitdata/post/DHBTXlIyp_R
+- 🔗 參考網址：https://www.threads.net/@largitdata/post/DHBTXlIyp_R
 
 **案例說明**
 
@@ -282,7 +282,7 @@ Manus為AI Agent產品，具備分析、執行及成果交付能力。網友透�
 - 📚 案例涉及：Air Canada AI聊天機器人
 - 🌐 案例地區：加拿大
 - 📋 案例年份：2022
-- 🔗 案例網止：https://www.cmswire.com/customer-experience/exploring-air-canadas-ai-chatbot-dilemma/, https://www.forbes.com/sites/marisagarcia/2024/02/19/what-air-canada-lost-in-remarkable-lying-ai-chatbot-case/, https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know
+- 🔗 參考網址：https://www.cmswire.com/customer-experience/exploring-air-canadas-ai-chatbot-dilemma/, https://www.forbes.com/sites/marisagarcia/2024/02/19/what-air-canada-lost-in-remarkable-lying-ai-chatbot-case/, https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know
 
 **案例說明**
 
@@ -299,7 +299,7 @@ Manus為AI Agent產品，具備分析、執行及成果交付能力。網友透�
 - 📚 案例涉及：iTutorGroup AI篩選工具
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.eeoc.gov/newsroom/itutorgroup-pay-365000-settle-eeoc-discriminatory-hiring-suit
+- 🔗 參考網址：https://www.eeoc.gov/newsroom/itutorgroup-pay-365000-settle-eeoc-discriminatory-hiring-suit
 
 **案例說明**
 
@@ -316,7 +316,7 @@ iTutorGroup在面試篩選程序使用AI工具，發現該工具自動拒絕了5
 - 📚 案例涉及：Samsung, ChatGPT
 - 🌐 案例地區：南韓
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.ithome.com.tw/news/156291
+- 🔗 參考網址：https://www.ithome.com.tw/news/156291
 
 **案例說明**
 
@@ -333,7 +333,7 @@ iTutorGroup在面試篩選程序使用AI工具，發現該工具自動拒絕了5
 - 📚 案例涉及：Google Bard
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.storm.mg/lifestyle/4725414, https://www.bnext.com.tw/article/74031/bard-lost-230209?
+- 🔗 參考網址：https://www.storm.mg/lifestyle/4725414, https://www.bnext.com.tw/article/74031/bard-lost-230209?
 
 **案例說明**
 
@@ -350,7 +350,7 @@ Google為了與ChatGPT競爭，推出名為Bard的聊天機器人，並透過展
 - 📚 案例涉及：ChatGPT
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.ithome.com.tw/news/157103, https://www.techbang.com/posts/106669-30-year-old-lawyer-uses-chatgpt-to-solicit-quotations-the
+- 🔗 參考網址：https://www.ithome.com.tw/news/157103, https://www.techbang.com/posts/106669-30-year-old-lawyer-uses-chatgpt-to-solicit-quotations-the
 
 **案例說明**
 
@@ -367,7 +367,7 @@ Google為了與ChatGPT競爭，推出名為Bard的聊天機器人，並透過展
 - 📚 案例涉及：Mind Meld PR
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.managertoday.com.tw/articles/view/68492
+- 🔗 參考網址：https://www.managertoday.com.tw/articles/view/68492
 
 **案例說明**
 
@@ -384,7 +384,7 @@ Google為了與ChatGPT競爭，推出名為Bard的聊天機器人，並透過展
 - 📚 案例涉及：ChatGPT, Solana API (釣魚網站)
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://vocus.cc/article/6743375bfd89780001aa8923, https://www.ccn.com/news/technology/chatgpt-solana-api-phishing-site/
+- 🔗 參考網址：https://vocus.cc/article/6743375bfd89780001aa8923, https://www.ccn.com/news/technology/chatgpt-solana-api-phishing-site/
 
 **案例說明**
 
@@ -401,7 +401,7 @@ Google為了與ChatGPT競爭，推出名為Bard的聊天機器人，並透過展
 - 📚 案例涉及：Microsoft Azure AI, New York City Chatbot
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://www.entrepreneur.com/business-news/nycs-first-ai-chatbot-keeps-getting-important-things-wrong/472280, https://tech.udn.com/tech/story/123454/7872414
+- 🔗 參考網址：https://www.entrepreneur.com/business-news/nycs-first-ai-chatbot-keeps-getting-important-things-wrong/472280, https://tech.udn.com/tech/story/123454/7872414
 
 **案例說明**
 
@@ -418,7 +418,7 @@ Google為了與ChatGPT競爭，推出名為Bard的聊天機器人，並透過展
 - 📚 案例涉及：GitHub Copilot, OpenAI
 - 🌐 案例地區：美國
 - 📋 案例年份：2022
-- 🔗 案例網止：https://www.theverge.com/2022/11/8/23446821/microsoft-openai-github-copilot-class-action-lawsuit-ai-copyright-violation-training-data, https://mitsloan.mit.edu/ideas-made-to-matter/legal-issues-presented-generative-ai
+- 🔗 參考網址：https://www.theverge.com/2022/11/8/23446821/microsoft-openai-github-copilot-class-action-lawsuit-ai-copyright-violation-training-data, https://mitsloan.mit.edu/ideas-made-to-matter/legal-issues-presented-generative-ai
 
 **案例說明**
 
@@ -435,7 +435,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：Stability AI, DeviantArt, Midjourney, Getty Images
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://finance.technews.tw/2023/01/18/stable-diffusion-be-sued/, https://iknow.stpi.narl.org.tw/post/Read.aspx?PostID=20448, https://www.inside.com.tw/article/30654-getty-images-sued-stabilit-ai
+- 🔗 參考網址：https://finance.technews.tw/2023/01/18/stable-diffusion-be-sued/, https://iknow.stpi.narl.org.tw/post/Read.aspx?PostID=20448, https://www.inside.com.tw/article/30654-getty-images-sued-stabilit-ai
 
 **案例說明**
 
@@ -452,7 +452,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：OpenAI, ChatGPT
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://www.saint-island.com.tw/TW/Knowledge/Knowledge_Info.aspx?IT=Know_0_1&ID=72867&CID=745, https://www.cna.com.tw/news/ait/202307060361.aspx
+- 🔗 參考網址：https://www.saint-island.com.tw/TW/Knowledge/Knowledge_Info.aspx?IT=Know_0_1&ID=72867&CID=745, https://www.cna.com.tw/news/ait/202307060361.aspx
 
 **案例說明**
 
@@ -469,7 +469,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：OpenAI, ChatGPT
 - 🌐 案例地區：義大利
 - 📋 案例年份：2024
-- 🔗 案例網止：https://news.pts.org.tw/article/730016, https://www.ithome.com.tw/news/166702, https://www.gpdp.it/home/docweb/-/docweb-display/docweb/10085432
+- 🔗 參考網址：https://news.pts.org.tw/article/730016, https://www.ithome.com.tw/news/166702, https://www.gpdp.it/home/docweb/-/docweb-display/docweb/10085432
 
 **案例說明**
 
@@ -486,7 +486,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：Patagonia, Talkdesk
 - 🌐 案例地區：美國
 - 📋 案例年份：2024
-- 🔗 案例網止：https://securityboulevard.com/2024/07/patagonia-sued-for-using-ai-based-software-to-analyze-customer-calls/, https://therecord.media/patagonia-sued-privacy-invasion-california
+- 🔗 參考網址：https://securityboulevard.com/2024/07/patagonia-sued-for-using-ai-based-software-to-analyze-customer-calls/, https://therecord.media/patagonia-sued-privacy-invasion-california
 
 **案例說明**
 
@@ -503,7 +503,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：OpenAI, ChatGPT
 - 🌐 案例地區：美國
 - 📋 案例年份：2025
-- 🔗 案例網止：https://www.reuters.com/legal/litigation/openai-must-face-part-intercept-lawsuit-over-ai-training-2025-02-20/?utm_source=chatgpt.com, https://news.bloomberglaw.com/ip-law/intercepts-evidence-enough-to-advance-openai-claim-judge-says
+- 🔗 參考網址：https://www.reuters.com/legal/litigation/openai-must-face-part-intercept-lawsuit-over-ai-training-2025-02-20/?utm_source=chatgpt.com, https://news.bloomberglaw.com/ip-law/intercepts-evidence-enough-to-advance-openai-claim-judge-says
 
 **案例說明**
 
@@ -520,7 +520,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：ROSS Intelligence, Westlaw (Thomson Reuters)
 - 🌐 案例地區：美國
 - 📋 案例年份：2025
-- 🔗 案例網止：https://cincodias.elpais.com/legal/2025-02-20/el-abogado-robot-ross-intelligence-pierde-un-juicio-contra-thomson-reuters-por-alimentar-su-ia-con-la-base-de-datos-westlaw.html?utm_source=chatgpt.com, https://www.authorsalliance.org/2025/02/13/thomson-reuters-v-ross-the-first-ai-fair-use-ruling-fails-to-persuade/
+- 🔗 參考網址：https://cincodias.elpais.com/legal/2025-02-20/el-abogado-robot-ross-intelligence-pierde-un-juicio-contra-thomson-reuters-por-alimentar-su-ia-con-la-base-de-datos-westlaw.html?utm_source=chatgpt.com, https://www.authorsalliance.org/2025/02/13/thomson-reuters-v-ross-the-first-ai-fair-use-ruling-fails-to-persuade/
 
 **案例說明**
 
@@ -537,7 +537,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：Microsoft Tay
 - 🌐 案例地區：美國
 - 📋 案例年份：2016
-- 🔗 案例網止：https://www.lakera.ai/blog/training-data-poisoning
+- 🔗 參考網址：https://www.lakera.ai/blog/training-data-poisoning
 
 **案例說明**
 
@@ -554,7 +554,7 @@ GitHub推出的AI程式碼生成工具Copilot因涉嫌侵犯開源軟體著作�
 - 📚 案例涉及：Meta BlenderBot 3
 - 🌐 案例地區：美國
 - 📋 案例年份：2022
-- 🔗 案例網止：https://www.inside.com.tw/article/28552-blenderbot-3, https://www.scitw.cc/posts/hotnews16426
+- 🔗 參考網址：https://www.inside.com.tw/article/28552-blenderbot-3, https://www.scitw.cc/posts/hotnews16426
 
 **案例說明**
 
@@ -571,7 +571,7 @@ Meta研發的AI聊天機器人BlenderBot 3，原意在透過與人不斷對話�
 - 📚 案例涉及：UnitedHealth Group
 - 🌐 案例地區：美國
 - 📋 案例年份：2022
-- 🔗 案例網止：https://www.reuters.com/legal/lawsuit-claims-unitedhealth-ai-wrongfully-denies-elderly-extended-care-2023-11-14/, https://www.statnews.com/2024/05/22/unitedhealth-class-action-lawsuit-algorithm-motion-to-dismiss/, https://aiexpert.network/case-study-the-role-of-ai-in-unitedhealths-strategy/
+- 🔗 參考網址：https://www.reuters.com/legal/lawsuit-claims-unitedhealth-ai-wrongfully-denies-elderly-extended-care-2023-11-14/, https://www.statnews.com/2024/05/22/unitedhealth-class-action-lawsuit-algorithm-motion-to-dismiss/, https://aiexpert.network/case-study-the-role-of-ai-in-unitedhealths-strategy/
 
 **案例說明**
 
@@ -588,7 +588,7 @@ Meta研發的AI聊天機器人BlenderBot 3，原意在透過與人不斷對話�
 - 📚 案例涉及：Koko, ChatGPT
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://fc.bnext.com.tw/articles/view/3424?, https://mpost.io/zh-TW/4000-people-underwent-ai-robot-psychotherapy-without-knowing-it/, https://www.the-sun.com/tech/7098773/panic-ai-counselor-patients-knowledge/
+- 🔗 參考網址：https://fc.bnext.com.tw/articles/view/3424?, https://mpost.io/zh-TW/4000-people-underwent-ai-robot-psychotherapy-without-knowing-it/, https://www.the-sun.com/tech/7098773/panic-ai-counselor-patients-knowledge/
 
 **案例說明**
 
@@ -605,7 +605,7 @@ Meta研發的AI聊天機器人BlenderBot 3，原意在透過與人不斷對話�
 - 📚 案例涉及：Sports Illustrated, AdVon Commerce
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://futurism.com/sports-illustrated-ai-generated-writers, https://www.pbs.org/newshour/economy/sports-illustrated-found-publishing-ai-generated-stories-photos-and-authors, https://www.cbsnews.com/news/sports-illustrated-ross-levinsohn-arena-group-termination-ai-articles/
+- 🔗 參考網址：https://futurism.com/sports-illustrated-ai-generated-writers, https://www.pbs.org/newshour/economy/sports-illustrated-found-publishing-ai-generated-stories-photos-and-authors, https://www.cbsnews.com/news/sports-illustrated-ross-levinsohn-arena-group-termination-ai-articles/
 
 **案例說明**
 
@@ -622,7 +622,7 @@ Sports Illustrated與第三方內容提供商AdVon Commerce合作，AdVon卻遭�
 - 📚 案例涉及：Character.ai, Google
 - 🌐 案例地區：美國
 - 📋 案例年份：2023
-- 🔗 案例網止：https://udn.com/news/story/6813/8313053, https://www.ettoday.net/news/20241024/2841103.htm, https://edition.cnn.com/2024/10/30/tech/teen-suicide-character-ai-lawsuit/index.html
+- 🔗 參考網址：https://udn.com/news/story/6813/8313053, https://www.ettoday.net/news/20241024/2841103.htm, https://edition.cnn.com/2024/10/30/tech/teen-suicide-character-ai-lawsuit/index.html
 
 **案例說明**
 
