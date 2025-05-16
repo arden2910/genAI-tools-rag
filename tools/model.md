@@ -247,17 +247,65 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 
 ---
 
-<h3 id="llama-3-2-11b-or-90b-1b-or-3b">Llama 3.2 11B or 90B, 1B or 3B</h3>
+<h3 id="llama-3-2-90b">Llama 3.2 90B</h3>
 
 ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
 
 **簡介**
 
-由Meta開發的多模態AI模型。能夠同時處理文本和圖像輸入，適用於圖像識別、圖像推理等任務。輕量級模型經過優化，可在行動裝置和邊緣設備上高效運行。
+由Meta開發的一款 900 億參數的多模態大型語言模型，專為處理圖像與文字的任務而設計。該模型在視覺推理、圖像描述和視覺問答等任務中表現出色，並在多項業界基準測試中超越了許多開源和商業模型。
 
 **基本資訊**
 - 🔗 官網：https://www.llama.com/
-- 🤖 開源連結：https://huggingface.co/meta-llama/Llama-3.2-90B-Vision-Instruct
+- 🤖 開源連結：https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<h3 id="llama-3-2-11b">Llama 3.2 11B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+
+由Meta開發的一款 110 億參數的多模態大型語言模型，能夠處理圖像與文字的輸入，並生成文字輸出。該模型在圖像識別、視覺推理和圖像描述等任務中具有優異的效能，適用於各種需要結合視覺和語言理解的應用場景。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/
+- 🤖 開源連結：https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<h3 id="llama-3-2-3b">Llama 3.2 3B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+
+由Meta開發的一款 30 億參數的多語言大型語言模型，專為多語言對話、資訊檢索和摘要等任務而設計。該模型在多項業界基準測試中表現優異，適合用於需要準確且高效文本生成的應用。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/
+- 🤖 開源連結：https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<h3 id="llama-3-2-1b">Llama 3.2 1B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+
+由Meta開發的一款 10 億參數的多語言大型語言模型，專為在資源受限的環境中執行自然語言處理任務而設計。該模型在摘要、對話和多語言文本分析等任務中表現良好，適合用於移動設備和邊緣計算等場景。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/
+- 🤖 開源連結：https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：美國
 
@@ -342,3 +390,19 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 - 🤖 開源連結：https://huggingface.co/MediaTek-Research/BreezyVoice
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
+
+---
+
+<h3 id="gemma-3-1b-4b-12b-27b">Gemma 3 1B, 4B, 12B, 27B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+
+由Google DeepMind研發之輕量級開放語言模型，基於 Gemini 技術架構並為在單一 GPU 或 TPU 上運行進行了優化，使得開發者可以在多種硬體上打造高效能的 AI 應用，上下文窗口長度提升至 128k Token與140多種語言能力，4B以上模型整合了視覺理解能力，能夠處理圖像輸入。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d
+- 🤖 開源連結：https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
