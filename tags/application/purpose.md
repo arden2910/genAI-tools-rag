@@ -43,7 +43,6 @@
 以下工具用於技術研發：
 
 - [AI2sql](../../tools/application.md#ai2sql) - 技術開發與資料庫管理工具
-- [Amazon Q](../../tools/application.md#amazon-q) - 企業級生成式 AI 助理
 - [Consensus](../../tools/application.md#consensus) - 研究分析工具
 - [Elicit](../../tools/application.md#elicit) - 研究助手
 - [Microsoft Copilot](../../tools/application.md#microsoft-copilot) - 全方位生產力工具
@@ -70,7 +69,6 @@
 
 - [AI2sql](../../tools/application.md#ai2sql) - 技術開發與資料庫管理工具
 - [AISKM](../../tools/application.md#aiskm) - 企業知識管理與智能問答平台
-- [Amazon Q](../../tools/application.md#amazon-q) - 企業級生成式 AI 助理
 - [Mem](../../tools/application.md#mem) - AI筆記應用與知識管理與培訓工具
 - [Rewind](../../tools/application.md#rewind) - 工作記錄與追蹤工具
 - [SmartRobot](../../tools/application.md#smartrobot) - 系統整合與智能客服平台
@@ -111,7 +109,6 @@
 以下工具用於知識管理與協作：
 
 - [AISKM](../../tools/application.md#aiskm) - 企業知識管理與智能問答平台
-- [Amazon Q](../../tools/application.md#amazon-q) - 企業級生成式 AI 助理
 - [Cogram](../../tools/application.md#cogram) - 會議記錄與專案管理助手與培訓工具
 - [Freego 法樂多](../../tools/application.md#freego) - 合約工具
 - [Mem](../../tools/application.md#mem) - AI筆記應用與知識管理與培訓工具

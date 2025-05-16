@@ -15,7 +15,6 @@
 
 - [AI2sql](../../tools/application.md#ai2sql) - 資料庫工具
 - [AISKM](../../tools/application.md#aiskm) - 知識管理, 資訊系統
-- [Amazon Q](../../tools/application.md#amazon-q) - AI 助理, 軟體開發支援, 企業知識管理
 - [BRONCI](../../tools/application.md#bronci) - 語音辨識
 - [Cogram](../../tools/application.md#cogram) - 會議助手
 - [Compose AI](../../tools/application.md#compose-ai) - 寫作助手

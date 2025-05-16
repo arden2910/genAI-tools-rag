@@ -19,7 +19,6 @@
 以下是其他國家研發的應用工具：
 
 - [AI2sql](../../tools/application.md#ai2sql) (美國)
-- [Amazon Q](../../tools/application.md#amazon-q) (美國)
 - [Cogram](../../tools/application.md#cogram) (德國)
 - [Compose AI](../../tools/application.md#compose-ai) (美國)
 - [Consensus](../../tools/application.md#consensus) (美國)
