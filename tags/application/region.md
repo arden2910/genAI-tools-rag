@@ -16,7 +16,7 @@
 
 <h3 id="international">🌎 國際</h3>
 
-以下是其他國家研發的工具：
+以下是其他國家研發的應用工具：
 
 - [AI2sql](../../tools/application.md#ai2sql) (美國)
 - [Amazon Q](../../tools/application.md#amazon-q) (美國)

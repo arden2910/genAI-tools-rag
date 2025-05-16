@@ -2,7 +2,7 @@
 
 <h3 id="taiwan">🌎 台灣</h3>
 
-以下是由台灣研發的應用工具：
+以下是由台灣研發的開發工具：
 
 - [CaiGunn](../../tools/development.md#caigunn)
 - [FedGPT](../../tools/development.md#fedgpt)
@@ -15,7 +15,7 @@
 
 <h3 id="international">🌎 國際</h3>
 
-以下是其他國家研發的工具：
+以下是其他國家研發的開發工具：
 
 - [Azure PyRit](../../tools/development.md#azure-pyrit) (美國)
 - [Chroma](../../tools/development.md#chroma) (美國)
