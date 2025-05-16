@@ -65,7 +65,7 @@
 
 ---
 
-<h3 id="evaluation-tool">📊 評測工具</h3>
+<h3 id="evaluation-tool">📊 風險評測</h3>
 
 以下工具用於評估、測試與確保 AI 模型或系統的效能、安全性與可靠性：
 
@@ -95,6 +95,7 @@
 
 以下工具用於支援軟體開發與技術研究活動：
 
+- [ComfyUI](../../tools/development.md#comfyui) - 本地部署的 AI 圖像生成與編輯平台
 - [Open WebUI](../../tools/development.md#open-webui) - 本地部署的 AI 模型管理與互動平台
 - [Stable Diffusion Web UI](../../tools/development.md#stable-diffusion-web-ui) - 本地部署的 AI 圖像生成與編輯平台
 
@@ -104,6 +105,7 @@
 
 以下工具用於管理、處理資訊或提供系統層級功能：
 
+- [ComfyUI](../../tools/development.md#comfyui) - 本地部署的 AI 圖像生成與編輯平台
 - [Open WebUI](../../tools/development.md#open-webui) - 本地部署的 AI 模型管理與互動平台
 - [Stable Diffusion Web UI](../../tools/development.md#stable-diffusion-web-ui) - 本地部署的 AI 圖像生成與編輯平台
 
@@ -113,5 +115,6 @@
 
 以下工具用於用於圖像生成或其他多媒體內容的開發工具：
 
+- [ComfyUI](../../tools/development.md#comfyui) - 本地部署的 AI 圖像生成與編輯平台
 - [Stable Diffusion Web UI](../../tools/development.md#stable-diffusion-web-ui) - 本地部署的 AI 圖像生成與編輯平台
 

@@ -9,7 +9,6 @@
 - [MaiAgent](../../tools/development.md#maiagent)
 - [MediaTek DaVinci](../../tools/development.md#mediatek-davinci)
 - [SmartLLM](../../tools/development.md#smartllm)
-- [SuperBot X](../../tools/development.md#superbot-x)
 - [波特人 BOTRUN](../../tools/development.md#botrun)
 
 ---
@@ -21,6 +20,7 @@
 - [Azure PyRit](../../tools/development.md#azure-pyrit) (美國)
 - [Chroma](../../tools/development.md#chroma) (美國)
 - [Cohere](../../tools/development.md#cohere) (加拿大、美國)
+- [ComfyUI](../../tools/development.md#comfyui) (N/A)
 - [Composio](../../tools/development.md#composio) (美國)
 - [Dify.Ai](../../tools/development.md#dify-ai) (美國)
 - [Evidently](../../tools/development.md#evidently) (美國)

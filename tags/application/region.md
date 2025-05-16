@@ -4,16 +4,13 @@
 
 以下是由台灣研發的應用工具：
 
-- [A.V.Mapping](../../tools/application.md#a-v-mapping)
 - [AISKM](../../tools/application.md#aiskm)
 - [BRONCI](../../tools/application.md#bronci)
 - [Freego 法樂多](../../tools/application.md#freego)
 - [STT Service](../../tools/application.md#stt-service)
 - [SmartRobot](../../tools/application.md#smartrobot)
 - [Studio](../../tools/application.md#studio)
-- [Super 8 AI](../../tools/application.md#super-8-ai)
 - [Vitals ESP GenAI](../../tools/application.md#vitals-esp-genai)
-- [文字MP3專業AI版](../../tools/application.md#iqt-ai)
 
 ---
 
@@ -38,7 +35,6 @@
 - [Qodo Merge](../../tools/application.md#qodo-merge) (以色列)
 - [Rewind](../../tools/application.md#rewind) (遠距(美國、加拿大))
 - [Skybox AI](../../tools/application.md#skybox-ai) (美國)
-- [SparkAmplify](../../tools/application.md#sparkamplify) (美國, 台灣)
 - [Speechify](../../tools/application.md#speechify) (無特別標示)
 - [Sybill](../../tools/application.md#sybill) (美國)
 - [Synthesia](../../tools/application.md#synthesia) (英國)

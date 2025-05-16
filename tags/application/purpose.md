@@ -18,13 +18,10 @@
 
 以下工具用於提升銷售與行銷效果：
 
-- [A.V.Mapping](../../tools/application.md#a-v-mapping) - AI 驅動的影像配樂與音效媒合平台
 - [Compose AI](../../tools/application.md#compose-ai) - 文案創作與行銷工具
 - [Describely](../../tools/application.md#describely) - 產品行銷與內容創作工具
 - [Gamma](../../tools/application.md#gamma) - 簡報與文案製作與視覺設計工具
 - [HyperWrite](../../tools/application.md#hyperwrite) - 文案創作與行銷工具
-- [SparkAmplify](../../tools/application.md#sparkamplify) - 公關行銷平台
-- [Super 8 AI](../../tools/application.md#super-8-ai) - 社群行銷與客服平台
 - [Sybill](../../tools/application.md#sybill) - 銷售分析與客戶管理工具
 - [Wordtune](../../tools/application.md#wordtune) - 文案創作工具
 
@@ -88,7 +85,6 @@
 - [ElevenLabs](../../tools/application.md#elevenlabs) - 語音客服與語音合成工具
 - [SmartRobot](../../tools/application.md#smartrobot) - 系統整合與智能客服平台
 - [Speechify](../../tools/application.md#speechify) - 語音服務工具
-- [Super 8 AI](../../tools/application.md#super-8-ai) - 社群行銷與客服平台
 
 ---
 
@@ -96,7 +92,6 @@
 
 以下工具用於多媒體內容創作：
 
-- [A.V.Mapping](../../tools/application.md#a-v-mapping) - AI 驅動的影像配樂與音效媒合平台
 - [BRONCI](../../tools/application.md#bronci) - 語音辨識工具
 - [Compose AI](../../tools/application.md#compose-ai) - 文案創作與行銷工具
 - [ElevenLabs](../../tools/application.md#elevenlabs) - 語音客服與語音合成工具
@@ -108,7 +103,6 @@
 - [Studio](../../tools/application.md#studio) - 語音工具
 - [Synthesia](../../tools/application.md#synthesia) - 影片製作工具, 虛擬人像工具​
 - [Wordtune](../../tools/application.md#wordtune) - 文案創作工具
-- [文字MP3專業AI版](../../tools/application.md#iqt-ai) - 語音轉換工具
 
 ---
 

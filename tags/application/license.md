@@ -13,7 +13,6 @@
 
 以下是閉源/商業版的工具：
 
-- [A.V.Mapping](../../tools/application.md#a-v-mapping) - AI配樂, 影像音樂媒合
 - [AI2sql](../../tools/application.md#ai2sql) - 資料庫工具
 - [AISKM](../../tools/application.md#aiskm) - 知識管理, 資訊系統
 - [Amazon Q](../../tools/application.md#amazon-q) - AI 助理, 軟體開發支援, 企業知識管理
@@ -35,12 +34,9 @@
 - [STT Service](../../tools/application.md#stt-service) - 語音辨識
 - [Skybox AI](../../tools/application.md#skybox-ai) - 環景圖工具
 - [SmartRobot](../../tools/application.md#smartrobot) - 客服平台
-- [SparkAmplify](../../tools/application.md#sparkamplify) - 行銷工具
 - [Studio](../../tools/application.md#studio) - 語音工具
-- [Super 8 AI](../../tools/application.md#super-8-ai) - 客服工具
 - [Sybill](../../tools/application.md#sybill) - 銷售助手
 - [Synthesia](../../tools/application.md#synthesia) - 影像工具
 - [Vitals ESP GenAI](../../tools/application.md#vitals-esp-genai) - 知識管理, 資訊系統
 - [Wordtune](../../tools/application.md#wordtune) - 寫作助手
 - [scite](../../tools/application.md#scite) - 研究助手
-- [文字MP3專業AI版](../../tools/application.md#iqt-ai) - 語音工具

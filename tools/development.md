@@ -20,7 +20,7 @@
 	- [🛠️ 開發平台](../tags/development/purpose.md#dev-platform)
 	- [✨ 低代碼平台](../tags/development/purpose.md#low-code)
 	- [⏱️ 效能監控](../tags/development/purpose.md#perf-monitor)
-	- [📊 評測工具](../tags/development/purpose.md#evaluation-tool)
+	- [📊 風險評測](../tags/development/purpose.md#evaluation-tool)
 	- [🤖 助理平台](../tags/development/purpose.md#assistant-platform)
 	- [🔬 技術研發](../tags/development/purpose.md#rd)
 	- [💻 資訊系統](../tags/development/purpose.md#info-sys)
@@ -182,30 +182,6 @@
 **使用模型**
 - GPT3.5
 - Claude
-
----
-
-<h3 id="superbot-x">SuperBot X</h3>
-
-![聊天機器人](https://img.shields.io/badge/-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-orange) ![台灣](https://img.shields.io/badge/-台灣-blue) ![閉源](https://img.shields.io/badge/-閉源-red)
-
-**簡介**
-
-SuperBot X 以最先進的 AIGC 技術（Artificial Intelligence Generated Chatbot）為後盾，只需要匯入品牌資料 (支援 XLS、XLSX、PDF 的檔案格式) 或提供品牌網址，SuperBot X 就能獲取網站最新內容並且提供即時回答。
-
-**基本資訊**
-- 🔗 官網：https://events.no8.io/superbotx/
-- 💻 API支援：✅ 提供
-- 🌐 研發據點：台灣
-- 💰 計費方式：訂閱
-- 📋 價格方案：https://www.no8.io/plan
-
-**使用模型**
-- Claude 3 Sonnet
-- Claude 3 Haiku
-- GPT-3.5 Turbo
-- GPT-4/GPT-4 Turbo
-- GPT 4o
 
 ---
 
@@ -752,7 +728,7 @@ Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了
 
 **簡介**
 
-一種用於評估檢索增強生成（RAG）系統性能的指標。RAGAS 通過衡量檢索階段和生成階段的質量，提供對 RAG 系統的全面評估，幫助開發者改進模型的檢索和生成能力。
+一種用於評估檢索增強生成（RAG）系統效能的評估框架。RAGAS 透過衡量檢索階段與生成階段的品質，提供對 RAG 系統的全面評估，協助開發者改進模型的檢索及生成能力。
 
 **基本資訊**
 - 🔗 官網：https://docs.ragas.io/en/stable/
@@ -1002,3 +978,25 @@ Stable Diffusion Web UI 是一款基於 Gradio 的開源圖形介面，專為 St
 -提供多種採樣器與提示詞加權控制
 -支援插件與擴充功能，如 ControlNet、LoRA 等
 -可自訂介面與工作流程
+
+---
+
+<h3 id="comfyui">ComfyUI</h3>
+
+![圖像生成](https://img.shields.io/badge/-%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90-orange) ![本地部署](https://img.shields.io/badge/-%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2-orange) ![模型管理](https://img.shields.io/badge/-%E6%A8%A1%E5%9E%8B%E7%AE%A1%E7%90%86-orange) ![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**
+
+ComfyUI 是一款開源的節點式圖形介面，專為 Stable Diffusion 設計，允許使用者透過拖放節點的方式建立自訂的圖像生成工作流。支援多種模型與擴充功能，如 ControlNet、LoRA 等，適合進階使用者與開發者進行複雜的 AI 圖像生成與處理。
+
+**基本資訊**
+- 🔗 官網：https://www.comfy.org/
+- 🤖 開源連結：https://github.com/comfyanonymous/ComfyUI
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：N/A
+- 💰 計費方式：免費
+
+**特色功能**
+-節點式工作流設計，靈活組合各種功能模組
+-支援多種 Stable Diffusion 模型與擴充功能
+-可儲存與分享完整的工作流設定

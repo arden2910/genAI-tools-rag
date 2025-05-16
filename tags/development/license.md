@@ -6,6 +6,7 @@
 
 - [Azure PyRit](../../tools/development.md#azure-pyrit) - 安全性
 - [Chroma](../../tools/development.md#chroma) - 向量資料庫
+- [ComfyUI](../../tools/development.md#comfyui) - 圖像生成, 本地部署, 模型管理
 - [Composio](../../tools/development.md#composio) - 整合工具集
 - [Dify.Ai](../../tools/development.md#dify-ai) - 開發框架
 - [Evidently](../../tools/development.md#evidently) - 效能監控
@@ -51,6 +52,5 @@
 - [Pinecone](../../tools/development.md#pinecone) - 向量資料庫
 - [Responsible Generative AI Toolkit](../../tools/development.md#responsible-generative-ai-toolkit) - 安全性
 - [SmartLLM](../../tools/development.md#smartllm) - 聊天機器人
-- [SuperBot X](../../tools/development.md#superbot-x) - 聊天機器人
 - [VMware Private AI](../../tools/development.md#vmware-private-ai) - 安全性
 - [波特人 BOTRUN](../../tools/development.md#botrun) - 助理平台
