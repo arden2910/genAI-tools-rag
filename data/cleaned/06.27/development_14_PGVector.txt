@@ -1,0 +1,11 @@
+PGVector
+
+**簡介**
+
+一個開源的PostgreSQL 的擴充套件，用於向量相似性搜索，特別適合處理向量資料，例如機器學習模型生成的嵌入向量。pgvector 支援向量數據的儲存、相似性查詢和高效搜索，適用於如自然語言處理（NLP）和圖像識別等需要處理高維度數據的應用場景
+
+**基本資訊**
+- 🔗 官網：https://github.com/pgvector/pgvector
+- 🤖 開源連結：https://github.com/pgvector/pgvector
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國

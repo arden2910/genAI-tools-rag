@@ -1,0 +1,20 @@
+Speechify
+
+**簡介**
+
+文字轉語音工具，能將文件、網頁、PDF 等內容讀出來，以 AI 生成的聲音播放。
+
+**基本資訊**
+- 🔗 官網：https://speechify.com/
+- 🤖 開源連結：https://github.com/SpeechifyInc
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：無特別標示
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://speechify.com/pricing/?utm_campaign=partners&utm_content=rewardful&via=homepage&gad_source=1
+
+**特色功能**
+- 多格式文件支援
+- AI語音生成
+- 跨平台使用
+- 自然語音合成
+- 多語言支援

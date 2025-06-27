@@ -1,0 +1,16 @@
+Forefront
+
+**簡介**
+
+讓開發者能夠使用開源模型進行微調與下載模型，並提供playground檢視微調效果
+
+**基本資訊**
+- 🔗 官網：https://forefront.ai/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://forefront.ai/pricing
+
+**使用模型**
+- Mistral-7B
+- 其他開源模型

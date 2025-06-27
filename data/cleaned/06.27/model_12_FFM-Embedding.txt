@@ -1,0 +1,12 @@
+FFM-Embedding
+
+**簡介**
+
+由台智雲推出的向量嵌入模型，提供增強語意搜尋的向量嵌入模型解決方案，可以將文本轉換為一組向量，進行文本解析、關鍵字分析、文本分類等任務。
+
+**基本資訊**
+- 🔗 官網：https://tws.twcc.ai/service/embedding/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://docs.twcc.ai/docs/pricing

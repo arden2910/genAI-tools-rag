@@ -1,0 +1,42 @@
+📋 工具列表
+
+Microsoft Copilot
+
+**簡介**
+
+Microsoft Copilot 是一款由人工智慧驅動的助手，整合於您每天使用的 Microsoft 應用程式和服務中，例如 Microsoft 365（包含 Word、Excel、PowerPoint、Outlook、Teams 等）和 Windows。Copilot 旨在透過提供智慧建議、自動化任務和釋放您的創造力，來協助您更有效率地工作。無論是撰寫文件、分析數據、設計簡報、編寫程式碼，或是管理您的郵件和會議，Copilot 都能成為您的得力助手，讓您專注於更重要的事務。
+
+**基本資訊**
+- 🔗 官網：https://copilot.microsoft.com/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://www.microsoft.com/en-us/store/b/copilotpro
+
+**特色功能**
+- 智能文件撰寫
+- 數據分析協助
+- 簡報製作輔助
+- 程式碼建議
+- 圖像生成
+- 自然語言對話
+- 網頁內容摘要
+- 智能搜尋
+
+**整合應用**
+- Microsoft 365 應用程式
+  - Word
+  - Excel
+  - PowerPoint
+  - Outlook
+- Windows 系統
+- Edge 瀏覽器
+- Bing 搜尋引擎
+
+**使用場景**
+- 辦公文件處理
+- 程式開發輔助
+- 創意內容生成
+- 資訊搜索整理
+- 數據分析報告
+- 簡報製作

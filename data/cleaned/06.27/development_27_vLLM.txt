@@ -1,0 +1,18 @@
+vLLM
+
+**簡介**
+
+vLLM 是由加州大學柏克萊分校 LMSYS 團隊開發的開源高速推理框架，專為大型語言模型設計，旨在提升推理吞吐量與記憶體使用效率。
+
+**基本資訊**
+- 🔗 官網：https://docs.vllm.ai/
+- 🤖 開源連結：https://github.com/vllm-project/vllm
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+- PagedAttention 技術
+- 高Throughput
+- 靈活的批處理
+- 可與 Hugging Face 等開源模型架構無縫整合

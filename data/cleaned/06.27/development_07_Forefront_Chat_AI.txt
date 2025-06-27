@@ -1,0 +1,20 @@
+Forefront Chat AI
+
+**簡介**
+
+基於生成式 AI 的聊天平台，整合了語音和文字的多模態技術，協助用戶生成文案、回答問題，並根據需求定制聊天機器人的行為和回應風格。
+
+**基本資訊**
+- 🔗 官網：https://chat.forefront.ai/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://chat.forefront.ai/pricing
+
+**特色功能**
+- RAG應用支援
+- Agent建立支援
+
+**使用模型**
+- GPT3.5
+- Claude

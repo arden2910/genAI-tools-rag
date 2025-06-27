@@ -1,0 +1,11 @@
+BreezyVoice
+
+**簡介**
+
+​​由聯發創新基地推出的語音合成模型，針對台灣國語進行優化。該模型採用輕量化架構，僅需輸入5到15秒的原始聲音，即可精準複製說話者的聲音，包括語氣、抑揚頓挫和口音，適用於需要自然語音輸出的應用場景。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/MediaTek-Research/breeze-2-family-67863158443a06a72dd29900
+- 🤖 開源連結：https://huggingface.co/MediaTek-Research/BreezyVoice
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣

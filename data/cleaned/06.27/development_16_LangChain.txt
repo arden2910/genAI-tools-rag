@@ -1,0 +1,11 @@
+LangChain
+
+**簡介**
+
+LangChain 是一個專為開發基於大型語言模型（LLM）的應用而設計框架，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用開發。目前支援 Python、JavaScript這兩種主要的程式語言。
+
+**基本資訊**
+- 🔗 官網：https://www.langchain.com/langchain
+- 🤖 開源連結：https://github.com/langchain-ai/langchain
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國

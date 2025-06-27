@@ -1,0 +1,11 @@
+Llama-3-Taiwan-70B
+
+**簡介**
+
+Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台灣文化和繁體中文的語言模型系列 Project TAME (TAiwan Mixture of Experts) 之一，適用於多種 NLP任務，包括多輪對話、RAG、台灣在地化語言任務和其他與繁體中文密切相關的應用，除70B的模型外，尚提供8B的模型。
+
+**基本資訊**
+- 🔗 官網：https://github.com/MiuLab/Taiwan-LLM
+- 🤖 開源連結：https://huggingface.co/yentinglin/Llama-3-Taiwan-70B-Instruct
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣

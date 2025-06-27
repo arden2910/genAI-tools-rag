@@ -1,0 +1,18 @@
+quivr
+
+**簡介**
+
+一個開源的RAG開發框架，用來簡化和提升與大型語言模型(LLM)的互動體驗。它利用 OpenAI Functions 來構建高效的對話檢索鏈（Conversational Retrieval Chain），使得在回答用戶問題時，可以根據需求選擇直接回答或調用歷史上下文。當需要歷史上下文時，Quivr 會將問題和相關歷史記錄傳遞給檢索器（retriever），進行向量相似度搜索，以找到相關文件，並將其作為上下文提供給 LLM。
+
+**基本資訊**
+- 🔗 官網：https://www.quivr.com/
+- 🤖 開源連結：https://github.com/QuivrHQ/quivr
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：法國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://www.quivr.com/pricing
+
+**使用模型**
+- GPT-3.5
+- GPT-4
+- GPT-4 Turbo

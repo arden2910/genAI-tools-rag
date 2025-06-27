@@ -1,0 +1,11 @@
+Llama 3-TAIDE-LX-8B-Chat-Alpha1
+
+**簡介**
+
+由我國國科會支持的「可信任生成式AI發展先期計畫」(TAIDE)研發成果，以 LLaMA3-8B 為基礎，使用繁體中文資料預訓練 (continuous pretraining)，並透過指令微調(instruction tuning)強化辦公室常用任務和多輪問答對話能力，適合聊天對話或任務協助的使用情境。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/taide/Llama3-TAIDE-LX-8B-Chat-Alpha1
+- 🤖 開源連結：https://huggingface.co/taide/Llama3-TAIDE-LX-8B-Chat-Alpha1
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣

@@ -1,0 +1,18 @@
+VMware Private AI
+
+**簡介**
+
+是 VMware 與 NVIDIA 共同開發的企業級私有生成式 AI 平台，建構於 VMware Cloud Foundation 上，整合 NVIDIA AI Enterprise 軟體與 GPU 加速技術。其核心目標是確保大型語言模型（LLM）在處理資料時符合隱私法規，例如 GDPR 或 CCPA。該工具能自動識別處理中的敏感資訊，如個人身份資料（PII）或商業機密，並在檢測到相關數據時進行即時遮蔽或匿名化處理。這項功能不僅能有效防止敏感資料的洩露，還能降低企業在資料管理方面的合規風險。Private AI 將自動化敏感資料遮蔽和資料發現技術整合到了一個高效的解決方案中，使得數據隱私管理變得更簡單且可靠。
+
+**基本資訊**
+- 🔗 官網：https://www.vmware.com/solutions/cloud-infrastructure/private-ai
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+
+**特色功能**
+- 多層次提示注入防護機制
+- 支援 Python 與 JavaScript SDK
+- 自我強化學習能力
+- 向量資料庫比對歷史攻擊樣本
+- 金絲雀令牌檢測提示洩漏
+- 可自我託管或使用雲端服務

@@ -1,0 +1,11 @@
+Breeze-7B
+
+**簡介**
+
+由聯發科技聯發創新基地基於Mixtral-7B針對中文特殊情境優化所訓練的繁體中文大型語言模型。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/MediaTek-Research/breeze-7b-65a67144880ad716173d7d87
+- 🤖 開源連結：https://huggingface.co/MediaTek-Research/Breeze-7B-Instruct-v1_0
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣

@@ -1,0 +1,28 @@
+Gamma
+
+**簡介**
+
+Gamma 是一款 AI 驅動的內容創作平台，能快速生成簡報、網站、社群貼文等。用戶只需輸入主題或大綱，即可自動產出具備專業設計的內容，並支援即時協作與多種格式匯出。
+
+**基本資訊**
+- 🔗 官網：https://gamma.app
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://gamma.app/pricing
+
+**特色功能**
+- AI 自動生成簡報與網站
+- 支援即時協作與編輯
+- 多種主題與模板選擇
+- 匯出為 PPT、PDF、PNG 等格式
+- 內建圖像與內容生成工具
+
+**使用模型**
+- Claude
+- ChatGPT + DALL-E
+- Gemini + Imagen
+- Flux
+- Stable Diffusion
+- Playground
+- Ideogram

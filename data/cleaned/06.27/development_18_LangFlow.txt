@@ -1,0 +1,17 @@
+LangFlow
+
+**簡介**
+
+一個低代碼(low-code)的整合式開發環境（IDE），專為構建 RAG 和多代理 AI （multi-agent AI）應用而設計。它基於 Python，允許開發者使用拖放式組件快速構建和測試 AI 工作流，並能整合多種 API、數據源和嵌入式模型。該工具簡化了生成式 AI 應用的開發過程，讓新手和有經驗的開發者都能快速構建和部署 AI 應用。
+
+**基本資訊**
+- 🔗 官網：https://www.langflow.org/
+- 🤖 開源連結：https://github.com/langflow-ai/langflow
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+**特色功能**
+- 拖放式組件構建
+- 支援多種API整合
+- 支援多種數據源
+- 內建工作流測試功能

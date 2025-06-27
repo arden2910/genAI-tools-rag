@@ -1,0 +1,18 @@
+Stable Diffusion Web UI
+
+**簡介**
+
+Stable Diffusion Web UI 是一款基於 Gradio 的開源圖形介面，專為 Stable Diffusion 模型設計。由 AUTOMATIC1111 開發，提供完整的圖像生成與編輯功能，包括文字轉圖（txt2img）、圖像轉圖像（img2img）、內補繪製（inpainting）、外補繪製（outpainting）等。該工具支援多種模型與擴充功能，並具備豐富的插件生態系統，適合藝術家、開發者與研究人員使用。
+
+**基本資訊**
+- 🔗 官網：https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- 🤖 開源連結：https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：N/A
+- 💰 計費方式：免費
+
+**特色功能**
+-支援 txt2img、img2img、inpainting、outpainting 等功能
+-提供多種採樣器與提示詞加權控制
+-支援插件與擴充功能，如 ControlNet、LoRA 等
+-可自訂介面與工作流程

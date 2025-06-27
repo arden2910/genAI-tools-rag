@@ -1,0 +1,17 @@
+LlamaIndex.TS
+
+**簡介**
+
+LlamaIndex 的 TypeScript 版本，專為構建由大型語言模型 (LLMs) 驅動的應用程式設計。它協助開發者處理、結構化並存取私有或特定領域的數據。LlamaIndex 允許開發者通過多種數據源（如 API、PDF、文件、SQL 資料庫等）將資料納入 LLM 應用，進而進行資料索引和查詢支援多個應用場景，如結構化數據提取、檢索增強生成 (RAG)、以及建立Agent。
+
+**基本資訊**
+- 🔗 官網：https://ts.llamaindex.ai/
+- 🤖 開源連結：https://github.com/run-llama/LlamaIndexTS
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+**特色功能**
+- 多數據源整合
+- 結構化數據提取
+- RAG應用支援
+- Agent建立支援

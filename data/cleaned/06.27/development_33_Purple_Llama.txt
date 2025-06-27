@@ -1,0 +1,19 @@
+Purple Llama
+
+**簡介**
+
+由Meta推出的專案，針對LLM提供開源、可信任的安全及評估工具，使開發者能安全及負責任地進行LLM開發。其包含四個項目：Llama Guard、Prompt Guard、Code Shield和CyberSec Eval。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/trust-and-safety/
+- 🤖 開源連結：https://github.com/meta-llama/PurpleLlama
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+- 網絡安全評估
+- Llama Guard 防止輸入或生成不安全內容
+- Prompt Guard 防範提示注入或越獄攻擊
+- Code Shield 防止生成可能引發漏洞的程式內容
+- CyberSec Eva 滲透測試和安全性評估工具

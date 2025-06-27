@@ -1,0 +1,18 @@
+Dify.Ai
+
+**簡介**
+
+Dify 是一款開源的大型語言模型（LLM）應用開發平台，融合了後端即服務（BaaS）和 LLMOps 的理念，旨在協助開發者和企業快速構建、部署和管理基於 LLM 的生成式 AI 應用。 ​
+
+**基本資訊**
+- 🔗 官網：https://dify.ai/
+- 🤖 開源連結：https://github.com/langgenius/dify
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 依專案
+- 📋 價格方案：https://dify.ai/pricing
+
+**特色功能**
+- 支援多種大型語言模型
+- 高效的 RAG 引擎
+- 零程式碼建構自主 AI Agent

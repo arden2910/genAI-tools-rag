@@ -1,0 +1,12 @@
+Skybox AI
+
+**簡介**
+
+由 Blockade Labs 開發的AI工具，能透過文字提示快速生成 360° 全景環境，以加速沉浸式場景的創作流程。
+
+**基本資訊**
+- 🔗 官網：https://skybox.blockadelabs.com/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱, 依使用量
+- 📋 價格方案：https://skybox.blockadelabs.com/membership, https://skybox.blockadelabs.com/api-membership

@@ -1,0 +1,18 @@
+Jan
+
+**簡介**
+
+離線版ChatGPT的替代工具，允許用戶在無需網路的情況下執行大型語言模型(LLM)，並確保所有數據的隱私性。Jan 提供與 OpenAI 相容的本地 API，並支持第三方擴展。用戶可以使用內建的模型庫或從 Hugging Face 等平台導入模型，並在不連接外部伺服器的情況下進行自定義和調整。Jan 支援 Mac、Windows、Linux 等系統，強調用戶對數據和隱私的控制。除了支持 llama.cpp，Jan 還支持 NVIDIA TensorRT-LLM，為擁有 Nvidia GPU 的用戶提供超高速的運行體驗。
+
+**基本資訊**
+- 🔗 官網：https://jan.ai/
+- 🤖 開源連結：https://github.com/janhq/jan
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：新加坡
+- 💰 計費方式：免費
+
+**特色功能**
+- OpenAI相容的本地API
+- 支援第三方擴展
+- 支援Hugging Face模型導入
+- 支援llama.cpp和NVIDIA TensorRT-LLM

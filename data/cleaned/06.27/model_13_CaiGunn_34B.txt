@@ -1,0 +1,11 @@
+CaiGunn 34B
+
+**簡介**
+
+由亞太智能機器(APMIC)自行研發的開源模型，支援英文與中文，具備 4K Context window，可搭配 CaiGunn 平台進行微調。
+
+**基本資訊**
+- 🔗 官網：https://www.ap-mic.com/gpt
+- 🤖 開源連結：https://huggingface.co/APMIC/caigun-lora-model-34B-v2
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣

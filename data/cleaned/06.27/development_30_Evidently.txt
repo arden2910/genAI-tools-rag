@@ -1,0 +1,18 @@
+Evidently
+
+**簡介**
+
+​一個開源的機器學習模型監控工具，旨在協助開發者和數據科學家追蹤模型的效能和數據漂移。Evidently 提供直觀的報告和儀表板，讓使用者能夠及時發現模型問題，確保模型在生產環境中的穩定性和可靠性。
+
+**基本資訊**
+- 🔗 官網：https://www.evidentlyai.com/
+- 🤖 開源連結：https://github.com/evidentlyai/evidently
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 依專案
+- 📋 價格方案：https://www.evidentlyai.com/pricing
+
+**特色功能**
+- 直觀的報告與儀表板
+- 實時追蹤數據漂移
+- 支援多維度指標分析

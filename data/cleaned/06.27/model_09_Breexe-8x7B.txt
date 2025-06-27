@@ -1,0 +1,11 @@
+Breexe-8x7B
+
+**簡介**
+
+由聯發科技聯發創新基地基於Mixtral-8x7B針對中文特殊情境優化所訓練的繁體中文大型語言模型。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/MediaTek-Research/breexe-8x7b-65cd841ce7ef6d9c02fc56d9
+- 🤖 開源連結：https://huggingface.co/MediaTek-Research/Breexe-8x7B-Instruct-v0_1
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣

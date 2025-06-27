@@ -1,0 +1,17 @@
+ComfyUI
+
+**簡介**
+
+ComfyUI 是一款開源的節點式圖形介面，專為 Stable Diffusion 設計，允許使用者透過拖放節點的方式建立自訂的圖像生成工作流。支援多種模型與擴充功能，如 ControlNet、LoRA 等，適合進階使用者與開發者進行複雜的 AI 圖像生成與處理。
+
+**基本資訊**
+- 🔗 官網：https://www.comfy.org/
+- 🤖 開源連結：https://github.com/comfyanonymous/ComfyUI
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：N/A
+- 💰 計費方式：免費
+
+**特色功能**
+-節點式工作流設計，靈活組合各種功能模組
+-支援多種 Stable Diffusion 模型與擴充功能
+-可儲存與分享完整的工作流設定

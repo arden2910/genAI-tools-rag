@@ -1,0 +1,26 @@
+Cogram
+
+**簡介**
+
+一個專為專案和客戶工作而設計的AI工具，能自動生成會議記錄、狀態更新、追蹤行動項目並提供摘要。可以整合電子郵件、為虛擬及實體會議做會議記錄、追蹤關鍵決策和行動項目。支持 Zoom、Microsoft Teams 和 Google Meet 等平台串接，並能整合 Outlook、Gmail 和 CRM 系統。
+
+**基本資訊**
+- 🔗 官網：https://www.cogram.com/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：德國
+- 💰 計費方式：依專案
+- 📋 價格方案：https://www.cogram.com/pricing
+
+**特色功能**
+-自動生成會議記錄
+-支援自訂模板
+-郵件管理
+-專案報告生成
+
+**整合平台**
+- Zoom
+- Microsoft Teams
+- Google Meet
+- Outlook
+- Gmail
+- CRM系統

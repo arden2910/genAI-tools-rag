@@ -1,0 +1,28 @@
+AI2sql
+
+**簡介**
+
+一種基於 AI 的 SQL 查詢生成工具，使用者不須理解太多資料庫查詢知識就能透過自然語言迅速生成SQL語法。此外，AI2sql 具備語法美化功能，以提高可讀性，避免語法錯誤。AI2sql 支援多種資料庫系統，如 MySQL、SQL Server、PostgreSQL、Oracle Cloud、Azure SQL 資料庫、MongoDB、Google BigQuery 和 Snowflake。
+
+**基本資訊**
+- 🔗 官網：https://ai2sql.io/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://app.ai2sql.io/?section=pricing
+
+**特色功能**
+- 自然語言轉SQL
+- 語法美化
+- 多資料庫支援
+- 錯誤檢查
+
+**支援資料庫**
+- MySQL
+- SQL Server
+- PostgreSQL
+- Oracle Cloud
+- Azure SQL
+- MongoDB
+- Google BigQuery
+- Snowflake

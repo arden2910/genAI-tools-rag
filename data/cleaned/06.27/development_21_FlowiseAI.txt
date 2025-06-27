@@ -1,0 +1,19 @@
+FlowiseAI
+
+**簡介**
+
+Flowise AI 是基於 LangChain 的 no code/low code 的 AI 工作流構建工具，讓開發者可以通過拖放方式輕鬆設計工作流，快速構建複雜的 AI 解決方案，如：聊天機器人、智能問答系統、內容生成工具以及自動化數據處理等應用。
+
+**基本資訊**
+- 🔗 官網：https://flowiseai.com/
+- 🤖 開源連結：https://github.com/FlowiseAI/Flowise
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://flowiseai.com/#pricing
+
+**應用場景**
+- 聊天機器人開發
+- 智能問答系統
+- 內容生成工具
+- 自動化數據處理

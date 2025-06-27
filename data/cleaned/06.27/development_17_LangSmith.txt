@@ -1,0 +1,18 @@
+LangSmith
+
+**簡介**
+
+由 LangChain 開發的一款專業工具，專注於構建、調試和優化以大型語言模型（LLM）為核心的應用程式。該工具提供了效能監控、偵錯、數據分析等功能，讓開發者可以深入分析 LLM 應用的表現，並根據具體需求進行優化。Langsmith 特別適合那些使用 LangChain 框架開發複雜語言模型應用的團隊和企業
+
+**基本資訊**
+- 🔗 官網：https://www.langchain.com/langsmith
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://www.langchain.com/pricing-langsmith
+
+**特色功能**
+- LLM應用效能監控
+- 調試工具
+- 數據分析功能
+- 與LangChain完整整合

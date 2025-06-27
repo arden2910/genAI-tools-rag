@@ -1,0 +1,11 @@
+Gemma 3 1B, 4B, 12B, 27B
+
+**簡介**
+
+由Google DeepMind研發之輕量級開放語言模型，基於 Gemini 技術架構並為在單一 GPU 或 TPU 上運行進行了優化，使得開發者可以在多種硬體上打造高效能的 AI 應用，上下文窗口長度提升至 128k Token與140多種語言能力，4B以上模型整合了視覺理解能力，能夠處理圖像輸入。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d
+- 🤖 開源連結：https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國

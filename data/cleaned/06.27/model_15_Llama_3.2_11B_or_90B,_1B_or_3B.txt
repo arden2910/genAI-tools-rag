@@ -1,0 +1,11 @@
+Llama 3.2 11B or 90B, 1B or 3B
+
+**簡介**
+
+由Meta開發的多模態AI模型。能夠同時處理文本和圖像輸入，適用於圖像識別、圖像推理等任務。輕量級模型經過優化，可在行動裝置和邊緣設備上高效運行。
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/
+- 🤖 開源連結：https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國

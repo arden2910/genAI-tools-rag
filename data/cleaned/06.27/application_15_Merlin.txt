@@ -1,0 +1,29 @@
+Merlin
+
+**簡介**
+
+將 GPT 的自然語言處理能力整合到網頁瀏覽中，協助使用者在網頁上快速生成文案、回應電子郵件、進行研究、撰寫報告，並回答查詢。
+
+**基本資訊**
+- 🔗 官網：https://www.getmerlin.in/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://www.getmerlin.in/pricing
+
+**特色功能**
+-即時網頁摘要與互動
+-多模型切換
+-支援多種語言的內容生成
+
+**使用模型**
+- OpenAI O1
+- GPT-4/4V
+- DALL-E-3/2
+- Chuchotement
+- GPT-3.5
+- Gemini
+- Claude 2
+- Mistral Large
+- Llama code
+- Leonardo

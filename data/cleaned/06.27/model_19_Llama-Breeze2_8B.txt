@@ -1,0 +1,11 @@
+Llama-Breeze2 8B
+
+**簡介**
+
+由聯發創新基地開發，基於 Llama 3.1 8B 進行微調的繁體中文多模態語言模型，適用於個人電腦等運算平台。該模型不僅強化了繁體中文的理解能力，還具備多模態處理（文字與圖像）及函式呼叫功能，為繁體中文應用提供強大的支持。
+
+**基本資訊**
+- 🔗 官網：https://huggingface.co/collections/MediaTek-Research/breeze-2-family-67863158443a06a72dd29900
+- 🤖 開源連結：https://huggingface.co/MediaTek-Research/Llama-Breeze2-8B-Instruct
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣

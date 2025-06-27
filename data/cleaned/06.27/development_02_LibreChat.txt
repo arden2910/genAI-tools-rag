@@ -1,0 +1,12 @@
+LibreChat
+
+**簡介**
+
+基於大型語言模型的開源聊天機器人平台，能自行選擇 AI 模型，並支持與多種 AI 供應商、服務和整合。
+
+**基本資訊**
+- 🔗 官網：https://www.librechat.ai/
+- 🤖 開源連結：https://github.com/danny-avila/LibreChat
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國、加拿大
+- 💰 計費方式：免費

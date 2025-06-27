@@ -1,0 +1,22 @@
+Chroma
+
+**簡介**
+
+開源的向量資料庫，可在雲端或本地部署。主要特點包含：
+ -輕量級開源資料庫
+ -容易取得和使用：透過 python 套件安裝，即可直接使用。
+ -功能豐富且足夠應付專案：Embedding 儲存、取用、查詢、檢索等。
+ -支援多種服務的模型：OpenAI, Gemini, Ollama 等皆可。
+ -可以透過 LangChain 和 LlamaIndex 來進行使用。
+
+**基本資訊**
+- 🔗 官網：https://www.trychroma.com/
+- 🤖 開源連結：https://github.com/chroma-core/chroma
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+**特色功能**
+- Embedding儲存、查詢、檢索
+- 支援OpenAI, Gemini等模型
+- 可與LangChain和LlamaIndex整合
+- 簡單的Python套件安裝

@@ -1,0 +1,19 @@
+Vigil LLM
+
+**簡介**
+
+一個用於評估大型語言模型(LLM)提示和回應的Python librar及API，主要用於檢測提示注入、越獄。Vigil 的另一大亮點是其靈活性和易用性。無論是對於需要深度整合威脅檢測的企業，還是希望簡單測試安全性的小型團隊，Vigil 都能提供相應的支持。
+
+**基本資訊**
+- 🔗 官網：https://github.com/deadbits/vigil-llm
+- 🤖 開源連結：https://github.com/deadbits/vigil-llm
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費
+
+**特色功能**
+- 支援 YARA 規則與向量資料庫相似度分析
+- 提供 Transformer 模型與提示回應相似度分析
+- 金絲雀令牌檢測提示洩漏
+- 情感分析與相關性評估（透過 LiteLLM）
+- 語意重述功能

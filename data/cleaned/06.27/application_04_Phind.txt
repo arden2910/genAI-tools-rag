@@ -1,0 +1,25 @@
+Phind
+
+**簡介**
+
+為開發者打造的AI搜尋引擎，可針對技術名詞產生相關程式碼，並提供參考資料或透過讀取網頁內容回答開發者技術性問題。Phind 可作為擴充套件安裝於 Visual Studio Code 中，讓開發者在編輯器內直接進行技術查詢。此外，透過 Answer Profile 功能允許使用者根據自身背景和偏好設計回答風格，提升使用體驗。
+
+**基本資訊**
+- 🔗 官網：https://www.phind.com/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 訂閱
+- 📋 價格方案：https://www.phind.com/plans
+
+**特色功能**
+- VSCode擴充整合
+- Answer Profile客製化
+- 程式碼生成
+- 技術文檔搜索
+
+**使用模型**
+- Phind-405B
+- Phind-70B
+- GPT-4
+- Claude 3.5 Sonnet
+- Claude Opus

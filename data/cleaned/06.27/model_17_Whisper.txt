@@ -1,0 +1,13 @@
+Whisper
+
+**簡介**
+
+由 OpenAI 開發的自動語音辨識(ASR)系統。該模型經過 68 萬小時的多語言和多任務監督數據訓練，能夠辨識 57種語言的語音。
+
+**基本資訊**
+- 🔗 官網：https://github.com/openai/whisper
+- 🤖 開源連結：https://huggingface.co/openai/whisper-large-v3-turbo
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：免費, 依使用量
+- 📋 價格方案：https://platform.openai.com/docs/pricing

@@ -1,0 +1,17 @@
+SQLite-VSS
+
+**簡介**
+
+一個 SQLite 的擴充套件，使其支援向量相似性搜尋的功能。它可以用於構建語義搜索引擎、推薦系統以及問答工具。SQLite-VSS 基於 Faiss（Facebook AI 相似性搜尋）技術，支持建立虛擬表來高效存儲和查詢向量數據。它兼容多種向量模型，包括 OpenAI 嵌入 API 和 HuggingFace 模型等。
+
+**基本資訊**
+- 🔗 官網：https://github.com/asg017/sqlite-vss
+- 🤖 開源連結：https://github.com/asg017/sqlite-vss
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+**特色功能**
+- 支援OpenAI嵌入API
+- 支援HuggingFace模型
+- 語義搜索引擎功能
+- 推薦系統支援

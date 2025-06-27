@@ -1,0 +1,24 @@
+HyperWrite
+
+**簡介**
+
+有數百種不同風格類型的AI寫作工具，無論是吸引人的講稿標題或是有說服力的電子郵件，能根據不同需求協助使用者提升寫作品質。
+
+**基本資訊**
+- 🔗 官網：https://www.hyperwriteai.com/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+- 💰 計費方式：訂閱
+- 📋 價格方案：https://www.hyperwriteai.com/pricing
+
+**特色功能**
+-自動補全（TypeAhead）功能
+-自動撰寫（AutoWrite）工具
+-內容重寫與語氣調整
+-摘要生成與簡化說明
+-自訂 AI 人格以模擬寫作風格
+
+**使用模型**
+- GPT-4
+- ChatGPT
+- Llama 3 70B
