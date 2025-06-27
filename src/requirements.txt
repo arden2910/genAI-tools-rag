@@ -1,0 +1,32 @@
+# LangChain 核心套件
+langchain==0.2.0
+langchain-core==0.2.0
+langchain-community==0.2.0
+
+# LangChain 整合套件
+langchain-chroma==0.1.4
+langchain-openai==0.1.0
+langchain-text-splitters==0.2.0
+
+# Chroma 向量資料庫
+chromadb==0.4.22
+
+# Azure OpenAI
+openai==1.12.0
+
+# 環境變數管理
+python-dotenv==1.0.0
+
+# RAGAS 評估套件
+ragas==0.2.0
+datasets>=2.14.0
+
+# YAML 處理
+PyYAML==6.0.1
+
+# NLTK for RAGAS
+nltk==3.8.1
+
+# 其他工具
+tqdm==4.66.1
+uuid==1.30 
