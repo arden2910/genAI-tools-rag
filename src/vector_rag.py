@@ -87,6 +87,61 @@ class Retriever:
             print(f"搜尋時發生錯誤: {e}")
             return []
     
+    def similarity_search_with_metadata(self, 
+                                       query: str, 
+                                       k: int = 5, 
+                                       filter_dict: Optional[Dict] = None) -> Dict:
+        """
+        相似度搜尋並返回詳細的 metadata 資訊
+        
+        Args:
+            query: 查詢文字
+            k: 返回結果數量
+            filter_dict: 過濾條件
+            
+        Returns:
+            包含 documents, metadatas, distances 的字典
+        """
+        try:
+            results = self.vectorstore.similarity_search_with_score(
+                query, k=k, filter=filter_dict
+            )
+            
+            documents = []
+            metadatas = []
+            distances = []
+            
+            for doc, score in results:
+                documents.append(doc.page_content)
+                metadatas.append(doc.metadata)
+                distances.append(score)
+            
+            return {
+                'documents': documents,
+                'metadatas': metadatas,
+                'distances': distances
+            }
+        except Exception as e:
+            print(f"搜尋時發生錯誤: {e}")
+            return {'documents': [], 'metadatas': [], 'distances': []}
+    
+    def get_filenames_from_results(self, results: Dict) -> List[str]:
+        """
+        從搜尋結果中提取 filename 列表
+        
+        Args:
+            results: similarity_search_with_metadata 的結果
+            
+        Returns:
+            filename 列表
+        """
+        filenames = []
+        for metadata in results.get('metadatas', []):
+            filename = metadata.get('filename', '')
+            if filename:
+                filenames.append(filename)
+        return filenames
+    
     def search_by_prefix(self, query: str, prefix: str, k: int = 5) -> List[Tuple[Document, float]]:
         """
         按前綴過濾搜尋
