@@ -29,4 +29,8 @@ nltk==3.8.1
 
 # 其他工具
 tqdm==4.66.1
-uuid==1.30 
+uuid==1.30
+
+# Excel 輸出支援
+pandas==2.1.4
+openpyxl==3.1.2 
