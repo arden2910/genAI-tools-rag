@@ -192,9 +192,19 @@ class RAGEvaluator:
         except Exception as e:
             print(f"儲存結果時發生錯誤: {e}")
 
-    def save_results_to_excel(self, results: Dict, output_file: str = "rag_evaluation_results.xlsx"):
+    def save_results_to_excel(self, results: Dict, output_file: str = None):
         """儲存評估結果到 Excel"""
         try:
+            # 生成檔案名稱
+            if output_file is None:
+                timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+                output_file = f"vector_rag_evaluation_{timestamp}_top20.xlsx"
+            
+            # 確保輸出目錄存在
+            report_dir = Path(r"C:\Users\ardenlo\Dropbox\genAI-tools-rag\report")
+            report_dir.mkdir(exist_ok=True)
+            output_path = report_dir / output_file
+            
             # 準備資料
             excel_data = []
             
@@ -231,9 +241,9 @@ class RAGEvaluator:
             
             # 轉換為 DataFrame 並儲存
             df = pd.DataFrame(excel_data)
-            df.to_excel(output_file, index=False, sheet_name='RAG評估結果')
+            df.to_excel(output_path, index=False, sheet_name='RAG評估結果')
             
-            print(f"\n評估結果已儲存至: {output_file}")
+            print(f"\n評估結果已儲存至: {output_path}")
             
         except Exception as e:
             print(f"儲存 Excel 結果時發生錯誤: {e}")
