@@ -1,6 +1,188 @@
 {
-  "threshold": 0.4,
+  "threshold": 4,
   "questions": [
+    {
+      "question": "小美想找個能幫她改英文作文、給建議的工具",
+      "expected_chunks": [
+        "application_01_📋_工具列表.txt",
+        "application_06_Wordtune.txt",
+        "application_07_HyperWrite.txt",
+        "application_13_Compose_AI.txt",
+        "application_15_Merlin.txt"
+      ]
+    },
+    {
+      "question": "有那些向量資料庫的服務或模型模型",
+      "expected_chunks": [
+        "development_09_LlamaIndex.txt",
+        "development_10_LlamaIndex.TS.txt",
+        "development_11_Chroma.txt",
+        "development_12_Pinecone.txt",
+        "development_13_Redis_Vector_Database.txt",
+        "development_14_PGVector.txt",
+        "development_15_SQLite-VSS.txt",
+        "development_18_LangFlow.txt",
+        "development_36_VMware_Private_AI.txt",
+        "development_40_Vigil_LLM.txt",
+        "model_02_Embed.txt",
+        "model_12_FFM-Embedding.txt"
+      ]
+    },
+    {
+      "question": "有什麼 AI 工具能幫快速修圖？不會修得太假？",
+      "expected_chunks": [
+        "development_42_Stable_Diffusion_Web_UI.txt",
+        "development_43_ComfyUI.txt"
+      ]
+    },
+    {
+      "question": "有哪種 AI 可以幫小芳快速做出好看的簡報？用起來不難？",
+      "expected_chunks": [
+        "application_01_📋_工具列表.txt",
+        "application_02_Gamma.txt"
+      ]
+    },
+    {
+      "question": "我在經營自媒體，每天都要想標題、寫文章，很累。有什麼 AI 可以幫阿志想文案或寫文章？而且不會寫得很像或是有AI感？",
+      "expected_chunks": [
+        "application_01_📋_工具列表.txt",
+        "application_02_Gamma.txt",
+        "application_06_Wordtune.txt",
+        "application_07_HyperWrite.txt",
+        "application_08_Mem.txt",
+        "application_13_Compose_AI.txt",
+        "application_15_Merlin.txt",
+        "application_16_Describely.txt",
+        "application_22_AISKM.txt",
+        "development_01_📋_工具列表.txt",
+        "development_02_LibreChat.txt",
+        "development_03_Jan.txt",
+        "development_05_Haystack.txt",
+        "development_07_Forefront_Chat_AI.txt",
+        "development_08_MediaTek_DaVinci.txt",
+        "development_16_LangChain.txt",
+        "development_20_Ollama.txt",
+        "development_21_FlowiseAI.txt",
+        "development_23_CaiGunn.txt",
+        "development_24_MaiAgent.txt",
+        "development_25_FedGPT.txt",
+        "development_26_SmartLLM.txt",
+        "development_28_Dify.Ai.txt",
+        "development_41_Open_WebUI.txt",
+        "model_01_由Cohere_公司研發的高度可擴展的語言模型家族，具有高效能和強大的準確性。.txt",
+        "model_04_TAIDE-LX-7B.txt",
+        "model_05_Llama_3-TAIDE-LX-8B-Chat-Alpha1.txt",
+        "model_06_Llama-3-Taiwan-8B-Instruct.txt",
+        "model_07_Llama-3-Taiwan-70B.txt",
+        "model_08_Breeze-7B.txt",
+        "model_10_Llama3.1-FFM.txt",
+        "model_11_FFM-Mistral.txt",
+        "model_13_CaiGunn_34B.txt",
+        "model_14_Llama_3.3_70B.txt",
+        "model_16_Llama_3.1_405B.txt",
+        "model_19_Llama-Breeze2_8B.txt",
+        "model_21_Gemma_3_1B,_4B,_12B,_27B.txt"
+      ]
+    },
+    {
+      "question": "哪種 AI工具最適合出國用翻譯,就是出國玩，想把英文或日文菜單、路牌快速翻譯成中文看懂。或是把語音翻譯成中文",
+      "expected_chunks": [
+        "development_07_Forefront_Chat_AI.txt",
+        "model_15_Llama_3.2_11B_or_90B,_1B_or_3B.txt",
+        "model_16_Llama_3.1_405B.txt",
+        "model_17_Whisper.txt",
+        "model_18_Llama-Breeze2_3B.txt",
+        "model_19_Llama-Breeze2_8B.txt",
+        "model_21_Gemma_3_1B,_4B,_12B,_27B.txt"
+      ]
+    },
+    {
+      "question": "我是工廠老板，要檢查產品有沒有瑕疵，但用人眼看很慢也容易漏掉。有什麼 AI 可以幫助檢查產品？需要怎麼訓練？",
+      "expected_chunks": [
+        "model_15_Llama_3.2_11B_or_90B,_1B_or_3B.txt",
+        "model_18_Llama-Breeze2_3B.txt",
+        "model_21_Gemma_3_1B,_4B,_12B,_27B.txt"
+      ]
+    },
+    {
+      "question": "有那些模型可以輸入中文",
+      "expected_chunks": [
+        "application_02_Gamma.txt",
+        "application_03_ElevenLabs.txt",
+        "application_04_Phind.txt",
+        "application_07_HyperWrite.txt",
+        "application_08_Mem.txt",
+        "application_14_Consensus.txt",
+        "application_15_Merlin.txt",
+        "application_18_Speechify.txt",
+        "application_20_Qodo_Merge.txt",
+        "application_21_Vitals_ESP_GenAI.txt",
+        "application_22_AISKM.txt",
+        "application_23_SmartRobot.txt",
+        "application_24_BRONCI.txt",
+        "application_25_Studio.txt",
+        "application_26_STT_Service.txt",
+        "development_03_Jan.txt",
+        "development_06_Forefront.txt",
+        "development_07_Forefront_Chat_AI.txt",
+        "development_08_MediaTek_DaVinci.txt",
+        "development_11_Chroma.txt",
+        "development_15_SQLite-VSS.txt",
+        "development_23_CaiGunn.txt",
+        "development_24_MaiAgent.txt",
+        "development_25_FedGPT.txt",
+        "development_26_SmartLLM.txt",
+        "development_28_Dify.Ai.txt",
+        "development_41_Open_WebUI.txt",
+        "model_04_TAIDE-LX-7B.txt",
+        "model_05_Llama_3-TAIDE-LX-8B-Chat-Alpha1.txt",
+        "model_06_Llama-3-Taiwan-8B-Instruct.txt",
+        "model_07_Llama-3-Taiwan-70B.txt",
+        "model_08_Breeze-7B.txt",
+        "model_09_Breexe-8x7B.txt",
+        "model_10_Llama3.1-FFM.txt",
+        "model_11_FFM-Mistral.txt",
+        "model_12_FFM-Embedding.txt",
+        "model_13_CaiGunn_34B.txt",
+        "model_14_Llama_3.3_70B.txt",
+        "model_16_Llama_3.1_405B.txt",
+        "model_17_Whisper.txt",
+        "model_18_Llama-Breeze2_3B.txt",
+        "model_19_Llama-Breeze2_8B.txt",
+        "model_20_BreezyVoice.txt",
+        "model_21_Gemma_3_1B,_4B,_12B,_27B.txt"
+      ]
+    },
+    {
+      "question": "我需要做一個可電話通話的AI機器人",
+      "expected_chunks": [
+        "application_03_ElevenLabs.txt",
+        "application_23_SmartRobot.txt",
+        "application_24_BRONCI.txt",
+        "application_25_Studio.txt",
+        "application_26_STT_Service.txt",
+        "development_03_Jan.txt",
+        "development_07_Forefront_Chat_AI.txt",
+        "development_08_MediaTek_DaVinci.txt",
+        "development_16_LangChain.txt",
+        "development_19_LangGraph.txt",
+        "development_21_FlowiseAI.txt",
+        "development_24_MaiAgent.txt",
+        "development_25_FedGPT.txt",
+        "development_34_Responsible_Generative_AI_Toolkit.txt",
+        "model_06_Llama-3-Taiwan-8B-Instruct.txt",
+        "model_07_Llama-3-Taiwan-70B.txt",
+        "model_13_CaiGunn_34B.txt",
+        "model_17_Whisper.txt",
+        "model_20_BreezyVoice.txt"
+      ]
+    },
+    {
+      "question": "想找生影片的",
+      "expected_chunks": [
+        "application_05_Synthesia.txt"
+      ]
+    },
     {
       "question": "有哪些語音生成工具？",
       "expected_chunks": [
@@ -24,11 +206,7 @@
         "development_43_ComfyUI.txt",
         "application_01_📋_工具列表.txt",
         "application_02_Gamma.txt",
-        "application_15_Merlin.txt",
-        "development_22_波特人_BOTRUN.txt",
-        "application_05_Synthesia.txt",
-        "model_15_Llama_3.2_11B_or_90B,_1B_or_3B.txt",
-        "model_18_Llama-Breeze2_3B.txt"
+        "development_22_波特人_BOTRUN.txt"
       ]
     }
   ]
