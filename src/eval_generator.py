@@ -11,6 +11,8 @@ import json
 from pathlib import Path
 from typing import List, Dict, Any, Optional, Tuple
 from dotenv import load_dotenv
+import pandas as pd
+from datetime import datetime
 
 # LangChain imports
 from langchain_core.documents import Document
@@ -31,6 +33,7 @@ class EvalGenerator:
                  data_dir: str = r"C:\Users\ardenlo\Dropbox\genAI-tools-rag\data\cleaned",
                  chroma_dir: str = r"C:\Users\ardenlo\Dropbox\genAI-tools-rag\chroma_db",
                  eval_dir: str = r"C:\Users\ardenlo\Dropbox\genAI-tools-rag\eval",
+                 report_dir: str = r"C:\Users\ardenlo\Dropbox\genAI-tools-rag\report",
                  collection_name: str = "genai_tools"):
         """
         初始化驗證生成器
@@ -39,15 +42,18 @@ class EvalGenerator:
             data_dir: 資料來源目錄
             chroma_dir: Chroma 資料庫目錄
             eval_dir: 評估結果目錄
+            report_dir: 報告目錄
             collection_name: Chroma 集合名稱
         """
         self.data_dir = Path(data_dir)
         self.chroma_dir = Path(chroma_dir)
         self.eval_dir = Path(eval_dir)
+        self.report_dir = Path(report_dir)
         self.collection_name = collection_name
         
-        # 確保評估目錄存在
+        # 確保評估目錄和報告目錄存在
         self.eval_dir.mkdir(parents=True, exist_ok=True)
+        self.report_dir.mkdir(parents=True, exist_ok=True)
         
         # 初始化 Azure OpenAI 配置
         self.azure_configs = {
@@ -62,6 +68,9 @@ class EvalGenerator:
         self._init_models()
         self._init_vectorstore()
         self._init_evaluation_chain()
+        
+        # 初始化 Excel 記錄列表
+        self.excel_records = []
     
     def _init_models(self):
         """初始化模型"""
@@ -111,9 +120,29 @@ class EvalGenerator:
 
 內容片段：{content}
 
+1. 問題折解
+請先將「問題」拆解成一個或多個更細的子問題、需求或核心元素，以捕捉問題的重點。例如：
+問題：「我需要做一個可電話通話的 AI 機器人」
+折解成：
+「有哪些 ASR（語音辨識）服務可用？」
+「有哪些 TTS（語音合成）服務可用？」
+「如何將 ASR、LLM、TTS 串成電話通話流程？」
+
+2. 進行相關性評估
+逐一檢視 chunk 是否有回應到上述折解後的子問題或重點。
+給出 1–10 的整數分數。
+說明你為什麼這樣評分。
+
+
+
 請以 JSON 格式回應，結構如下：
 {{
     "relevance": {{
+        "question_breakdown": [
+            "折解後子問題或重點1",
+            "折解後子問題或重點2",
+            "... (可多筆)"
+        ],
         "reason": "評估理由",
         "score": 分數
     }}
@@ -163,7 +192,7 @@ class EvalGenerator:
             
         except Exception as e:
             print(f"批次評估時發生錯誤: {e}")
-            return [{"relevance": {"reason": "評估失敗", "score": 1}}] * len(questions)
+            return [{"relevance": {"question_breakdown": [], "reason": "評估失敗", "score": 1}}] * len(questions)
     
     def load_questions_from_json(self, json_file: str) -> Tuple[List[Dict[str, Any]], float]:
         """
@@ -192,7 +221,36 @@ class EvalGenerator:
             print(f"載入 JSON 檔案時發生錯誤: {e}")
             return [], 0.4
     
-    def process_questions(self, json_file: str, output_file: str = None):
+    def save_excel_report(self, name: str = "eval_report"):
+        """
+        儲存 Excel 報告
+        
+        Args:
+            name: 報告名稱
+        """
+        if not self.excel_records:
+            print("沒有記錄可儲存")
+            return
+        
+        # 建立 DataFrame
+        df = pd.DataFrame(self.excel_records)
+        
+        # 生成檔案名稱
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"{timestamp}_{name}.xlsx"
+        filepath = self.report_dir / filename
+        
+        try:
+            # 儲存到 Excel
+            with pd.ExcelWriter(filepath, engine='openpyxl') as writer:
+                df.to_excel(writer, sheet_name='評估結果', index=False)
+            
+            print(f"Excel 報告已儲存: {filepath}")
+            print(f"總共記錄了 {len(self.excel_records)} 筆評估結果")
+        except Exception as e:
+            print(f"儲存 Excel 報告時發生錯誤: {e}")
+    
+    def process_questions(self, json_file: str, output_file: Optional[str] = None):
         """
         處理問題集，生成驗證結果
         
@@ -200,6 +258,9 @@ class EvalGenerator:
             json_file: 輸入 JSON 檔案
             output_file: 輸出 JSON 檔案
         """
+        # 清空之前的記錄
+        self.excel_records = []
+        
         # 載入問題
         questions, threshold = self.load_questions_from_json(json_file)
         if not questions:
@@ -247,13 +308,27 @@ class EvalGenerator:
                 print(f"  開始批次評估相關性...")
                 evaluation_results = self.batch_evaluate_relevance(batch_questions, batch_contents)
                 
-                # 找出相關文件
+                # 找出相關文件並記錄到 Excel
                 relevant_files = []
                 for i, (file_path, result) in enumerate(zip(file_paths, evaluation_results)):
                     try:
                         score = result.get('relevance', {}).get('score', 1)
+                        file_id = file_path.name
+                        
+                        # 記錄到 Excel 列表
+                        question_breakdown = result.get('relevance', {}).get('question_breakdown', [])
+                        breakdown_text = '; '.join(question_breakdown) if question_breakdown else ''
+                        
+                        self.excel_records.append({
+                            '是否高於threshold': '是' if score >= threshold else '否',
+                            '問題': question,
+                            '文件名': file_id,
+                            '分數': score,
+                            '問題拆解': breakdown_text,
+                            '評估理由': result.get('relevance', {}).get('reason', '')
+                        })
+                        
                         if score >= threshold:
-                            file_id = file_path.name
                             relevant_files.append({
                                 'id': file_id,
                                 'score': score,
@@ -264,9 +339,7 @@ class EvalGenerator:
                     except Exception as e:
                         print(f"    處理評估結果時發生錯誤: {e}")
                 
-                # 按分數排序，取前10個
-                relevant_files.sort(key=lambda x: x['score'], reverse=True)
-                relevant_files = relevant_files[:10]
+
                 
                 # 更新 expected_chunks
                 expected_chunks = [f['id'] for f in relevant_files]
@@ -281,6 +354,9 @@ class EvalGenerator:
             
             # 每處理完一個問題就儲存一次
             self._save_yaml(json_file, updated_questions, questions, threshold)
+        
+        # 儲存 Excel 報告
+        self.save_excel_report("eval_generator")
         
         print("所有問題處理完成！")
     
@@ -359,6 +435,7 @@ def main():
             print(f"選擇處理: {selected_file}")
             
             # 處理問題集
+            
             generator.process_questions(selected_file)
         else:
             print("無效的選擇")
